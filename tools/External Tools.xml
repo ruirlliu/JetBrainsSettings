@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="反汇编" description="javap.exe 反汇编" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Programs\Java\jdk1.8.0_251\bin\javap.exe" />
+      <option name="PARAMETERS" value="-c -p $FileNameWithoutExtension$.class" />
+      <option name="WORKING_DIRECTORY" value="$OutputPath$/$FileDirRelativeToSourcepath$" />
+    </exec>
+  </tool>
+</toolSet>

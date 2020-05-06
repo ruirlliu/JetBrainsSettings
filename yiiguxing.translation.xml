@@ -1,0 +1,77 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Reentrant" />
+      <item value="Utility" />
+      <item value="Dummy" />
+      <item value="jumbo" />
+      <item value="underscore" />
+      <item value="cyan" />
+      <item value="Feign" />
+      <item value="power of two" />
+      <item value="raw" />
+      <item value="lexical" />
+      <item value="Append" />
+      <item value="attempt" />
+      <item value="licese" />
+      <item value="expirated" />
+      <item value="introspected Class" />
+      <item value="assignable" />
+      <item value="eligible" />
+      <item value="serializer" />
+      <item value="Captcha" />
+      <item value="Stereotype" />
+      <item value="capitalization" />
+      <item value="retrieve" />
+      <item value="potentially" />
+      <item value="security" />
+      <item value="retention" />
+      <item value="Configuration for a Spring Security OAuth2 authorization server. Back off if another * {@link AuthorizationServerConfigurer} already exists or if authorization server is not * enabled." />
+      <item value="在……之下" />
+      <item value="beneath" />
+      <item value="Trims the capacity of this &lt;tt&gt;ArrayList&lt;/tt&gt; instance to be the * list's current size. An application can use this operation to minimize * the storage of an &lt;tt&gt;ArrayList&lt;/tt&gt; instance." />
+      <item value="leaks" />
+      <item value="Composite" />
+      <item value="implicit" />
+      <item value="Along with" />
+      <item value="Indicates one or more {@link Configuration @Configuration} classes to import. * * &lt;p&gt;Provides functionality equivalent to the {@code &lt;import/&gt;} element in Spring XML. * Allows for importing {@code @Configuration} classes, {@link ImportSelector} and * {@link ImportBeanDefinitionRegistrar} implementations, as well as regular component * classes (as of 4.2; analogous to {@link AnnotationConfigApplicationContext#register}). * * &lt;p&gt;{@code @Bean} definitions declared in imported {@code @Configuration} classes should be * accessed by using {@link org.springframework.beans.factory.annotation.Autowired @Autowired} * injection. Either the bean itself can be autowired, or the configuration class instance * declaring the bean can be autowired. The latter approach allows for explicit, IDE-friendly * navigation between {@code @Configuration} class methods. * * &lt;p&gt;May be declared at the class level or as a meta-annotation. * * &lt;p&gt;If XML or other non-{@code @Configuration} bean definition resources need to be * imported, use the {@link ImportResource @ImportResource} annotation instead. *" />
+      <item value="harvested" />
+      <item value="but it is used by the {@code spring-boot-configuration-processor} as a hint * that a field is not bound as a single value. When this is specified, a nested group is * created for the field and its type is harvested. * &lt;p&gt;" />
+      <item value="hint" />
+      <item value="nested" />
+      <item value="This has no effect on collections and maps as these types are automatically identified." />
+      <item value="Indicates that a field in a {@link ConfigurationProperties} object should be treated as * if it were a nested type. This annotation has no bearing on the actual binding * processes, but it is used by the {@code spring-boot-configuration-processor} as a hint * that a field is not bound as a single value. When this is specified, a nested group is * created for the field and its type is harvested. * &lt;p&gt; * This has no effect on collections and maps as these types are automatically identified." />
+      <item value="&lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; As of 5.0, the non-blocking, reactive * {@code org.springframework.web.reactive.client.WebClient} offers a * modern alternative to the {@code RestTemplate} with efficient support for * both sync and async, as well as streaming scenarios. The {@code RestTemplate} * will be deprecated in a future version and will not have major new features * added going forward. See the WebClient section of the Spring Framework reference * documentation for more details and example code. *" />
+      <item value="scenarios" />
+      <item value="Synchronous client to perform HTTP requests, exposing a simple, template * method API over underlying HTTP client libraries such as the JDK * {@code HttpURLConnection}, Apache HttpComponents, and others." />
+      <item value="underlying" />
+      <item value="Synchronous" />
+      <item value="Conditional On Missing Bean" />
+      <item value="additional" />
+      <item value="Indicates that an annotated class is a &quot;component&quot;. * Such classes are considered as candidates for auto-detection * when using annotation-based configuration and classpath scanning. * * &lt;p&gt;Other class-level annotations may be considered as identifying * a component as well, typically a special kind of component: * e.g. the {@link Repository @Repository} annotation or AspectJ's * {@link org.aspectj.lang.annotation.Aspect @Aspect} annotation." />
+      <item value="Configure the security of the Authorization Server, which means in practical terms the /oauth/token endpoint. The * /oauth/authorize endpoint also needs to be secure, but that is a normal user-facing endpoint and should be * secured the same way as the rest of your UI, so is not covered here. The default settings cover the most common * requirements, following recommendations from the OAuth2 spec, so you don't need to do anything here to get a * basic server up and running." />
+      <item value="Configure the {@link ClientDetailsService}, e.g. declaring individual clients and their properties. Note that * password grant is not enabled (even if some clients are allowed it) unless an {@link AuthenticationManager} is * supplied to the {@link #configure(AuthorizationServerEndpointsConfigurer)}. At least one client, or a fully * formed custom {@link ClientDetailsService} must be declared or the server will not start." />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="390" />
+        <entry key="ENGLISH" value="386" />
+        <entry key="GERMAN" value="3" />
+        <entry key="FRENCH" value="2" />
+        <entry key="FILIPINO" value="1" />
+        <entry key="PORTUGUESE" value="1" />
+        <entry key="SPANISH" value="1" />
+        <entry key="ITALIAN" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+    <option name="translator" value="ai.youdao" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="214c2df8ff58c021" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>
