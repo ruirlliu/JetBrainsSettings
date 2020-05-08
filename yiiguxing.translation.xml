@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="detail Message" />
       <item value="Reentrant" />
       <item value="Utility" />
       <item value="Dummy" />
@@ -50,12 +51,11 @@
       <item value="additional" />
       <item value="Indicates that an annotated class is a &quot;component&quot;. * Such classes are considered as candidates for auto-detection * when using annotation-based configuration and classpath scanning. * * &lt;p&gt;Other class-level annotations may be considered as identifying * a component as well, typically a special kind of component: * e.g. the {@link Repository @Repository} annotation or AspectJ's * {@link org.aspectj.lang.annotation.Aspect @Aspect} annotation." />
       <item value="Configure the security of the Authorization Server, which means in practical terms the /oauth/token endpoint. The * /oauth/authorize endpoint also needs to be secure, but that is a normal user-facing endpoint and should be * secured the same way as the rest of your UI, so is not covered here. The default settings cover the most common * requirements, following recommendations from the OAuth2 spec, so you don't need to do anything here to get a * basic server up and running." />
-      <item value="Configure the {@link ClientDetailsService}, e.g. declaring individual clients and their properties. Note that * password grant is not enabled (even if some clients are allowed it) unless an {@link AuthenticationManager} is * supplied to the {@link #configure(AuthorizationServerEndpointsConfigurer)}. At least one client, or a fully * formed custom {@link ClientDetailsService} must be declared or the server will not start." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="390" />
-        <entry key="ENGLISH" value="386" />
+        <entry key="ENGLISH" value="387" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="1" />
@@ -67,7 +67,6 @@
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
-    <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="214c2df8ff58c021" />
