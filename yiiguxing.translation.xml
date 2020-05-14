@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="implied" />
+      <item value="omitted" />
       <item value="against" />
       <item value="detail Message" />
       <item value="Reentrant" />
@@ -49,13 +51,11 @@
       <item value="underlying" />
       <item value="Synchronous" />
       <item value="Conditional On Missing Bean" />
-      <item value="additional" />
-      <item value="Indicates that an annotated class is a &quot;component&quot;. * Such classes are considered as candidates for auto-detection * when using annotation-based configuration and classpath scanning. * * &lt;p&gt;Other class-level annotations may be considered as identifying * a component as well, typically a special kind of component: * e.g. the {@link Repository @Repository} annotation or AspectJ's * {@link org.aspectj.lang.annotation.Aspect @Aspect} annotation." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="390" />
-        <entry key="ENGLISH" value="388" />
+        <entry key="ENGLISH" value="390" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="1" />
