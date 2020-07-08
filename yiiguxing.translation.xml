@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Recursive" />
       <item value="current Time Millis" />
       <item value="Re Cursive" />
       <item value="Re Crusive" />
@@ -50,12 +51,11 @@
       <item value="serializer" />
       <item value="Captcha" />
       <item value="Stereotype" />
-      <item value="capitalization" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="417" />
-        <entry key="ENGLISH" value="418" />
+        <entry key="CHINESE" value="418" />
+        <entry key="ENGLISH" value="419" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="1" />
