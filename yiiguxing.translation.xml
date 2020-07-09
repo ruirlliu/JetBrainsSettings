@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fuzzy" />
       <item value="pow" />
       <item value="Recursive" />
       <item value="current Time Millis" />
@@ -19,7 +20,6 @@
       <item value="scanned" />
       <item value="total Count" />
       <item value="a negative integer, zero, or a positive integer as this object * is less than, equal to, or greater than the specified object." />
-      <item value="fuzzy" />
       <item value="physical Deployment" />
       <item value="synchronized" />
       <item value="decode" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="419" />
-        <entry key="ENGLISH" value="419" />
+        <entry key="ENGLISH" value="420" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="2" />
