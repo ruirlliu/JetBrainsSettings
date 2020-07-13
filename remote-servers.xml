@@ -1,9 +1,9 @@
 <application>
   <component name="RemoteServers">
-    <remote-server name="Docker" type="docker">
+    <remote-server name="BOC3.0-CI" type="docker">
       <configuration>
-        <option name="apiUrl" value="http://192.168.2.102:2376" />
-        <option name="certificatesPath" value="F:\docker\certs" />
+        <option name="apiUrl" value="https://192.168.2.108:2376" />
+        <option name="certificatesPath" value="C:\docker\certs" />
       </configuration>
     </remote-server>
   </component>
