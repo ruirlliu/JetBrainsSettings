@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MILLISECONDS" />
       <item value="experimental" />
       <item value="public" />
       <item value="This method works as if invoking it were equivalent to evaluating the * expression:" />
@@ -50,12 +51,11 @@
       <item value="related" />
       <item value="Retention" />
       <item value="Instantiation" />
-      <item value="implied" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="443" />
-        <entry key="ENGLISH" value="444" />
+        <entry key="CHINESE" value="444" />
+        <entry key="ENGLISH" value="445" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="2" />
