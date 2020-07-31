@@ -5,4 +5,15 @@
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="chain.hints" />
+    <settingsMapElement>
+      <JAVA.JavaLens>
+        <JavaLensSettings>
+          <option name="showImplementations" value="true" />
+          <option name="showUsages" value="true" />
+        </JavaLensSettings>
+      </JAVA.JavaLens>
+    </settingsMapElement>
+  </component>
 </application>
