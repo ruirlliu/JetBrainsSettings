@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Descending Set" />
+      <item value="Cartesian Set" />
+      <item value="Cartesian" />
       <item value="symmetric" />
       <item value="Returns a power of two size for the given target capacity." />
       <item value="threshold" />
@@ -48,14 +51,11 @@
       <item value="Recursive" />
       <item value="current Time Millis" />
       <item value="Re Cursive" />
-      <item value="Re Crusive" />
-      <item value="recycle" />
-      <item value="encrypt" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="468" />
-        <entry key="ENGLISH" value="469" />
+        <entry key="CHINESE" value="473" />
+        <entry key="ENGLISH" value="474" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="2" />
