@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="inclusive" />
       <item value="deploy Quota Number" />
       <item value="emitted" />
       <item value="elapsed" />
@@ -50,12 +51,11 @@
       <item value="Vulnerability" />
       <item value="SLASH" />
       <item value="Any program that relies on asynchronous * task processing to complete before program termination should * invoke {@code commonPool().}{@link #awaitQuiescence awaitQuiescence}, * before exit." />
-      <item value="unaffected" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="483" />
-        <entry key="ENGLISH" value="484" />
+        <entry key="CHINESE" value="484" />
+        <entry key="ENGLISH" value="485" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="2" />
