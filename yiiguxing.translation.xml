@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="compatibility" />
+      <item value="segments" />
+      <item value="intrinsics" />
+      <item value="The table is lazily initialized to a power-of-two size upon the * first insertion. Each bin in the table normally contains a * list of Nodes (most often, the list has only zero or one Node). * Table accesses require volatile/atomic reads, writes, and * CASes. Because there is no other way to arrange this without * adding further indirections, we use intrinsics * (sun.misc.Unsafe) operations." />
+      <item value="This map usually acts as a binned (bucketed) hash table. Each * key-value mapping is held in a Node. Most nodes are instances * of the basic Node class with hash, key, value, and next * fields. However, various subclasses exist: TreeNodes are * arranged in balanced trees, not lists. TreeBins hold the roots * of sets of TreeNodes. ForwardingNodes are placed at the heads * of bins during resizing. ReservationNodes are used as * placeholders while establishing values in computeIfAbsent and * related methods. The types TreeBin, ForwardingNode, and * ReservationNode do not hold normal user keys, values, or * hashes, and are readily distinguishable during search etc * because they have negative hash fields and null key and value * fields. (These special nodes are either uncommon or transient, * so the impact of carrying around some unused fields is * insignificant.)" />
+      <item value="The primary design goal of this hash table is to maintain * concurrent readability (typically method get(), but also * iterators and related methods) while minimizing update * contention. Secondary goals are to keep space consumption about * the same or better than java.util.HashMap, and to support high * initial insertion rates on an empty table by many threads." />
+      <item value="maintain" />
       <item value="primitive" />
       <item value="appropriate" />
       <item value="discussion" />
@@ -44,18 +51,11 @@
       <item value="Descending Set" />
       <item value="Cartesian Set" />
       <item value="Cartesian" />
-      <item value="symmetric" />
-      <item value="Returns a power of two size for the given target capacity." />
-      <item value="threshold" />
-      <item value="sequential" />
-      <item value="blockquote" />
-      <item value="minus" />
-      <item value="MILLISECONDS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="515" />
-        <entry key="ENGLISH" value="516" />
+        <entry key="CHINESE" value="522" />
+        <entry key="ENGLISH" value="523" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="2" />
