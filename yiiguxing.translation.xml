@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="provider" />
+      <item value="invoker" />
       <item value="Glue" />
       <item value="Disposable" />
       <item value="XO Rs" />
@@ -49,13 +51,11 @@
       <item value="elapsed" />
       <item value="fluent" />
       <item value="idempotent" />
-      <item value="legacy support" />
-      <item value="legacy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="528" />
-        <entry key="ENGLISH" value="529" />
+        <entry key="CHINESE" value="529" />
+        <entry key="ENGLISH" value="530" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="3" />
         <entry key="FRENCH" value="2" />
@@ -63,6 +63,7 @@
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="1" />
+        <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
   </component>
