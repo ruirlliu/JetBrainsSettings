@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Roland Schemers" />
+      <item value="author" />
+      <item value="interoperability" />
       <item value="protected" />
       <item value="accept" />
       <item value="public" />
@@ -48,14 +51,11 @@
       <item value="Stripped-down version of helper class used in previous version, * declared for the sake of serialization compatibility" />
       <item value="Stripped-down" />
       <item value="Inflater" />
-      <item value="compatibility" />
-      <item value="segments" />
-      <item value="intrinsics" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="580" />
-        <entry key="ENGLISH" value="581" />
+        <entry key="CHINESE" value="584" />
+        <entry key="ENGLISH" value="585" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="2" />
