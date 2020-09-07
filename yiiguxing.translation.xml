@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="accept" />
       <item value="public" />
       <item value="copy Of" />
       <item value="new Length" />
@@ -50,12 +51,11 @@
       <item value="segments" />
       <item value="intrinsics" />
       <item value="The table is lazily initialized to a power-of-two size upon the * first insertion. Each bin in the table normally contains a * list of Nodes (most often, the list has only zero or one Node). * Table accesses require volatile/atomic reads, writes, and * CASes. Because there is no other way to arrange this without * adding further indirections, we use intrinsics * (sun.misc.Unsafe) operations." />
-      <item value="This map usually acts as a binned (bucketed) hash table. Each * key-value mapping is held in a Node. Most nodes are instances * of the basic Node class with hash, key, value, and next * fields. However, various subclasses exist: TreeNodes are * arranged in balanced trees, not lists. TreeBins hold the roots * of sets of TreeNodes. ForwardingNodes are placed at the heads * of bins during resizing. ReservationNodes are used as * placeholders while establishing values in computeIfAbsent and * related methods. The types TreeBin, ForwardingNode, and * ReservationNode do not hold normal user keys, values, or * hashes, and are readily distinguishable during search etc * because they have negative hash fields and null key and value * fields. (These special nodes are either uncommon or transient, * so the impact of carrying around some unused fields is * insignificant.)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="578" />
-        <entry key="ENGLISH" value="579" />
+        <entry key="CHINESE" value="579" />
+        <entry key="ENGLISH" value="580" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="2" />
