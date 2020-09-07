@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="protected" />
       <item value="accept" />
       <item value="public" />
       <item value="copy Of" />
@@ -50,12 +51,11 @@
       <item value="compatibility" />
       <item value="segments" />
       <item value="intrinsics" />
-      <item value="The table is lazily initialized to a power-of-two size upon the * first insertion. Each bin in the table normally contains a * list of Nodes (most often, the list has only zero or one Node). * Table accesses require volatile/atomic reads, writes, and * CASes. Because there is no other way to arrange this without * adding further indirections, we use intrinsics * (sun.misc.Unsafe) operations." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="579" />
-        <entry key="ENGLISH" value="580" />
+        <entry key="CHINESE" value="580" />
+        <entry key="ENGLISH" value="581" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="2" />
