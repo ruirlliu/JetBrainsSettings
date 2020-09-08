@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="boot" />
+      <item value="plus" />
+      <item value="mybatis" />
+      <item value="spring" />
+      <item value="framework" />
+      <item value="cloud" />
+      <item value="springframework" />
+      <item value="apache" />
+      <item value="Path" />
+      <item value="Files" />
+      <item value="Output Stream" />
+      <item value="Input Stream" />
+      <item value="IO Exception" />
       <item value="Bocloud Task Config" />
       <item value="unresolved" />
       <item value="conjunction" />
@@ -38,28 +51,16 @@
       <item value="Snapshot" />
       <item value="incrementing" />
       <item value="Defines a collection that counts the number of times an object appears in * the collection." />
-      <item value="Roland Schemers" />
-      <item value="author" />
-      <item value="interoperability" />
-      <item value="protected" />
-      <item value="accept" />
-      <item value="public" />
-      <item value="copy Of" />
-      <item value="new Length" />
-      <item value="minimum" />
-      <item value="capacity" />
-      <item value="ensure" />
-      <item value="Collection" />
-      <item value="Null Pointer Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="625" />
-        <entry key="ENGLISH" value="623" />
+        <entry key="CHINESE" value="642" />
+        <entry key="ENGLISH" value="638" />
         <entry key="POLISH" value="1" />
-        <entry key="GERMAN" value="4" />
+        <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="2" />
         <entry key="FILIPINO" value="1" />
+        <entry key="CZECH" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="1" />
