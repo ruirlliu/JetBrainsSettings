@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="env Ids" />
+      <item value="List" />
+      <item value="Integer" />
+      <item value="env Id" />
       <item value="warehouse Service" />
       <item value="image Catalog Service" />
       <item value="image Download" />
@@ -15,7 +19,6 @@
       <item value="for" />
       <item value="if" />
       <item value="warehouse" />
-      <item value="env Id" />
       <item value="of" />
       <item value="Immutable List" />
       <item value="Warehouse Model" />
@@ -48,14 +51,11 @@
       <item value="Mutable Int" />
       <item value="Mutable" />
       <item value="Back Cron Task" />
-      <item value="name" />
-      <item value="reserved" />
-      <item value="rights" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="671" />
-        <entry key="ENGLISH" value="666" />
+        <entry key="CHINESE" value="675" />
+        <entry key="ENGLISH" value="670" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="2" />
