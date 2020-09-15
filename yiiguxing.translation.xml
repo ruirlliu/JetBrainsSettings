@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="synchronized" />
+      <item value="doubly" />
+      <item value="access" />
+      <item value="access Order" />
       <item value="threshold" />
       <item value="only If Absent" />
       <item value="put Map Entries" />
@@ -47,15 +51,11 @@
       <item value="image Catalog Service" />
       <item value="image Download" />
       <item value="提供配置实时刷新" />
-      <item value="springframework" />
-      <item value="hostname" />
-      <item value="maximum" />
-      <item value="hikari" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="719" />
-        <entry key="ENGLISH" value="712" />
+        <entry key="CHINESE" value="723" />
+        <entry key="ENGLISH" value="716" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="2" />
