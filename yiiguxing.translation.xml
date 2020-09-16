@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="by" />
+      <item value="this" />
+      <item value="type" />
+      <item value="milliseconds" />
+      <item value="minus" />
       <item value="Mono" />
       <item value="Flux" />
       <item value="Memory consistency effects: As with other concurrent * collections, actions in a thread prior to placing an object into a * {@code ConcurrentMap} as a key or value" />
@@ -46,16 +51,11 @@
       <item value="private" />
       <item value="long" />
       <item value="final" />
-      <item value="static" />
-      <item value="Arthur van Hoff" />
-      <item value="Doug Lea" />
-      <item value="Josh Bloch" />
-      <item value="occurrence" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="746" />
-        <entry key="ENGLISH" value="737" />
+        <entry key="CHINESE" value="752" />
+        <entry key="ENGLISH" value="743" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
