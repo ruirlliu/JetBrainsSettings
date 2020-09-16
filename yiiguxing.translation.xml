@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="extends" />
+      <item value="Node" />
+      <item value="Tree Bin" />
       <item value="semantics" />
       <item value="describe Constable" />
       <item value="string with indentation adjusted and line endings normalized" />
@@ -29,7 +32,6 @@
       <item value="mechanics" />
       <item value="Table initialization and resizing control. When negative, the * table is being initialized or resized: -1 for initialization, * else -(1 + the number of active resizing threads). Otherwise, * when table is null, holds the initial table size to use upon * creation, or 0 for default. After initialization, holds the * next element count value upon which to resize the table." />
       <item value="initialization" />
-      <item value="Node" />
       <item value="Suppress Warnings" />
       <item value="by" />
       <item value="this" />
@@ -49,13 +51,11 @@
       <item value="utilities" />
       <item value="internal" />
       <item value="youngest" />
-      <item value="tail" />
-      <item value="remove Eldest Entry" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="787" />
-        <entry key="ENGLISH" value="778" />
+        <entry key="CHINESE" value="793" />
+        <entry key="ENGLISH" value="784" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
