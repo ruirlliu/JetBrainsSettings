@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="typically" />
       <item value="exit" />
       <item value="method" />
       <item value="extends" />
@@ -50,12 +51,11 @@
       <item value="eldest" />
       <item value="remove" />
       <item value="possibly" />
-      <item value="utilities" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="795" />
-        <entry key="ENGLISH" value="786" />
+        <entry key="CHINESE" value="796" />
+        <entry key="ENGLISH" value="787" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
