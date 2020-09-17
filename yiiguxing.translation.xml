@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Tests if some Thread has been interrupted. The interrupted state * is reset or not based on the value of ClearInterrupted that is * passed." />
+      <item value="Removes and signals all waiting threads, invokes done(), and * nulls out callable." />
+      <item value="The run state of this task, initially NEW. The run state * transitions to a terminal state only in methods set, * setException, and cancel. During completion, state may take on * transient values of COMPLETING (while outcome is being set) or * INTERRUPTING (only while interrupting the runner to satisfy a * cancel(true)). Transitions from these intermediate to final * states use cheaper ordered/lazy writes because values are unique * and cannot be further modified." />
+      <item value="state" />
+      <item value="queue" />
+      <item value="INTERRUPTED" />
+      <item value="INTERRUPTING" />
+      <item value="CANCELLED" />
+      <item value="EXCEPTIONAL" />
+      <item value="NORMAL" />
+      <item value="COMPLETING" />
       <item value="typically" />
       <item value="exit" />
       <item value="method" />
@@ -40,22 +51,11 @@
       <item value="this" />
       <item value="type" />
       <item value="milliseconds" />
-      <item value="minus" />
-      <item value="Mono" />
-      <item value="Flux" />
-      <item value="Memory consistency effects: As with other concurrent * collections, actions in a thread prior to placing an object into a * {@code ConcurrentMap} as a key or value" />
-      <item value="effects" />
-      <item value="consistency" />
-      <item value="atomicity" />
-      <item value="slot" />
-      <item value="eldest" />
-      <item value="remove" />
-      <item value="possibly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="796" />
-        <entry key="ENGLISH" value="787" />
+        <entry key="CHINESE" value="807" />
+        <entry key="ENGLISH" value="798" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
