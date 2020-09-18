@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Thread state for a thread blocked waiting for a monitor lock. * A thread in the blocked state is waiting for a monitor lock * to enter a synchronized block/method or * reenter a synchronized block/method after calling * {@link Object#wait() Object.wait}." />
+      <item value="Thread state for a thread which has not yet started." />
+      <item value="State" />
+      <item value="enum" />
+      <item value="A thread can be in only one state at a given point in time. * These states are virtual machine states which do not reflect * any operating system thread states." />
+      <item value="A thread state. A thread can be in one of the following states: * &lt;ul&gt; * &lt;li&gt;{@link #NEW}&lt;br&gt; * A thread that has not yet started is in this state. * &lt;/li&gt; * &lt;li&gt;{@link #RUNNABLE}&lt;br&gt; * A thread executing in the Java virtual machine is in this state. * &lt;/li&gt; * &lt;li&gt;{@link #BLOCKED}&lt;br&gt; * A thread that is blocked waiting for a monitor lock * is in this state. * &lt;/li&gt; * &lt;li&gt;{@link #WAITING}&lt;br&gt; * A thread that is waiting indefinitely for another thread to * perform a particular action is in this state. * &lt;/li&gt; * &lt;li&gt;{@link #TIMED_WAITING}&lt;br&gt; * A thread that is waiting for another thread to perform an action * for up to a specified waiting time is in this state. * &lt;/li&gt; * &lt;li&gt;{@link #TERMINATED}&lt;br&gt; * A thread that has exited is in this state. * &lt;/li&gt; * &lt;/ul&gt;" />
+      <item value="Throwable" />
+      <item value="ignore" />
       <item value="appropriate" />
       <item value="&lt;p&gt; It is rarely appropriate to use this method. It may be useful * for debugging or testing purposes, where it may help to reproduce * bugs due to race conditions. It may also be useful when designing * concurrency control constructs such as the ones in the * {@link java.util.concurrent.locks} package." />
       <item value="Yield is a heuristic attempt to improve relative progression * between threads that would otherwise over-utilise a CPU. Its use * should be combined with detailed profiling and benchmarking to * ensure that it actually has the desired effect." />
@@ -43,19 +51,11 @@
       <item value="immutable" />
       <item value="mutable" />
       <item value="constant" />
-      <item value="The {@code String} class represents character strings. All * string literals in Java programs, such as {@code &quot;abc&quot;}, are * implemented as instances of this class. * &lt;p&gt;" />
-      <item value="string" />
-      <item value="literals" />
-      <item value="bulk" />
-      <item value="Hot Spot" />
-      <item value="Candidate" />
-      <item value="Intrinsic" />
-      <item value="mechanics" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="814" />
-        <entry key="ENGLISH" value="805" />
+        <entry key="CHINESE" value="822" />
+        <entry key="ENGLISH" value="813" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
