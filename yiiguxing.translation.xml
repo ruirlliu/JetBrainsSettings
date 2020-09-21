@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="validating" />
       <item value="containers" />
       <item value="Daemon" />
       <item value="synchronized" />
@@ -50,12 +51,11 @@
       <item value="The class {@code String} includes methods for examining * individual characters of the sequence, for comparing strings, for * searching strings, for extracting substrings, and for creating a * copy of a string with all characters translated to uppercase or to * lowercase. Case mapping is based on the Unicode Standard version * specified by the {@link java.lang.Character Character} class. * &lt;p&gt;" />
       <item value="&lt;p&gt; * The class {@code String} includes methods for examining * individual characters of the sequence, for comparing strings, for * searching strings, for extracting substrings, and for creating a * copy of a string with all characters translated to uppercase or to * lowercase. Case mapping is based on the Unicode Standard version * specified by the {@link java.lang.Character Character} class. * &lt;p&gt;" />
       <item value="individual" />
-      <item value="examining" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="828" />
-        <entry key="ENGLISH" value="819" />
+        <entry key="CHINESE" value="829" />
+        <entry key="ENGLISH" value="820" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
