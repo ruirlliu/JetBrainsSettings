@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Node" />
+      <item value="enqueues" />
+      <item value="SHARED" />
+      <item value="is Shared" />
+      <item value="predecessor" />
+      <item value="This node is currently on a condition queue. * It will not be used as a sync queue node * until transferred, at which time the status * will be set to 0. (Use of this value here has * nothing to do with the other uses of the * field, but simplifies mechanics.)" />
+      <item value="This node is cancelled due to timeout or interrupt. * Nodes never leave this state. In particular, * a thread with cancelled node never again blocks." />
+      <item value="The successor of this node is (or will soon be) * blocked (via park), so the current node must * unpark its successor when it releases or * cancels. To avoid races, acquire methods must * first indicate they need a signal, * then retry the atomic acquire, and then, * on failure, block." />
+      <item value="Status field, taking on only the values: * SIGNAL: The successor of this node is (or will soon be) * blocked (via park), so the current node must * unpark its successor when it releases or * cancels. To avoid races, acquire methods must * first indicate they need a signal, * then retry the atomic acquire, and then, * on failure, block. * CANCELLED: This node is cancelled due to timeout or interrupt. * Nodes never leave this state. In particular, * a thread with cancelled node never again blocks. * CONDITION: This node is currently on a condition queue. * It will not be used as a sync queue node * until transferred, at which time the status * will be set to 0. (Use of this value here has * nothing to do with the other uses of the * field, but simplifies mechanics.) * PROPAGATE: A releaseShared should be propagated to other * nodes. This is set (for head node only) in * doReleaseShared to ensure propagation * continues, even if other operations have * since intervened. * 0: None of the above * * The values are arranged numerically to simplify use. * Non-negative values mean that a node doesn't need to * signal. So, most code doesn't need to check for particular * values, just for sign. * * The field is initialized to 0 for normal sync nodes, and * CONDITION for condition nodes. It is modified using CAS * (or when possible, unconditional volatile writes)." />
+      <item value="Status field, taking on only the values" />
+      <item value="PROPAGATE" />
+      <item value="shared mode" />
+      <item value="shared" />
+      <item value="EXCLUSIVE" />
       <item value="Abstract Queued Synchronizer" />
       <item value="CLH" />
       <item value="initial" />
@@ -37,32 +51,18 @@
       <item value="Thread Group" />
       <item value="rejected" />
       <item value="Tests if some Thread has been interrupted. The interrupted state * is reset or not based on the value of ClearInterrupted that is * passed." />
-      <item value="Removes and signals all waiting threads, invokes done(), and * nulls out callable." />
-      <item value="The run state of this task, initially NEW. The run state * transitions to a terminal state only in methods set, * setException, and cancel. During completion, state may take on * transient values of COMPLETING (while outcome is being set) or * INTERRUPTING (only while interrupting the runner to satisfy a * cancel(true)). Transitions from these intermediate to final * states use cheaper ordered/lazy writes because values are unique * and cannot be further modified." />
-      <item value="state" />
-      <item value="queue" />
-      <item value="INTERRUPTED" />
-      <item value="INTERRUPTING" />
-      <item value="CANCELLED" />
-      <item value="EXCEPTIONAL" />
-      <item value="NORMAL" />
-      <item value="COMPLETING" />
-      <item value="typically" />
-      <item value="exit" />
-      <item value="method" />
-      <item value="extends" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="850" />
-        <entry key="ENGLISH" value="840" />
+        <entry key="CHINESE" value="866" />
+        <entry key="ENGLISH" value="855" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="2" />
         <entry key="CZECH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="PORTUGUESE" value="1" />
+        <entry key="PORTUGUESE" value="2" />
         <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="2" />
         <entry key="HINDI" value="2" />
