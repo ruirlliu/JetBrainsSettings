@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This class and its iterator implement all of the * &lt;em&gt;optional&lt;/em&gt; methods of the {@link Collection} and {@link * Iterator} interfaces." />
+      <item value="This class supports an optional fairness policy for ordering * waiting producer and consumer threads. By default, this ordering * is not guaranteed. However, a queue constructed with fairness set * to {@code true} grants threads access in FIFO order. Fairness * generally decreases throughput but reduces variability and avoids * starvation." />
+      <item value="&lt;p&gt;This is a classic &amp;quot;bounded buffer&amp;quot;, in which a * fixed-sized array holds elements inserted by producers and * extracted by consumers. Once created, the capacity cannot be * changed. Attempts to {@code put} an element into a full queue * will result in the operation blocking; attempts to {@code take} an * element from an empty queue will similarly block." />
+      <item value="* A bounded {@linkplain BlockingQueue blocking queue} backed by an * array. This queue orders elements FIFO (first-in-first-out). The * &lt;em&gt;head&lt;/em&gt; of the queue is that element that has been on the * queue the longest time. The &lt;em&gt;tail&lt;/em&gt; of the queue is that * element that has been on the queue the shortest time. New elements * are inserted at the tail of the queue, and the queue retrieval * operations obtain elements at the head of the queue." />
       <item value="elapses" />
       <item value="poll" />
       <item value="inhibit" />
@@ -47,15 +51,11 @@
       <item value="Thread state for a thread which has not yet started." />
       <item value="State" />
       <item value="enum" />
-      <item value="A thread can be in only one state at a given point in time. * These states are virtual machine states which do not reflect * any operating system thread states." />
-      <item value="A thread state. A thread can be in one of the following states: * &lt;ul&gt; * &lt;li&gt;{@link #NEW}&lt;br&gt; * A thread that has not yet started is in this state. * &lt;/li&gt; * &lt;li&gt;{@link #RUNNABLE}&lt;br&gt; * A thread executing in the Java virtual machine is in this state. * &lt;/li&gt; * &lt;li&gt;{@link #BLOCKED}&lt;br&gt; * A thread that is blocked waiting for a monitor lock * is in this state. * &lt;/li&gt; * &lt;li&gt;{@link #WAITING}&lt;br&gt; * A thread that is waiting indefinitely for another thread to * perform a particular action is in this state. * &lt;/li&gt; * &lt;li&gt;{@link #TIMED_WAITING}&lt;br&gt; * A thread that is waiting for another thread to perform an action * for up to a specified waiting time is in this state. * &lt;/li&gt; * &lt;li&gt;{@link #TERMINATED}&lt;br&gt; * A thread that has exited is in this state. * &lt;/li&gt; * &lt;/ul&gt;" />
-      <item value="Throwable" />
-      <item value="ignore" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="876" />
-        <entry key="ENGLISH" value="864" />
+        <entry key="CHINESE" value="880" />
+        <entry key="ENGLISH" value="868" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
