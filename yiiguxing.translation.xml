@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Immutable" />
       <item value="Decimal" />
       <item value="transient" />
       <item value="enqueue" />
@@ -50,12 +51,11 @@
       <item value="mechanics" />
       <item value="validating" />
       <item value="containers" />
-      <item value="Daemon" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="885" />
-        <entry key="ENGLISH" value="873" />
+        <entry key="CHINESE" value="886" />
+        <entry key="ENGLISH" value="874" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
