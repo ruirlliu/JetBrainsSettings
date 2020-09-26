@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sequential" />
+      <item value="Parallel" />
+      <item value="Indicates that this collector is &lt;em&gt;concurrent&lt;/em&gt;, meaning that * the result container can support the accumulator function being * called concurrently with the same result container from multiple * threads." />
+      <item value="Indicates that this collector is &lt;em&gt;concurrent&lt;/em&gt;, meaning that * the result container can support the accumulator function being * called concurrently with the same result container from multiple * threads. * * &lt;p&gt;If a {@code CONCURRENT} collector is not also {@code UNORDERED}, * then it should only be evaluated concurrently if applied to an * unordered data source." />
+      <item value="Indicates that the collection operation does not commit to preserving * the encounter order of input elements. (This might be true if the * result container has no intrinsic order, such as a {@link Set}.)" />
+      <item value="Indicates that the finisher function is the identity function and * can be elided. If set, it must be the case that an unchecked cast * from A to R will succeed." />
       <item value="Immutable" />
       <item value="Decimal" />
       <item value="transient" />
@@ -45,17 +51,11 @@
       <item value="interoperability" />
       <item value="desired" />
       <item value="Abstract" />
-      <item value="atomically" />
-      <item value="reference" />
-      <item value="maintains" />
-      <item value="mechanics" />
-      <item value="validating" />
-      <item value="containers" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="886" />
-        <entry key="ENGLISH" value="874" />
+        <entry key="CHINESE" value="892" />
+        <entry key="ENGLISH" value="880" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
