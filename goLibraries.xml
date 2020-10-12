@@ -1,0 +1,9 @@
+<application>
+  <component name="GoLibraries">
+    <option name="urls">
+      <list>
+        <option value="file://C:/IDEAWorkspace/ideaworkspace" />
+      </list>
+    </option>
+  </component>
+</application>
