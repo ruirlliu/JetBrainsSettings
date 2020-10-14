@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Retrieves" />
+      <item value="poll" />
       <item value="alternative" />
       <item value="lexer" />
       <item value="Mutex" />
@@ -43,19 +45,17 @@
       <item value="&lt;p&gt;This is a classic &amp;quot;bounded buffer&amp;quot;, in which a * fixed-sized array holds elements inserted by producers and * extracted by consumers. Once created, the capacity cannot be * changed. Attempts to {@code put} an element into a full queue * will result in the operation blocking; attempts to {@code take} an * element from an empty queue will similarly block." />
       <item value="* A bounded {@linkplain BlockingQueue blocking queue} backed by an * array. This queue orders elements FIFO (first-in-first-out). The * &lt;em&gt;head&lt;/em&gt; of the queue is that element that has been on the * queue the longest time. The &lt;em&gt;tail&lt;/em&gt; of the queue is that * element that has been on the queue the shortest time. New elements * are inserted at the tail of the queue, and the queue retrieval * operations obtain elements at the head of the queue." />
       <item value="elapses" />
-      <item value="poll" />
       <item value="inhibit" />
       <item value="Null Pointer Exception" />
       <item value="first Task" />
       <item value="enqueues" />
       <item value="public" />
       <item value="void" />
-      <item value="and" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="922" />
-        <entry key="ENGLISH" value="909" />
+        <entry key="CHINESE" value="924" />
+        <entry key="ENGLISH" value="911" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
