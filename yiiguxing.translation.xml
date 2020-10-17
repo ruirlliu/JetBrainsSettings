@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="a class-level annotation is nevertheless necessary to trigger method validation * for a specific bean to begin with. Can also be used as a meta-annotation on a * custom stereotype annotation or a custom group-specific validated annotation. *" />
+      <item value="nevertheless" />
+      <item value="a class-level annotation is nevertheless necessary to trigger method validation * for a specific bean to begin with. Can also be used as a meta-annotation on a * custom stereotype annotation or a custom group-specific validated annotation." />
       <item value="category" />
       <item value="If timely * disposal of file system resources is required, the try-with-resources * construct should be used to ensure that the stream's * {@link Stream#close close} method is invoked after the stream operations * are completed." />
       <item value="Returns an equivalent stream with an additional close handler. Close * handlers are run when the {@link #close()} method * is called on the stream, and are executed in the order they were * added. All close handlers are run, even if earlier close handlers throw * exceptions. If any close handler throws an exception, the first * exception thrown will be relayed to the caller of {@code close()}, with * any remaining exceptions added to that exception as suppressed exceptions * (unless one of the remaining exceptions is the same exception as the * first exception, since an exception cannot suppress itself.) May * return itself. * * &lt;p&gt;This is an &lt;a href=&quot;package-summary.html#StreamOps&quot;&gt;intermediate * operation&lt;/a&gt;. * * @param closeHandler A task to execute when the stream is closed * @return a stream with a handler that is run if the stream is closed" />
@@ -48,14 +51,11 @@
       <item value="This class supports an optional fairness policy for ordering * waiting producer and consumer threads. By default, this ordering * is not guaranteed. However, a queue constructed with fairness set * to {@code true} grants threads access in FIFO order. Fairness * generally decreases throughput but reduces variability and avoids * starvation." />
       <item value="&lt;p&gt;This is a classic &amp;quot;bounded buffer&amp;quot;, in which a * fixed-sized array holds elements inserted by producers and * extracted by consumers. Once created, the capacity cannot be * changed. Attempts to {@code put} an element into a full queue * will result in the operation blocking; attempts to {@code take} an * element from an empty queue will similarly block." />
       <item value="* A bounded {@linkplain BlockingQueue blocking queue} backed by an * array. This queue orders elements FIFO (first-in-first-out). The * &lt;em&gt;head&lt;/em&gt; of the queue is that element that has been on the * queue the longest time. The &lt;em&gt;tail&lt;/em&gt; of the queue is that * element that has been on the queue the shortest time. New elements * are inserted at the tail of the queue, and the queue retrieval * operations obtain elements at the head of the queue." />
-      <item value="elapses" />
-      <item value="inhibit" />
-      <item value="Null Pointer Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="928" />
-        <entry key="ENGLISH" value="915" />
+        <entry key="CHINESE" value="931" />
+        <entry key="ENGLISH" value="918" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
