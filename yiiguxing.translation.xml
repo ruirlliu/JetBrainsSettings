@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="category" />
       <item value="If timely * disposal of file system resources is required, the try-with-resources * construct should be used to ensure that the stream's * {@link Stream#close close} method is invoked after the stream operations * are completed." />
       <item value="Returns an equivalent stream with an additional close handler. Close * handlers are run when the {@link #close()} method * is called on the stream, and are executed in the order they were * added. All close handlers are run, even if earlier close handlers throw * exceptions. If any close handler throws an exception, the first * exception thrown will be relayed to the caller of {@code close()}, with * any remaining exceptions added to that exception as suppressed exceptions * (unless one of the remaining exceptions is the same exception as the * first exception, since an exception cannot suppress itself.) May * return itself. * * &lt;p&gt;This is an &lt;a href=&quot;package-summary.html#StreamOps&quot;&gt;intermediate * operation&lt;/a&gt;. * * @param closeHandler A task to execute when the stream is closed * @return a stream with a handler that is run if the stream is closed" />
       <item value="as" />
@@ -50,12 +51,11 @@
       <item value="elapses" />
       <item value="inhibit" />
       <item value="Null Pointer Exception" />
-      <item value="first Task" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="927" />
-        <entry key="ENGLISH" value="914" />
+        <entry key="CHINESE" value="928" />
+        <entry key="ENGLISH" value="915" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
