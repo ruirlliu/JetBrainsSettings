@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="collection" />
+      <item value="Stripped-down version of helper class used in previous version, * declared for the sake of serialization compatibility" />
+      <item value="Stripped" />
       <item value="record" />
       <item value="a class-level annotation is nevertheless necessary to trigger method validation * for a specific bean to begin with. Can also be used as a meta-annotation on a * custom stereotype annotation or a custom group-specific validated annotation. *" />
       <item value="nevertheless" />
@@ -18,7 +21,6 @@
       <item value="facilitate" />
       <item value="concurrent" />
       <item value="since" />
-      <item value="collection" />
       <item value="elements" />
       <item value="type" />
       <item value="dq String Start" />
@@ -49,13 +51,11 @@
       <item value="Inserts element at current put position, advances, and signals. * Call only when holding lock." />
       <item value="Concurrency control uses the classic two-condition algorithm * found in any textbook." />
       <item value="This class and its iterator implement all of the * &lt;em&gt;optional&lt;/em&gt; methods of the {@link Collection} and {@link * Iterator} interfaces." />
-      <item value="This class supports an optional fairness policy for ordering * waiting producer and consumer threads. By default, this ordering * is not guaranteed. However, a queue constructed with fairness set * to {@code true} grants threads access in FIFO order. Fairness * generally decreases throughput but reduces variability and avoids * starvation." />
-      <item value="&lt;p&gt;This is a classic &amp;quot;bounded buffer&amp;quot;, in which a * fixed-sized array holds elements inserted by producers and * extracted by consumers. Once created, the capacity cannot be * changed. Attempts to {@code put} an element into a full queue * will result in the operation blocking; attempts to {@code take} an * element from an empty queue will similarly block." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="932" />
-        <entry key="ENGLISH" value="919" />
+        <entry key="CHINESE" value="934" />
+        <entry key="ENGLISH" value="921" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
