@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Removes the current thread's value for this thread-local * variable. If this thread-local variable is subsequently * {@linkplain #get read} by the current thread, its value will be * reinitialized by invoking its {@link #initialValue} method, * unless its value is {@linkplain #set set} by the current thread * in the interim. This may result in multiple invocations of the * {@code initialValue} method in the current thread." />
+      <item value="Version of getEntry method for use when key is not found in * its direct hash slot." />
       <item value="ThreadLocal values pertaining to this thread. This map is maintained * by the ThreadLocal class." />
       <item value="pertaining" />
       <item value="the" />
@@ -49,13 +51,11 @@
       <item value="mechanism" />
       <item value="General purpose factory loading mechanism for internal use within the framework." />
       <item value="traversals" />
-      <item value="Sequential" />
-      <item value="Parallel" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="944" />
-        <entry key="ENGLISH" value="931" />
+        <entry key="CHINESE" value="946" />
+        <entry key="ENGLISH" value="933" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
