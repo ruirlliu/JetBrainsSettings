@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sequential" />
+      <item value="Parallel" />
       <item value="Optional" />
       <item value="argument" />
       <item value="the previous value associated with the specified key, or * {@code null} if there was no mapping for the key. * (A {@code null} return can also indicate that the map * previously associated {@code null} with the key, * if the implementation supports null values.)" />
@@ -49,13 +51,11 @@
       <item value="a class-level annotation is nevertheless necessary to trigger method validation * for a specific bean to begin with. Can also be used as a meta-annotation on a * custom stereotype annotation or a custom group-specific validated annotation. *" />
       <item value="nevertheless" />
       <item value="a class-level annotation is nevertheless necessary to trigger method validation * for a specific bean to begin with. Can also be used as a meta-annotation on a * custom stereotype annotation or a custom group-specific validated annotation." />
-      <item value="category" />
-      <item value="If timely * disposal of file system resources is required, the try-with-resources * construct should be used to ensure that the stream's * {@link Stream#close close} method is invoked after the stream operations * are completed." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="983" />
-        <entry key="ENGLISH" value="968" />
+        <entry key="CHINESE" value="985" />
+        <entry key="ENGLISH" value="970" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
