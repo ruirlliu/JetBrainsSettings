@@ -27,6 +27,7 @@
       <set>
         <option value="java" />
         <option value="javacc" />
+        <option value="javascript" />
         <option value="kotlin" />
       </set>
     </option>
