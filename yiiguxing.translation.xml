@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Bloom Filter" />
       <item value="the desired false positive probability" />
       <item value="liurui" />
       <item value="primitive" />
@@ -50,12 +51,11 @@
       <item value="argument" />
       <item value="the previous value associated with the specified key, or * {@code null} if there was no mapping for the key. * (A {@code null} return can also indicate that the map * previously associated {@code null} with the key, * if the implementation supports null values.)" />
       <item value="Absent" />
-      <item value="hardcoded" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1061" />
-        <entry key="ENGLISH" value="1044" />
+        <entry key="CHINESE" value="1062" />
+        <entry key="ENGLISH" value="1045" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
