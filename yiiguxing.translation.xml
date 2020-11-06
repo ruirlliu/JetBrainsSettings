@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cursor" />
       <item value="source" />
       <item value="source Count" />
       <item value="from Index" />
@@ -50,12 +51,11 @@
       <item value="Cloneable" />
       <item value="Enum Set" />
       <item value="word" />
-      <item value="partial" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1133" />
-        <entry key="ENGLISH" value="1116" />
+        <entry key="CHINESE" value="1134" />
+        <entry key="ENGLISH" value="1117" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
