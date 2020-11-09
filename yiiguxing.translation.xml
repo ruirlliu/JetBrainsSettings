@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Relate Check" />
+      <item value="Relate" />
+      <item value="legacy" />
       <item value="target" />
       <item value="cursor" />
       <item value="source" />
@@ -48,14 +51,11 @@
       <item value="negative" />
       <item value="flip" />
       <item value="Index Out Of Bounds Exception" />
-      <item value="Cloneable" />
-      <item value="Enum Set" />
-      <item value="word" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1135" />
-        <entry key="ENGLISH" value="1118" />
+        <entry key="CHINESE" value="1138" />
+        <entry key="ENGLISH" value="1121" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
