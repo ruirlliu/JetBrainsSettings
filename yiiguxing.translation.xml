@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="char" />
+      <item value="void" />
       <item value="Relate Check" />
       <item value="Relate" />
       <item value="legacy" />
@@ -49,13 +51,11 @@
       <item value="signature" />
       <item value="invoked" />
       <item value="negative" />
-      <item value="flip" />
-      <item value="Index Out Of Bounds Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1138" />
-        <entry key="ENGLISH" value="1121" />
+        <entry key="CHINESE" value="1140" />
+        <entry key="ENGLISH" value="1122" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
@@ -67,7 +67,7 @@
         <entry key="PORTUGUESE" value="3" />
         <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="3" />
-        <entry key="HINDI" value="3" />
+        <entry key="HINDI" value="4" />
         <entry key="INDONESIAN" value="1" />
         <entry key="VIETNAMESE" value="1" />
       </map>
