@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cluster Id" />
       <item value="Implicit" />
       <item value="Socket Timeout Exception" />
       <item value="Table Field" />
@@ -50,12 +51,11 @@
       <item value="TYPE" />
       <item value="Transactional" />
       <item value="Thrown to indicate that the application has attempted to convert * a string to one of the numeric types, but that the string does not * have the appropriate format." />
-      <item value="string" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1253" />
-        <entry key="ENGLISH" value="1230" />
+        <entry key="CHINESE" value="1254" />
+        <entry key="ENGLISH" value="1231" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
