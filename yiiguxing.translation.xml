@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="&lt;p&gt;&lt;b&gt;Extension example&lt;/b&gt;. Most extensions of this class * override one or more of the protected hook methods. For example, * here is a subclass that adds a simple pause/resume feature: * * &lt;pre&gt; {@code * class PausableThreadPoolExecutor extends ThreadPoolExecutor { * private boolean isPaused; * private ReentrantLock pauseLock = new ReentrantLock(); * private Condition unpaused = pauseLock.newCondition(); * * public PausableThreadPoolExecutor(...) { super(...); } * * protected void beforeExecute(Thread t, Runnable r) { * super.beforeExecute(t, r); * pauseLock.lock(); * try { * while (isPaused) unpaused.await(); * } catch (InterruptedException ie) { * t.interrupt(); * } finally { * pauseLock.unlock(); * } * } * * public void pause() { * pauseLock.lock(); * try { * isPaused = true; * } finally { * pauseLock.unlock(); * } * } * * public void resume() { * pauseLock.lock(); * try { * isPaused = false; * unpaused.signalAll(); * } finally { * pauseLock.unlock(); * } * } * }}&lt;/pre&gt;" />
+      <item value="offer" />
+      <item value="Discard Policy" />
+      <item value="Abort Policy" />
+      <item value="Abort" />
       <item value="cluster Id" />
       <item value="Implicit" />
       <item value="Socket Timeout Exception" />
@@ -46,16 +51,11 @@
       <item value="20" />
       <item value="Override" />
       <item value="volatile" />
-      <item value="start Image Copy" />
-      <item value="METHOD" />
-      <item value="TYPE" />
-      <item value="Transactional" />
-      <item value="Thrown to indicate that the application has attempted to convert * a string to one of the numeric types, but that the string does not * have the appropriate format." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1254" />
-        <entry key="ENGLISH" value="1231" />
+        <entry key="CHINESE" value="1259" />
+        <entry key="ENGLISH" value="1235" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
@@ -65,6 +65,7 @@
         <entry key="CZECH" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
+        <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="3" />
