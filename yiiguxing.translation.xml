@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Assemble" />
       <item value="reified" />
       <item value="Pipeline Service Impl Test SE" />
       <item value="Step" />
@@ -50,12 +51,11 @@
       <item value="MINUTES" />
       <item value="select All" />
       <item value="image Copy Mapper" />
-      <item value="Failed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1281" />
-        <entry key="ENGLISH" value="1257" />
+        <entry key="CHINESE" value="1282" />
+        <entry key="ENGLISH" value="1258" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
