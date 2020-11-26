@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="interval" />
+      <item value="&quot;The maximum delay between invocations of poll() when using &quot; + &quot;consumer group management. This places an upper bound on the amount of time that the consumer can be idle &quot; + &quot;before fetching more records. If poll() is not called before expiration of this timeout, then the consumer &quot; + &quot;is considered failed and the group will rebalance in order to reassign the partitions to another member. &quot; + &quot;For consumers using a non-null &lt;code&gt;group.instance.id&lt;/code&gt; which reach this timeout, partitions will not be immediately reassigned. &quot; + &quot;Instead, the consumer will stop sending heartbeats and partitions will be reassigned &quot; + &quot;after expiration of &lt;code&gt;session.timeout.ms&lt;/code&gt;. This mirrors the behavior of a static consumer which has shutdown.&quot;;" />
+      <item value="The maximum delay between invocations of poll() when using &quot; + &quot;consumer group management. This places an upper bound on the amount of time that the consumer can be idle &quot; + &quot;before fetching more records. If poll() is not called before expiration of this timeout, then the consumer &quot; + &quot;is considered failed and the group will rebalance in order to reassign the partitions to another member. &quot; + &quot;For consumers using a non-null &lt;code&gt;group.instance.id&lt;/code&gt; which reach this timeout, partitions will not be immediately reassigned. &quot; + &quot;Instead, the consumer will stop sending heartbeats and partitions will be reassigned &quot; + &quot;after expiration of &lt;code&gt;session.timeout.ms&lt;/code&gt;. This mirrors the behavior of a static consumer which has shutdown" />
       <item value="last Record" />
       <item value="cached Record Exception" />
       <item value="deserialization" />
@@ -48,14 +51,11 @@
       <item value="Pipeline Service Impl Test SE" />
       <item value="Step" />
       <item value="bocloud days To Keep" />
-      <item value="freedom config" />
-      <item value="jenkins Config" />
-      <item value="mapper" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1329" />
-        <entry key="ENGLISH" value="1297" />
+        <entry key="CHINESE" value="1332" />
+        <entry key="ENGLISH" value="1300" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
