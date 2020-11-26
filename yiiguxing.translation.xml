@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="milliseconds" />
       <item value="Out Of" />
       <item value="End Offset" />
       <item value="Offset Out Of End Offset Range Exception" />
@@ -50,12 +51,11 @@
       <item value="Rod Johnson" />
       <item value="Unlock" />
       <item value="Commercial Features" />
-      <item value="max Wait" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1322" />
-        <entry key="ENGLISH" value="1290" />
+        <entry key="CHINESE" value="1323" />
+        <entry key="ENGLISH" value="1291" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
