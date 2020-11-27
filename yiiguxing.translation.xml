@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="indices" />
+      <item value="consumer" />
+      <item value="headers" />
       <item value="cluster Id" />
       <item value="Synonym" />
       <item value="MAX POLL RECORDS CONFIG" />
@@ -48,14 +51,11 @@
       <item value="Because {@code HibernateFooRepository} is marked with {@code @Primary}, * it will be injected preferentially over the jdbc-based variant assuming both * are present as beans within the same Spring application context, which is * often the case when component-scanning is applied liberally." />
       <item value="UNSTABLE" />
       <item value="LOGGER" />
-      <item value="slot" />
-      <item value="Assemble" />
-      <item value="reified" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1335" />
-        <entry key="ENGLISH" value="1303" />
+        <entry key="CHINESE" value="1338" />
+        <entry key="ENGLISH" value="1306" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
