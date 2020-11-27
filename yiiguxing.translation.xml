@@ -1,15 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="implements" />
+      <item value="Override" />
+      <item value="consumer" />
+      <item value="page Size" />
+      <item value="get Page Size" />
       <item value="length" />
       <item value="0 L" />
       <item value="CONTEXT" />
       <item value="Query Context" />
       <item value="Kafka Query App Log" />
       <item value="extends" />
-      <item value="implements" />
       <item value="indices" />
-      <item value="consumer" />
       <item value="headers" />
       <item value="cluster Id" />
       <item value="Synonym" />
@@ -48,14 +51,11 @@
       <item value="Evictor" />
       <item value="liurui" />
       <item value="surefire" />
-      <item value="absent" />
-      <item value="parameterized" />
-      <item value="bocloud" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1346" />
-        <entry key="ENGLISH" value="1314" />
+        <entry key="CHINESE" value="1351" />
+        <entry key="ENGLISH" value="1319" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
