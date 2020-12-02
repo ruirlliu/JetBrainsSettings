@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SNAPSHOT" />
       <item value="surefire" />
       <item value="slices" />
       <item value="retry" />
@@ -50,12 +51,11 @@
       <item value="optimize" />
       <item value="unmarshal" />
       <item value="Negative" />
-      <item value="Sequence Input Stream" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1360" />
-        <entry key="ENGLISH" value="1327" />
+        <entry key="CHINESE" value="1361" />
+        <entry key="ENGLISH" value="1328" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
