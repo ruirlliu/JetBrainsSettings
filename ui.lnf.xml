@@ -2,5 +2,6 @@
   <component name="UISettings">
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="12" />
     <option name="MAX_LOOKUP_WIDTH2" value="742" />
+    <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
   </component>
 </application>
