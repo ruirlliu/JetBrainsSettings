@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="stereotype annotations" />
+      <item value="annotations" />
+      <item value="stereotype" />
       <item value="list Target Type Repo" />
       <item value="restrictions" />
       <item value="lifecycle" />
@@ -48,14 +51,11 @@
       <item value="last Record" />
       <item value="cached Record Exception" />
       <item value="deserialization" />
-      <item value="corrupt" />
-      <item value="fetched Records" />
-      <item value="propagate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1382" />
-        <entry key="ENGLISH" value="1349" />
+        <entry key="CHINESE" value="1385" />
+        <entry key="ENGLISH" value="1352" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
