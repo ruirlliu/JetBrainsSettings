@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Canonical" />
       <item value="do Privileged" />
       <item value="Don't let calling code try to dereference the factory if the bean isn't a factory" />
       <item value="deprecation" />
@@ -50,12 +51,11 @@
       <item value="milliseconds" />
       <item value="Out Of" />
       <item value="End Offset" />
-      <item value="Offset Out Of End Offset Range Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1378" />
-        <entry key="ENGLISH" value="1345" />
+        <entry key="CHINESE" value="1379" />
+        <entry key="ENGLISH" value="1346" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
