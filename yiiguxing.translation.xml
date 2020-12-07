@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="register Default Filters" />
       <item value="stereotype annotations" />
       <item value="annotations" />
       <item value="stereotype" />
@@ -50,12 +51,11 @@
       <item value="The maximum delay between invocations of poll() when using &quot; + &quot;consumer group management. This places an upper bound on the amount of time that the consumer can be idle &quot; + &quot;before fetching more records. If poll() is not called before expiration of this timeout, then the consumer &quot; + &quot;is considered failed and the group will rebalance in order to reassign the partitions to another member. &quot; + &quot;For consumers using a non-null &lt;code&gt;group.instance.id&lt;/code&gt; which reach this timeout, partitions will not be immediately reassigned. &quot; + &quot;Instead, the consumer will stop sending heartbeats and partitions will be reassigned &quot; + &quot;after expiration of &lt;code&gt;session.timeout.ms&lt;/code&gt;. This mirrors the behavior of a static consumer which has shutdown" />
       <item value="last Record" />
       <item value="cached Record Exception" />
-      <item value="deserialization" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1385" />
-        <entry key="ENGLISH" value="1352" />
+        <entry key="ENGLISH" value="1353" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
@@ -75,5 +75,8 @@
         <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1607304392356" />
   </component>
 </application>
