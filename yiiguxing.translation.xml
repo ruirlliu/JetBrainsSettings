@@ -76,13 +76,4 @@
       </map>
     </option>
   </component>
-  <component name="Settings">
-    <option name="ignoreRegExp" value="" />
-    <option name="translator" value="ai.youdao" />
-    <option name="youdaoTranslateSettings">
-      <youdao-translate>
-        <option name="appId" value="6ee9f602675977e8" />
-      </youdao-translate>
-    </option>
-  </component>
 </application>
