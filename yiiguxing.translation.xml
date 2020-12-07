@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The design employs elements of Sequence locks (as used in linux kernels; see Lameter's http:www.lameter.comgelato2005.pdf and elsewhere; see Boehm's http:www.hpl.hp.comtechreports2012HPL-2012-68.html) and Ordered RW locks (see Shirako et al http:dl.acm.orgcitation.cfm?id=2312015)" />
       <item value="JSON Lexer" />
       <item value="cluster" />
       <item value="Ambiguous" />
@@ -50,12 +51,11 @@
       <item value="Finchley" />
       <item value="Override" />
       <item value="consumer" />
-      <item value="page Size" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1385" />
-        <entry key="ENGLISH" value="1372" />
+        <entry key="ENGLISH" value="1373" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
