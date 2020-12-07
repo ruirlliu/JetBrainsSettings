@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Return whether the underlying class is declared within an enclosing class (i.e. the underlying class is an innernested class or a local class within a method). &lt;p&gt;If this method returns {@code false}, then the underlying class is a top-level class." />
+      <item value="Determine whether the underlying class is independent, i.e. whether it is a top-level class or a nested class (static inner class) that can be constructed independently from an enclosing class." />
+      <item value="Lookup" />
+      <item value="An annotation that indicates 'lookup' methods, to be overridden by the container to redirect them back to the {@link org.springframework.beans.factory.BeanFactory} for a {@code getBean} call. This is essentially an annotation-based version of the XML {@code lookup-method} attribute, resulting in the same runtime arrangement. &lt;p&gt;The resolution of the target bean can either be based on the return type ({@code getBean(Class)}) or on a suggested bean name ({@code getBean(String)}), in both cases passing the method's arguments to the {@code getBean} call for applying them as target factory method arguments or constructor arguments. &lt;p&gt;Such lookup methods can have default (stub) implementations that will simply get replaced by the container, or they can be declared as abstract - for the container to fill them in at runtime. In both cases, the container will generate runtime subclasses of the method's containing class via CGLIB, which is why such lookup methods can only work on beans that the container instantiates through regular constructors: i.e. lookup methods cannot get replaced on beans returned from factory methods where we cannot dynamically provide a subclass for them. &lt;p&gt;&lt;b&gt;Concrete limitations in typical Spring configuration scenarios:&lt;b&gt; When used with component scanning or any other mechanism that filters out abstract beans, provide stub implementations of your lookup methods to be able to declare them as concrete classes. And please remember that lookup methods won't work on beans returned from {@code @Bean} methods in configuration classes; you'll have to resort to {@code @Inject Provider&lt;TargetBean&gt;} or the like instead." />
+      <item value="concrete" />
+      <item value="Return whether the underlying class represents a concrete class," />
+      <item value="Return whether the underlying class represents an annotation." />
+      <item value="Return whether the underlying class represents an interface." />
+      <item value="underlying" />
+      <item value="Defines the JVM opcodes, access flags and array type codes. This interface does not define all the JVM opcodes because some opcodes are automatically handled. For example, the xLOAD and xSTORE opcodes are automatically replaced by xLOAD_n and xSTORE_n opcodes when possible. The xLOAD_n and xSTORE_n opcodes are therefore not defined in this interface. Likewise for LDC, automatically replaced by LDC_W or LDC2_W when necessary, WIDE, GOTO_W and JSR_W." />
+      <item value="Defines" />
       <item value="register Default Filters" />
       <item value="stereotype annotations" />
       <item value="annotations" />
@@ -40,22 +51,11 @@
       <item value="CONTEXT" />
       <item value="Query Context" />
       <item value="Kafka Query App Log" />
-      <item value="extends" />
-      <item value="indices" />
-      <item value="headers" />
-      <item value="cluster Id" />
-      <item value="Synonym" />
-      <item value="MAX POLL RECORDS CONFIG" />
-      <item value="interval" />
-      <item value="&quot;The maximum delay between invocations of poll() when using &quot; + &quot;consumer group management. This places an upper bound on the amount of time that the consumer can be idle &quot; + &quot;before fetching more records. If poll() is not called before expiration of this timeout, then the consumer &quot; + &quot;is considered failed and the group will rebalance in order to reassign the partitions to another member. &quot; + &quot;For consumers using a non-null &lt;code&gt;group.instance.id&lt;/code&gt; which reach this timeout, partitions will not be immediately reassigned. &quot; + &quot;Instead, the consumer will stop sending heartbeats and partitions will be reassigned &quot; + &quot;after expiration of &lt;code&gt;session.timeout.ms&lt;/code&gt;. This mirrors the behavior of a static consumer which has shutdown.&quot;;" />
-      <item value="The maximum delay between invocations of poll() when using &quot; + &quot;consumer group management. This places an upper bound on the amount of time that the consumer can be idle &quot; + &quot;before fetching more records. If poll() is not called before expiration of this timeout, then the consumer &quot; + &quot;is considered failed and the group will rebalance in order to reassign the partitions to another member. &quot; + &quot;For consumers using a non-null &lt;code&gt;group.instance.id&lt;/code&gt; which reach this timeout, partitions will not be immediately reassigned. &quot; + &quot;Instead, the consumer will stop sending heartbeats and partitions will be reassigned &quot; + &quot;after expiration of &lt;code&gt;session.timeout.ms&lt;/code&gt;. This mirrors the behavior of a static consumer which has shutdown" />
-      <item value="last Record" />
-      <item value="cached Record Exception" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1385" />
-        <entry key="ENGLISH" value="1353" />
+        <entry key="ENGLISH" value="1365" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
