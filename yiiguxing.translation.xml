@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cluster" />
+      <item value="Ambiguous" />
       <item value="Introspector" />
       <item value="Well-known name for the HandlerMapping object in the bean factory for this namespace. Only used when &quot;detectAllHandlerMappings&quot; is turned off. @see setDetectAllHandlerMappings" />
       <item value="dissection" />
@@ -49,13 +51,11 @@
       <item value="consumer" />
       <item value="page Size" />
       <item value="get Page Size" />
-      <item value="length" />
-      <item value="0 L" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1385" />
-        <entry key="ENGLISH" value="1368" />
+        <entry key="ENGLISH" value="1371" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
