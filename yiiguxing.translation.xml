@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Attempts to initiate a graceful shutdown of this web socket. Any already-enqueued messages will be transmitted before the close message is sent but subsequent calls to {@link send} will return false and their messages will not be enqueued. &lt;p&gt;This returns true if a graceful shutdown was initiated by this call. It returns false if a graceful shutdown was already underway or if the web socket is already closed or canceled. @param code Status code as defined by &lt;a href=&quot;http:tools.ietf.orghtmlrfc6455section-7.4&quot;&gt;Section 7.4 of RFC 6455&lt;a&gt;. @param reason Reason for shutting down or {@code null}. @throws IllegalArgumentException if code is invalid." />
+      <item value="Invoked when both peers have indicated that no more messages will be transmitted and the connection has been successfully released. No further calls to this listener will be made." />
+      <item value="Invoked when the remote peer has indicated that no more incoming messages will be transmitted" />
       <item value="This method returns true if the message was enqueued. Messages that would overflow the outgoing message buffer will be rejected and trigger a {@linkplain close graceful shutdown} of this web socket. This method returns false in that case, and in any other case where this web socket is closing, closed, or canceled." />
       <item value="enqueue" />
       <item value="This lock supports a maximum of 65535 recursive write locks and 65535 read locks. Attempts to exceed these limits result in {@link Error} throws from locking methods." />
@@ -48,14 +51,11 @@
       <item value="write Lock Supplier" />
       <item value="read Lock Supplier" />
       <item value="Stamped" />
-      <item value="SNAPSHOT" />
-      <item value="surefire" />
-      <item value="slices" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1385" />
-        <entry key="ENGLISH" value="1383" />
+        <entry key="ENGLISH" value="1386" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
