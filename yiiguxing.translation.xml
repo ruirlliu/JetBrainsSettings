@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="plumber" />
       <item value="An interceptor to check request {@code Origin} header value against a collection of allowed origins." />
       <item value="Attempts to initiate a graceful shutdown of this web socket. Any already-enqueued messages will be transmitted before the close message is sent but subsequent calls to {@link send} will return false and their messages will not be enqueued. &lt;p&gt;This returns true if a graceful shutdown was initiated by this call. It returns false if a graceful shutdown was already underway or if the web socket is already closed or canceled. @param code Status code as defined by &lt;a href=&quot;http:tools.ietf.orghtmlrfc6455section-7.4&quot;&gt;Section 7.4 of RFC 6455&lt;a&gt;. @param reason Reason for shutting down or {@code null}. @throws IllegalArgumentException if code is invalid." />
       <item value="Invoked when both peers have indicated that no more messages will be transmitted and the connection has been successfully released. No further calls to this listener will be made." />
@@ -50,12 +51,11 @@
       <item value="Constant Future" />
       <item value="throws" />
       <item value="write Lock Supplier" />
-      <item value="read Lock Supplier" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1386" />
-        <entry key="ENGLISH" value="1387" />
+        <entry key="CHINESE" value="1387" />
+        <entry key="ENGLISH" value="1388" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
