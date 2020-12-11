@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Web Shell Dispatcher" />
       <item value="Handler is a simple interface to a WebSocket browser client. It checks if Origin header is valid URL by default. You might want to verify websocket.Conn.Config().Origin in the func. If you use Server instead of Handler, you could call websocket.Origin and check the origin in your Handshake func. So, if you want to accept non-browser clients, which do not send an Origin header, set a Server.Handshake that does not check the origin." />
       <item value="machinery" />
       <item value="Trailing" />
@@ -50,12 +51,11 @@
       <item value="Canonical" />
       <item value="do Privileged" />
       <item value="Don't let calling code try to dereference the factory if the bean isn't a factory" />
-      <item value="deprecation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1395" />
-        <entry key="ENGLISH" value="1396" />
+        <entry key="CHINESE" value="1396" />
+        <entry key="ENGLISH" value="1397" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
