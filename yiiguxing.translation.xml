@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="else" />
+      <item value="Data" />
+      <item value="Data Response" />
+      <item value="String" />
+      <item value="tenant Id" />
       <item value="Vague" />
       <item value="Criteria" />
       <item value="Invoked when both peers have indicated that no more messages will be transmitted and the connection has been successfully released. No further calls to this listener will be made." />
@@ -46,16 +51,11 @@
       <item value="Lookup" />
       <item value="An annotation that indicates 'lookup' methods, to be overridden by the container to redirect them back to the {@link org.springframework.beans.factory.BeanFactory} for a {@code getBean} call. This is essentially an annotation-based version of the XML {@code lookup-method} attribute, resulting in the same runtime arrangement. &lt;p&gt;The resolution of the target bean can either be based on the return type ({@code getBean(Class)}) or on a suggested bean name ({@code getBean(String)}), in both cases passing the method's arguments to the {@code getBean} call for applying them as target factory method arguments or constructor arguments. &lt;p&gt;Such lookup methods can have default (stub) implementations that will simply get replaced by the container, or they can be declared as abstract - for the container to fill them in at runtime. In both cases, the container will generate runtime subclasses of the method's containing class via CGLIB, which is why such lookup methods can only work on beans that the container instantiates through regular constructors: i.e. lookup methods cannot get replaced on beans returned from factory methods where we cannot dynamically provide a subclass for them. &lt;p&gt;&lt;b&gt;Concrete limitations in typical Spring configuration scenarios:&lt;b&gt; When used with component scanning or any other mechanism that filters out abstract beans, provide stub implementations of your lookup methods to be able to declare them as concrete classes. And please remember that lookup methods won't work on beans returned from {@code @Bean} methods in configuration classes; you'll have to resort to {@code @Inject Provider&lt;TargetBean&gt;} or the like instead." />
       <item value="concrete" />
-      <item value="Return whether the underlying class represents a concrete class," />
-      <item value="Return whether the underlying class represents an annotation." />
-      <item value="Return whether the underlying class represents an interface." />
-      <item value="underlying" />
-      <item value="Defines the JVM opcodes, access flags and array type codes. This interface does not define all the JVM opcodes because some opcodes are automatically handled. For example, the xLOAD and xSTORE opcodes are automatically replaced by xLOAD_n and xSTORE_n opcodes when possible. The xLOAD_n and xSTORE_n opcodes are therefore not defined in this interface. Likewise for LDC, automatically replaced by LDC_W or LDC2_W when necessary, WIDE, GOTO_W and JSR_W." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1409" />
-        <entry key="ENGLISH" value="1410" />
+        <entry key="CHINESE" value="1415" />
+        <entry key="ENGLISH" value="1416" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
@@ -70,7 +70,7 @@
         <entry key="SWEDISH" value="1" />
         <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="3" />
-        <entry key="HINDI" value="7" />
+        <entry key="HINDI" value="8" />
         <entry key="INDONESIAN" value="1" />
         <entry key="VIETNAMESE" value="1" />
       </map>
