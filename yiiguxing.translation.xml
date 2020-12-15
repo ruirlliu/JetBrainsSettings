@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="register Natives" />
+      <item value="Support a current transaction, throw an exception if none exists. Analogous to EJB transaction attribute of the same name." />
+      <item value="MANDATORY" />
+      <item value="Support a current transaction, execute non-transactionally if none exists. Analogous to EJB transaction attribute of the same name. &lt;p&gt;Note: For transaction managers with transaction synchronization, PROPAGATION_SUPPORTS is slightly different from no transaction at all, as it defines a transaction scope that synchronization will apply for. As a consequence, the same resources (JDBC Connection, Hibernate Session, etc) will be shared for the entire specified scope. Note that this depends on the actual synchronization configuration of the transaction manager. @see org.springframework.transaction.support.AbstractPlatformTransactio" />
+      <item value="Support a current transaction, create a new one if none exists. Analogous to EJB transaction attribute of the same name. &lt;p&gt;This is the default setting of a transaction annotation." />
       <item value="Web Shell Dispatcher" />
       <item value="Handler is a simple interface to a WebSocket browser client. It checks if Origin header is valid URL by default. You might want to verify websocket.Conn.Config().Origin in the func. If you use Server instead of Handler, you could call websocket.Origin and check the origin in your Handshake func. So, if you want to accept non-browser clients, which do not send an Origin header, set a Server.Handshake that does not check the origin." />
       <item value="machinery" />
@@ -46,16 +51,11 @@
       <item value="annotations" />
       <item value="stereotype" />
       <item value="list Target Type Repo" />
-      <item value="restrictions" />
-      <item value="lifecycle" />
-      <item value="Canonical" />
-      <item value="do Privileged" />
-      <item value="Don't let calling code try to dereference the factory if the bean isn't a factory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1396" />
-        <entry key="ENGLISH" value="1397" />
+        <entry key="CHINESE" value="1401" />
+        <entry key="ENGLISH" value="1402" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
@@ -77,6 +77,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1607304392356" />
+    <option name="lastTrimTime" value="1607997878710" />
   </component>
 </application>
