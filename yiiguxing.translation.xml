@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Vague" />
+      <item value="Criteria" />
       <item value="Invoked when both peers have indicated that no more messages will be transmitted and the connection has been successfully released. No further calls to this listener will be made." />
       <item value="Invoked when the peer has indicated that no more incoming messages will be transmitted" />
       <item value="This class just replicates WatchConnectionManager in handling watch connections but instead of using a solid type for deserializing events, it uses plain strings." />
@@ -49,13 +51,11 @@
       <item value="Return whether the underlying class represents an interface." />
       <item value="underlying" />
       <item value="Defines the JVM opcodes, access flags and array type codes. This interface does not define all the JVM opcodes because some opcodes are automatically handled. For example, the xLOAD and xSTORE opcodes are automatically replaced by xLOAD_n and xSTORE_n opcodes when possible. The xLOAD_n and xSTORE_n opcodes are therefore not defined in this interface. Likewise for LDC, automatically replaced by LDC_W or LDC2_W when necessary, WIDE, GOTO_W and JSR_W." />
-      <item value="Defines" />
-      <item value="register Default Filters" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1407" />
-        <entry key="ENGLISH" value="1408" />
+        <entry key="CHINESE" value="1409" />
+        <entry key="ENGLISH" value="1410" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
