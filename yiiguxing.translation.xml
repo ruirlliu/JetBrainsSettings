@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invoked when both peers have indicated that no more messages will be transmitted and the connection has been successfully released. No further calls to this listener will be made." />
+      <item value="Invoked when the peer has indicated that no more incoming messages will be transmitted" />
+      <item value="This class just replicates WatchConnectionManager in handling watch connections but instead of using a solid type for deserializing events, it uses plain strings." />
+      <item value="essential" />
       <item value="del Image Dir After Scan" />
       <item value="register Natives" />
       <item value="Support a current transaction, throw an exception if none exists. Analogous to EJB transaction attribute of the same name." />
@@ -19,7 +23,6 @@
       <item value="plumber" />
       <item value="An interceptor to check request {@code Origin} header value against a collection of allowed origins." />
       <item value="Attempts to initiate a graceful shutdown of this web socket. Any already-enqueued messages will be transmitted before the close message is sent but subsequent calls to {@link send} will return false and their messages will not be enqueued. &lt;p&gt;This returns true if a graceful shutdown was initiated by this call. It returns false if a graceful shutdown was already underway or if the web socket is already closed or canceled. @param code Status code as defined by &lt;a href=&quot;http:tools.ietf.orghtmlrfc6455section-7.4&quot;&gt;Section 7.4 of RFC 6455&lt;a&gt;. @param reason Reason for shutting down or {@code null}. @throws IllegalArgumentException if code is invalid." />
-      <item value="Invoked when both peers have indicated that no more messages will be transmitted and the connection has been successfully released. No further calls to this listener will be made." />
       <item value="Invoked when the remote peer has indicated that no more incoming messages will be transmitted" />
       <item value="This method returns true if the message was enqueued. Messages that would overflow the outgoing message buffer will be rejected and trigger a {@linkplain close graceful shutdown} of this web socket. This method returns false in that case, and in any other case where this web socket is closing, closed, or canceled." />
       <item value="enqueue" />
@@ -48,14 +51,11 @@
       <item value="Defines the JVM opcodes, access flags and array type codes. This interface does not define all the JVM opcodes because some opcodes are automatically handled. For example, the xLOAD and xSTORE opcodes are automatically replaced by xLOAD_n and xSTORE_n opcodes when possible. The xLOAD_n and xSTORE_n opcodes are therefore not defined in this interface. Likewise for LDC, automatically replaced by LDC_W or LDC2_W when necessary, WIDE, GOTO_W and JSR_W." />
       <item value="Defines" />
       <item value="register Default Filters" />
-      <item value="stereotype annotations" />
-      <item value="annotations" />
-      <item value="stereotype" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1403" />
-        <entry key="ENGLISH" value="1404" />
+        <entry key="CHINESE" value="1407" />
+        <entry key="ENGLISH" value="1408" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
