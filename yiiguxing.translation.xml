@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="commonconfig" />
+      <item value="kube" />
+      <item value="system" />
       <item value="endpoints" />
       <item value="exposure" />
       <item value="filebeat" />
@@ -48,14 +51,11 @@
       <item value="JSON Lexer" />
       <item value="cluster" />
       <item value="Ambiguous" />
-      <item value="Introspector" />
-      <item value="Well-known name for the HandlerMapping object in the bean factory for this namespace. Only used when &quot;detectAllHandlerMappings&quot; is turned off. @see setDetectAllHandlerMappings" />
-      <item value="dissection" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1420" />
-        <entry key="ENGLISH" value="1421" />
+        <entry key="CHINESE" value="1422" />
+        <entry key="ENGLISH" value="1423" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
@@ -65,6 +65,7 @@
         <entry key="CZECH" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
+        <entry key="ZULU" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="4" />
         <entry key="SWEDISH" value="1" />
