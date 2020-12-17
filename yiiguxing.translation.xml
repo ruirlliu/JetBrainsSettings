@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A boolean flag that can be set to {@code true} if the transaction is effectively read-only, allowing for corresponding optimizations at runtime. &lt;p&gt;Defaults to {@code false}. &lt;p&gt;This just serves as a hint for the actual transaction subsystem; it will &lt;i&gt;not necessarily&lt;i&gt; cause failure of write access attempts. A transaction manager which cannot interpret the read-only hint will &lt;i&gt;not&lt;i&gt; throw an exception when asked for a read-only transaction but rather silently ignore the hint." />
       <item value="DAYS" />
       <item value="Chrono Unit" />
       <item value="Instant" />
@@ -50,12 +51,11 @@
       <item value="An implementation of {@link ReadWriteLock} supporting similar semantics to {@link ReentrantLock}. &lt;p&gt;This class has the following properties: &lt;ul&gt; &lt;li&gt;&lt;b&gt;Acquisition order&lt;b&gt; &lt;p&gt;This class does not impose a reader or writer preference ordering for lock access. However, it does support an optional &lt;em&gt;fairness&lt;em&gt; policy. &lt;dl&gt; &lt;dt&gt;&lt;b&gt;&lt;i&gt;Non-fair mode (default)&lt;i&gt;&lt;b&gt; &lt;dd&gt;When constructed as non-fair (the default), the order of entry to the read and write lock is unspecified, subject to reentrancy constraints. A nonfair lock that is continuously contended may indefinitely postpone one or more reader or writer threads, but will normally have higher throughput than a fair lock." />
       <item value="&gt;This class does not impose a reader or writer preference ordering for lock access. However, it does support an optional &lt;em&gt;fairness&lt;em&gt; policy. &lt;dl&gt; &lt;dt&gt;&lt;b&gt;&lt;i&gt;Non-fair mode (default)&lt;i&gt;&lt;b&gt; &lt;dd&gt;When constructed as non-fair (the default), the order of entry to the read and write lock is unspecified, subject to reentrancy constraints. A nonfair lock that is continuously contended may indefinitely postpone one or more reader or writer threads, but will normally have higher throughput than a fair lock." />
       <item value="An implementation of {@link ReadWriteLock} supporting similar semantics to {@link ReentrantLock}. &lt;p&gt;This class has the following properties:" />
-      <item value="port" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1427" />
-        <entry key="ENGLISH" value="1428" />
+        <entry key="CHINESE" value="1428" />
+        <entry key="ENGLISH" value="1429" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
