@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DAYS" />
+      <item value="Chrono Unit" />
+      <item value="Instant" />
+      <item value="element" />
+      <item value="intersection" />
       <item value="commonconfig" />
       <item value="kube" />
       <item value="system" />
@@ -46,16 +51,11 @@
       <item value="&gt;This class does not impose a reader or writer preference ordering for lock access. However, it does support an optional &lt;em&gt;fairness&lt;em&gt; policy. &lt;dl&gt; &lt;dt&gt;&lt;b&gt;&lt;i&gt;Non-fair mode (default)&lt;i&gt;&lt;b&gt; &lt;dd&gt;When constructed as non-fair (the default), the order of entry to the read and write lock is unspecified, subject to reentrancy constraints. A nonfair lock that is continuously contended may indefinitely postpone one or more reader or writer threads, but will normally have higher throughput than a fair lock." />
       <item value="An implementation of {@link ReadWriteLock} supporting similar semantics to {@link ReentrantLock}. &lt;p&gt;This class has the following properties:" />
       <item value="port" />
-      <item value="is Running" />
-      <item value="The design employs elements of Sequence locks (as used in linux kernels; see Lameter's http:www.lameter.comgelato2005.pdf and elsewhere; see Boehm's http:www.hpl.hp.comtechreports2012HPL-2012-68.html) and Ordered RW locks (see Shirako et al http:dl.acm.orgcitation.cfm?id=2312015)" />
-      <item value="JSON Lexer" />
-      <item value="cluster" />
-      <item value="Ambiguous" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1422" />
-        <entry key="ENGLISH" value="1423" />
+        <entry key="CHINESE" value="1427" />
+        <entry key="ENGLISH" value="1428" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
