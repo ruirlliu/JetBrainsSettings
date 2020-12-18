@@ -80,4 +80,7 @@
   <component name="Cache">
     <option name="lastTrimTime" value="1607997878710" />
   </component>
+  <component name="Settings">
+    <option name="translator" value="YOUDAO" />
+  </component>
 </application>
