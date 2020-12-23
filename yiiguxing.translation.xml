@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Yellin" />
       <item value="Signals that an end of file or end of stream has been reached unexpectedly during input. &lt;p&gt; This exception is mainly used by data input streams to signal end of stream. Note that many other input operations return a special value on end of stream rather than throwing an exception." />
       <item value="Throttle" />
       <item value="denominator" />
@@ -50,12 +51,11 @@
       <item value="This class just replicates WatchConnectionManager in handling watch connections but instead of using a solid type for deserializing events, it uses plain strings." />
       <item value="essential" />
       <item value="del Image Dir After Scan" />
-      <item value="register Natives" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1454" />
-        <entry key="ENGLISH" value="1455" />
+        <entry key="CHINESE" value="1455" />
+        <entry key="ENGLISH" value="1456" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
