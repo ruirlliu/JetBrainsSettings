@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Signals that an end of file or end of stream has been reached unexpectedly during input. &lt;p&gt; This exception is mainly used by data input streams to signal end of stream. Note that many other input operations return a special value on end of stream rather than throwing an exception." />
       <item value="Throttle" />
       <item value="denominator" />
       <item value="actuator" />
@@ -50,12 +51,11 @@
       <item value="essential" />
       <item value="del Image Dir After Scan" />
       <item value="register Natives" />
-      <item value="Support a current transaction, throw an exception if none exists. Analogous to EJB transaction attribute of the same name." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1453" />
-        <entry key="ENGLISH" value="1454" />
+        <entry key="CHINESE" value="1454" />
+        <entry key="ENGLISH" value="1455" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
