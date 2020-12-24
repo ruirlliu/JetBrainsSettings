@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Runnable" />
       <item value="Cluster" />
       <item value="APPROVALING" />
       <item value="APPROVALSUBMIT" />
@@ -50,12 +51,11 @@
       <item value="Vague" />
       <item value="Criteria" />
       <item value="Invoked when both peers have indicated that no more messages will be transmitted and the connection has been successfully released. No further calls to this listener will be made." />
-      <item value="Invoked when the peer has indicated that no more incoming messages will be transmitted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1458" />
-        <entry key="ENGLISH" value="1459" />
+        <entry key="CHINESE" value="1459" />
+        <entry key="ENGLISH" value="1460" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
