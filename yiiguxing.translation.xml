@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="CURRENT TIMESTAMP" />
       <item value="detection" />
       <item value="Reload" />
       <item value="Listens to Kubernetes events and checks if a reload is needed when configmaps or secrets change." />
@@ -50,12 +51,11 @@
       <item value="element" />
       <item value="intersection" />
       <item value="commonconfig" />
-      <item value="kube" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1472" />
-        <entry key="ENGLISH" value="1473" />
+        <entry key="CHINESE" value="1473" />
+        <entry key="ENGLISH" value="1474" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
