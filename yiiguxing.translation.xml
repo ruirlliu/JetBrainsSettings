@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="this" />
+      <item value="instance" />
+      <item value="Initializes" />
       <item value="processors" />
       <item value="Returns the number of processors available to the Java virtual machine. &lt;p&gt; This value may change during a particular invocation of the virtual machine. Applications that are sensitive to the number of available processors should therefore occasionally poll this property and adjust their resource usage appropriately. &lt;p&gt; @return the maximum number of processors available to the virtual machine; never smaller than one" />
       <item value="Returns the number of processors available to the Java virtual machine. &lt;p&gt; This value may change during a particular invocation of the virtual machine. Applications that are sensitive to the number of available processors should therefore occasionally poll this property and adjust their resource usage appropriately. &lt;p&gt;" />
@@ -48,14 +51,11 @@
       <item value="Exception" />
       <item value="Sync" />
       <item value="A file is &lt;em&gt;normal&lt;em&gt; if it is not a directory and, in addition, satisfies other system-dependent criteria." />
-      <item value="LEGACY" />
-      <item value="evict" />
-      <item value="constructor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1492" />
-        <entry key="ENGLISH" value="1493" />
+        <entry key="CHINESE" value="1495" />
+        <entry key="ENGLISH" value="1496" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
