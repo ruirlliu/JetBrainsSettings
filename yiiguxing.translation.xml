@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="INSENSITIVE" />
+      <item value="CALLABLE" />
+      <item value="PREPARED" />
+      <item value="STATEMENT" />
+      <item value="IMPLIED" />
       <item value="the ones loaded from the Kubernetes - No reload will take place" />
       <item value="The current number of Confimap PropertySources does not match" />
       <item value="No reload will take place" />
@@ -46,16 +51,11 @@
       <item value="Optiona" />
       <item value="Optional" />
       <item value="String" />
-      <item value="set Env Id" />
-      <item value="Grid Bean" />
-      <item value="Autowired" />
-      <item value="Get Mapping" />
-      <item value="A boolean flag that can be set to {@code true} if the transaction is effectively read-only, allowing for corresponding optimizations at runtime. &lt;p&gt;Defaults to {@code false}. &lt;p&gt;This just serves as a hint for the actual transaction subsystem; it will &lt;i&gt;not necessarily&lt;i&gt; cause failure of write access attempts. A transaction manager which cannot interpret the read-only hint will &lt;i&gt;not&lt;i&gt; throw an exception when asked for a read-only transaction but rather silently ignore the hint." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1479" />
-        <entry key="ENGLISH" value="1480" />
+        <entry key="CHINESE" value="1484" />
+        <entry key="ENGLISH" value="1485" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
