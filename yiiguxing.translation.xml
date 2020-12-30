@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="processors" />
+      <item value="Returns the number of processors available to the Java virtual machine. &lt;p&gt; This value may change during a particular invocation of the virtual machine. Applications that are sensitive to the number of available processors should therefore occasionally poll this property and adjust their resource usage appropriately. &lt;p&gt; @return the maximum number of processors available to the virtual machine; never smaller than one" />
+      <item value="Returns the number of processors available to the Java virtual machine. &lt;p&gt; This value may change during a particular invocation of the virtual machine. Applications that are sensitive to the number of available processors should therefore occasionally poll this property and adjust their resource usage appropriately. &lt;p&gt;" />
       <item value="Opens a communications link to the resource referenced by this URL, if such a connection has not already been established. &lt;p&gt; If the {@code connect} method is called when the connection has already been opened (indicated by the {@code connected} field having the value {@code true}), the call is ignored. &lt;p&gt; URLConnection objects go through two phases: first they are created, then they are connected. After being created, and before being connected, various options can be specified (e.g., doInput and UseCaches). After connecting, it is an error to try to set them. Operations that depend on being connected, like getContentLength, will implicitly perform the connection, if necessary." />
       <item value="Precedence" />
       <item value="trim" />
@@ -48,14 +51,11 @@
       <item value="LEGACY" />
       <item value="evict" />
       <item value="constructor" />
-      <item value="No Ops Response Error Handler" />
-      <item value="repositories" />
-      <item value="&lt;p&gt;A customized implementation of &lt;code&gt;java.util.ArrayList&lt;code&gt; designed to operate in a multithreaded environment where the large majority of method calls are read-only, instead of structural changes. When operating in &quot;fast&quot; mode, read calls are non-synchronized and write calls perform the following steps:&lt;p&gt;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1489" />
-        <entry key="ENGLISH" value="1490" />
+        <entry key="CHINESE" value="1492" />
+        <entry key="ENGLISH" value="1493" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
