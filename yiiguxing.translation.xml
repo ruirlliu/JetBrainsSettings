@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Threshold after which files are written to disk. Values can use the suffixes &quot;MB&quot; or &quot;KB&quot; to indicate megabytes or kilobytes, respectively." />
       <item value="Criteria" />
       <item value="Vague" />
       <item value="this" />
@@ -50,12 +51,11 @@
       <item value="denominator" />
       <item value="actuator" />
       <item value="period" />
-      <item value="Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1498" />
-        <entry key="ENGLISH" value="1499" />
+        <entry key="CHINESE" value="1499" />
+        <entry key="ENGLISH" value="1500" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
