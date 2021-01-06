@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="scheme" />
       <item value="canary" />
       <item value="Origin" />
       <item value="Convenience class for reading character files. The constructors of this class assume that the default character encoding and the default byte-buffer size are appropriate. To specify these values yourself, construct an InputStreamReader on a FileInputStream. &lt;p&gt;&lt;code&gt;FileReader&lt;code&gt; is meant for reading streams of characters. For reading streams of raw bytes, consider using a &lt;code&gt;FileInputStream&lt;code&gt;." />
@@ -50,12 +51,11 @@
       <item value="APPROVALSUBMIT" />
       <item value="Yellin" />
       <item value="Signals that an end of file or end of stream has been reached unexpectedly during input. &lt;p&gt; This exception is mainly used by data input streams to signal end of stream. Note that many other input operations return a special value on end of stream rather than throwing an exception." />
-      <item value="Throttle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1502" />
-        <entry key="ENGLISH" value="1503" />
+        <entry key="CHINESE" value="1503" />
+        <entry key="ENGLISH" value="1504" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
