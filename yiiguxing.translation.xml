@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="rendered" />
+      <item value="Whether numbers stored as strings will be rendered with quotes (true) or without quotes (false, default) when MINIMIZE_QUOTES is enabled. &lt;p&gt; Minimized quote usage makes for more human readable output; however, content is limited to printable characters according to the rules of &lt;a href=&quot;http:www.yaml.orgspec1.2spec.htmlstyleblockliteral&quot;&gt;literal block style&lt;a&gt;." />
+      <item value="Whether for string containing newlines a &lt;a href=&quot;http:www.yaml.orgspec1.2spec.htmlstyleblockliteral&quot;&gt;literal block style&lt;a&gt; should be used. This automatically enabled when {@link MINIMIZE_QUOTES} is set. &lt;p&gt; The content of such strings is limited to printable characters according to the rules of &lt;a href=&quot;http:www.yaml.orgspec1.2spec.htmlstyleblockliteral&quot;&gt;literal block style&lt;a&gt;." />
+      <item value="Feature enabling of which adds indentation for array entry generation (default indentation being 2 spaces)." />
+      <item value="Whether strings will be rendered without quotes (true) or with quotes (false, default). &lt;p&gt; Minimized quote usage makes for more human readable output; however, content is limited to printable characters according to the rules of &lt;a href=&quot;http:www.yaml.orgspec1.2spec.htmlstyleblockliteral&quot;&gt;literal block style&lt;a&gt;." />
+      <item value="Options passed to SnakeYAML that determines whether longer textual content gets automatically split into multiple lines or not. &lt;p&gt; Feature is enabled by default to conform to SnakeYAML defaults as well as backwards compatibility with 2.5 and earlier versions." />
+      <item value="Do we try to force so-called canonical output or not." />
+      <item value="Whether to use YAML native Type Id construct for indicating type (true); or &quot;generic&quot; type property (false). Former works better for systems that are YAML-centric; latter may be better choice for interoperability, when converting between formats or accepting other formats." />
+      <item value="Whether to use YAML native Object Id construct for indicating type (true); or &quot;generic&quot; Object Id mechanism (false). Former works better for systems that are YAML-centric; latter may be better choice for interoperability, when converting between formats or accepting other formats." />
+      <item value="Whether we are to write an explicit document start marker (&quot;---&quot;) or not" />
       <item value="resource" />
       <item value="scheme" />
       <item value="canary" />
@@ -41,21 +51,11 @@
       <item value="servlet" />
       <item value="eager" />
       <item value="Aware" />
-      <item value="Extension of the {@link Ordered} interface, expressing a &lt;em&gt;priority&lt;em&gt; ordering: order values expressed by {@code PriorityOrdered} objects always apply before same order values expressed by &lt;em&gt;plain&lt;em&gt; {@link Ordered} objects." />
-      <item value="Priority" />
-      <item value="Registrar" />
-      <item value="INFRASTRUCTURE" />
-      <item value="Interface to be implemented by types that determine which @{@link Configuration} class(es) should be imported based on a given selection criteria, usually one or more annotation attributes." />
-      <item value="Runnable" />
-      <item value="Cluster" />
-      <item value="APPROVALING" />
-      <item value="APPROVALSUBMIT" />
-      <item value="Yellin" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1504" />
-        <entry key="ENGLISH" value="1505" />
+        <entry key="CHINESE" value="1516" />
+        <entry key="ENGLISH" value="1517" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
