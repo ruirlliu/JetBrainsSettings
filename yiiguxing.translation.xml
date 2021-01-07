@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Method for defining custom escapes factory uses for {@link JsonGenerator}s it creates." />
       <item value="rendered" />
       <item value="Whether numbers stored as strings will be rendered with quotes (true) or without quotes (false, default) when MINIMIZE_QUOTES is enabled. &lt;p&gt; Minimized quote usage makes for more human readable output; however, content is limited to printable characters according to the rules of &lt;a href=&quot;http:www.yaml.orgspec1.2spec.htmlstyleblockliteral&quot;&gt;literal block style&lt;a&gt;." />
       <item value="Whether for string containing newlines a &lt;a href=&quot;http:www.yaml.orgspec1.2spec.htmlstyleblockliteral&quot;&gt;literal block style&lt;a&gt; should be used. This automatically enabled when {@link MINIMIZE_QUOTES} is set. &lt;p&gt; The content of such strings is limited to printable characters according to the rules of &lt;a href=&quot;http:www.yaml.orgspec1.2spec.htmlstyleblockliteral&quot;&gt;literal block style&lt;a&gt;." />
@@ -50,12 +51,11 @@
       <item value="polling" />
       <item value="servlet" />
       <item value="eager" />
-      <item value="Aware" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1516" />
-        <entry key="ENGLISH" value="1517" />
+        <entry key="CHINESE" value="1517" />
+        <entry key="ENGLISH" value="1518" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
