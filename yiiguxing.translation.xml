@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="continue" />
+      <item value="Chrono Unit" />
+      <item value="Instant" />
+      <item value="is Before" />
+      <item value="diff" />
+      <item value="retry" />
       <item value="Sets the time limit for which threads may remain idle before being terminated. If there are more than the core number of threads currently in the pool, after waiting this amount of time without processing a task, excess threads will be terminated. This overrides any value set in the constructor." />
       <item value="select Cons By Img Ver Array" />
       <item value="Exception" />
@@ -45,17 +51,11 @@
       <item value="IMPLIED" />
       <item value="the ones loaded from the Kubernetes - No reload will take place" />
       <item value="The current number of Confimap PropertySources does not match" />
-      <item value="No reload will take place" />
-      <item value="take place" />
-      <item value="explicitly" />
-      <item value="lookup" />
-      <item value="CURRENT TIMESTAMP" />
-      <item value="detection" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1523" />
-        <entry key="ENGLISH" value="1524" />
+        <entry key="CHINESE" value="1530" />
+        <entry key="ENGLISH" value="1531" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
