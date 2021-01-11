@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="If a value is present, and the value matches the given predicate, return an {@code Optional} describing the value, otherwise return an empty {@code Optional}. @param predicate a predicate to apply to the value, if present @return an {@code Optional} describing the value of this {@code Optional} if a value is present and the value matches the given predicate, otherwise an empty {@code Optional} @throws NullPointerException if the predicate is null" />
       <item value="Returns the estimated number of CompletableFutures whose completions are awaiting completion of this CompletableFuture. This method is designed for use in monitoring system state, not for synchronization control." />
       <item value="continue" />
       <item value="Chrono Unit" />
@@ -50,12 +51,11 @@
       <item value="PREPARED" />
       <item value="STATEMENT" />
       <item value="IMPLIED" />
-      <item value="the ones loaded from the Kubernetes - No reload will take place" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1531" />
-        <entry key="ENGLISH" value="1532" />
+        <entry key="CHINESE" value="1532" />
+        <entry key="ENGLISH" value="1533" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
