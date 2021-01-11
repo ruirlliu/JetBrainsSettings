@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns the estimated number of CompletableFutures whose completions are awaiting completion of this CompletableFuture. This method is designed for use in monitoring system state, not for synchronization control." />
       <item value="continue" />
       <item value="Chrono Unit" />
       <item value="Instant" />
@@ -50,12 +51,11 @@
       <item value="STATEMENT" />
       <item value="IMPLIED" />
       <item value="the ones loaded from the Kubernetes - No reload will take place" />
-      <item value="The current number of Confimap PropertySources does not match" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1530" />
-        <entry key="ENGLISH" value="1531" />
+        <entry key="CHINESE" value="1531" />
+        <entry key="ENGLISH" value="1532" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
@@ -78,6 +78,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1609826059202" />
+    <option name="lastTrimTime" value="1610334643272" />
   </component>
 </application>
