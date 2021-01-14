@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Opaque" />
+      <item value="Arbitrary" />
       <item value="Enable synchronization between XML infoset nodes and JAXB objects representing same XML document." />
       <item value="Indicates that a bean should be given preference when multiple candidates are qualified to autowire a single-valued dependency. If exactly one 'primary' bean exists among the candidates, it will be the autowired value." />
       <item value="If a value is present, and the value matches the given predicate, return an {@code Optional} describing the value, otherwise return an empty {@code Optional}. @param predicate a predicate to apply to the value, if present @return an {@code Optional} describing the value of this {@code Optional} if a value is present and the value matches the given predicate, otherwise an empty {@code Optional} @throws NullPointerException if the predicate is null" />
@@ -49,13 +51,11 @@
       <item value="DEFINER" />
       <item value="PROCEDURE" />
       <item value="INSENSITIVE" />
-      <item value="CALLABLE" />
-      <item value="PREPARED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1534" />
-        <entry key="ENGLISH" value="1535" />
+        <entry key="CHINESE" value="1536" />
+        <entry key="ENGLISH" value="1537" />
         <entry key="POLISH" value="3" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
