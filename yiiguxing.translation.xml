@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Tests whether this thread has been interrupted. The &lt;i&gt;interrupted status&lt;i&gt; of the thread is unaffected by this method." />
+      <item value="If the lock is not available then the current thread becomes disabled for thread scheduling purposes and lies dormant until the lock has been acquired." />
+      <item value="renewal" />
       <item value="representing" />
       <item value="natural" />
       <item value="Callback interface triggered at the end of the singleton pre-instantiation phase during {@link BeanFactory} bootstrap. This interface can be implemented by singleton beans in order to perform some initialization after the regular singleton instantiation algorithm, avoiding side effects with accidental early initialization (e.g. from {@link ListableBeanFactorygetBeansOfType} calls). In that sense, it is an alternative to {@link InitializingBean} which gets triggered right at the end of a bean's local construction phase." />
@@ -48,14 +51,11 @@
       <item value="instance" />
       <item value="Initializes" />
       <item value="processors" />
-      <item value="Returns the number of processors available to the Java virtual machine. &lt;p&gt; This value may change during a particular invocation of the virtual machine. Applications that are sensitive to the number of available processors should therefore occasionally poll this property and adjust their resource usage appropriately. &lt;p&gt; @return the maximum number of processors available to the virtual machine; never smaller than one" />
-      <item value="Returns the number of processors available to the Java virtual machine. &lt;p&gt; This value may change during a particular invocation of the virtual machine. Applications that are sensitive to the number of available processors should therefore occasionally poll this property and adjust their resource usage appropriately. &lt;p&gt;" />
-      <item value="Opens a communications link to the resource referenced by this URL, if such a connection has not already been established. &lt;p&gt; If the {@code connect} method is called when the connection has already been opened (indicated by the {@code connected} field having the value {@code true}), the call is ignored. &lt;p&gt; URLConnection objects go through two phases: first they are created, then they are connected. After being created, and before being connected, various options can be specified (e.g., doInput and UseCaches). After connecting, it is an error to try to set them. Operations that depend on being connected, like getContentLength, will implicitly perform the connection, if necessary." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1541" />
-        <entry key="ENGLISH" value="1542" />
+        <entry key="CHINESE" value="1544" />
+        <entry key="ENGLISH" value="1545" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
