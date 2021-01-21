@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns the result value when complete, or throws an (unchecked) exception if completed exceptionally. To better conform with the use of common functional forms, if a computation involved in the completion of this CompletableFuture threw an exception, this method throws an (unchecked) {@link CompletionException} with the underlying exception as its cause." />
       <item value="Tests whether this thread has been interrupted. The &lt;i&gt;interrupted status&lt;i&gt; of the thread is unaffected by this method." />
       <item value="If the lock is not available then the current thread becomes disabled for thread scheduling purposes and lies dormant until the lock has been acquired." />
       <item value="renewal" />
@@ -50,12 +51,11 @@
       <item value="this" />
       <item value="instance" />
       <item value="Initializes" />
-      <item value="processors" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1544" />
-        <entry key="ENGLISH" value="1545" />
+        <entry key="CHINESE" value="1545" />
+        <entry key="ENGLISH" value="1546" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
