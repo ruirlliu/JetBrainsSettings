@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invoked when the current {@link Channel} has read a message from the peer." />
+      <item value="Gets called after the {@link ChannelHandler} was added to the actual context and it's ready to handle events." />
       <item value="{@link ChannelHandler} which will get notified for IO-outbound-operations." />
       <item value="{@link ChannelHandler} which adds callbacks for state changes. This allows the user to hook in to state changes easily." />
       <item value="Throttle" />
@@ -49,13 +51,11 @@
       <item value="Exception" />
       <item value="Sequential" />
       <item value="fastpath if the regex is a (1)one-char String and this character is not one of the RegEx's meta characters &quot;.|()[{^?+\\&quot;, or (2)two-char String and the first char is the backslash and the second is not the ascii digit or ascii letter." />
-      <item value="String" />
-      <item value="Method for defining custom escapes factory uses for {@link JsonGenerator}s it creates." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1570" />
-        <entry key="ENGLISH" value="1571" />
+        <entry key="CHINESE" value="1573" />
+        <entry key="ENGLISH" value="1574" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
