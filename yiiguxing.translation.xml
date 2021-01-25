@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Operation-set bit for read operations." />
       <item value="deadline" />
       <item value="Submits a Runnable task for execution and returns a Future representing that task. The Future's {@code get} method will return the given result upon successful completion." />
       <item value="Initiates an orderly shutdown in which previously submitted tasks are executed, but no new tasks will be accepted. Invocation has no additional effect if already shut down." />
@@ -50,12 +51,11 @@
       <item value="Do we try to force so-called canonical output or not." />
       <item value="Whether to use YAML native Type Id construct for indicating type (true); or &quot;generic&quot; type property (false). Former works better for systems that are YAML-centric; latter may be better choice for interoperability, when converting between formats or accepting other formats." />
       <item value="Whether to use YAML native Object Id construct for indicating type (true); or &quot;generic&quot; Object Id mechanism (false). Former works better for systems that are YAML-centric; latter may be better choice for interoperability, when converting between formats or accepting other formats." />
-      <item value="Whether we are to write an explicit document start marker (&quot;---&quot;) or not" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1560" />
-        <entry key="ENGLISH" value="1561" />
+        <entry key="CHINESE" value="1561" />
+        <entry key="ENGLISH" value="1562" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
