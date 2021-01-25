@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="deadline" />
+      <item value="Submits a Runnable task for execution and returns a Future representing that task. The Future's {@code get} method will return the given result upon successful completion." />
+      <item value="Initiates an orderly shutdown in which previously submitted tasks are executed, but no new tasks will be accepted. Invocation has no additional effect if already shut down." />
+      <item value="mechanics" />
+      <item value="Execution" />
+      <item value="temporary" />
       <item value="Returns the result value when complete, or throws an (unchecked) exception if completed exceptionally. To better conform with the use of common functional forms, if a computation involved in the completion of this CompletableFuture threw an exception, this method throws an (unchecked) {@link CompletionException} with the underlying exception as its cause." />
       <item value="Present" />
       <item value="summary Public" />
@@ -45,17 +51,11 @@
       <item value="Whether to use YAML native Type Id construct for indicating type (true); or &quot;generic&quot; type property (false). Former works better for systems that are YAML-centric; latter may be better choice for interoperability, when converting between formats or accepting other formats." />
       <item value="Whether to use YAML native Object Id construct for indicating type (true); or &quot;generic&quot; Object Id mechanism (false). Former works better for systems that are YAML-centric; latter may be better choice for interoperability, when converting between formats or accepting other formats." />
       <item value="Whether we are to write an explicit document start marker (&quot;---&quot;) or not" />
-      <item value="resource" />
-      <item value="scheme" />
-      <item value="canary" />
-      <item value="Origin" />
-      <item value="Convenience class for reading character files. The constructors of this class assume that the default character encoding and the default byte-buffer size are appropriate. To specify these values yourself, construct an InputStreamReader on a FileInputStream. &lt;p&gt;&lt;code&gt;FileReader&lt;code&gt; is meant for reading streams of characters. For reading streams of raw bytes, consider using a &lt;code&gt;FileInputStream&lt;code&gt;." />
-      <item value="Threshold after which files are written to disk. Values can use the suffixes &quot;MB&quot; or &quot;KB&quot; to indicate megabytes or kilobytes, respectively." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1553" />
-        <entry key="ENGLISH" value="1554" />
+        <entry key="CHINESE" value="1560" />
+        <entry key="ENGLISH" value="1561" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
@@ -79,6 +79,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1610935139619" />
+    <option name="lastTrimTime" value="1611537020621" />
   </component>
 </application>
