@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="destroy" />
+      <item value="allow" />
+      <item value="rethrown" />
+      <item value="logged" />
       <item value="Checks if this FilePermission object &quot;implies&quot; the specified permission." />
       <item value="Indicates that the same instance of the annotated {@link ChannelHandler} can be added to one or more {@link ChannelPipeline}s multiple times without a race condition." />
       <item value="Invoked when the current {@link Channel} has read a message from the peer." />
@@ -47,15 +51,11 @@
       <item value="Instant" />
       <item value="is Before" />
       <item value="diff" />
-      <item value="retry" />
-      <item value="Sets the time limit for which threads may remain idle before being terminated. If there are more than the core number of threads currently in the pool, after waiting this amount of time without processing a task, excess threads will be terminated. This overrides any value set in the constructor." />
-      <item value="select Cons By Img Ver Array" />
-      <item value="Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1575" />
-        <entry key="ENGLISH" value="1576" />
+        <entry key="CHINESE" value="1579" />
+        <entry key="ENGLISH" value="1580" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
