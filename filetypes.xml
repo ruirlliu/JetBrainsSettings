@@ -12,6 +12,7 @@
       <mapping ext="setting" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="lombok" type="PLAIN_TEXT" />
+      <mapping ext="policy" type="PLAIN_TEXT" />
       <mapping pattern="UserMapper" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
