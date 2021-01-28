@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns the current time in milliseconds. Note that while the unit of time of the return value is a millisecond, the granularity of the value depends on the underlying operating system and may be larger. For example, many operating systems measure time in units of tens of milliseconds." />
       <item value="unsigned" />
       <item value="Duplex" />
       <item value="DiscoveryClient represents read operations commonly available to Discovery service such as Netflix Eureka or consul.io" />
@@ -50,12 +51,11 @@
       <item value="Arbitrary" />
       <item value="Enable synchronization between XML infoset nodes and JAXB objects representing same XML document." />
       <item value="Indicates that a bean should be given preference when multiple candidates are qualified to autowire a single-valued dependency. If exactly one 'primary' bean exists among the candidates, it will be the autowired value." />
-      <item value="If a value is present, and the value matches the given predicate, return an {@code Optional} describing the value, otherwise return an empty {@code Optional}. @param predicate a predicate to apply to the value, if present @return an {@code Optional} describing the value of this {@code Optional} if a value is present and the value matches the given predicate, otherwise an empty {@code Optional} @throws NullPointerException if the predicate is null" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1592" />
-        <entry key="ENGLISH" value="1593" />
+        <entry key="CHINESE" value="1593" />
+        <entry key="ENGLISH" value="1594" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
