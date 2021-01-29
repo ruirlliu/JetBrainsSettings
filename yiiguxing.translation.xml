@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Aggregator" />
+      <item value="Channel Pipeline" />
+      <item value="second" />
+      <item value="pipeline" />
+      <item value="readable Bytes" />
+      <item value="For example here is an implementation which reads all readable bytes from the input {@link ByteBuf} and create a new {@link ByteBuf}." />
+      <item value="{@link ChannelInboundHandlerAdapter} which decodes bytes in a stream-like fashion from one {@link ByteBuf} to an other Message type." />
       <item value="discardable" />
       <item value="Http Request Encoder" />
       <item value="Premature" />
@@ -44,18 +51,11 @@
       <item value="Privileged" />
       <item value="destroy" />
       <item value="allow" />
-      <item value="rethrown" />
-      <item value="logged" />
-      <item value="Checks if this FilePermission object &quot;implies&quot; the specified permission." />
-      <item value="Indicates that the same instance of the annotated {@link ChannelHandler} can be added to one or more {@link ChannelPipeline}s multiple times without a race condition." />
-      <item value="Invoked when the current {@link Channel} has read a message from the peer." />
-      <item value="Gets called after the {@link ChannelHandler} was added to the actual context and it's ready to handle events." />
-      <item value="{@link ChannelHandler} which will get notified for IO-outbound-operations." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1635" />
-        <entry key="ENGLISH" value="1636" />
+        <entry key="CHINESE" value="1643" />
+        <entry key="ENGLISH" value="1644" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
