@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Replaying Decoder" />
+      <item value="REPLAY" />
       <item value="Called when the input of the channel was closed which may be because it changed to inactive or because of {@link ChannelInputShutdownEvent}." />
       <item value="Channel Handler Context" />
       <item value="Exception" />
@@ -49,13 +51,11 @@
       <item value="Returns the current time in milliseconds. Note that while the unit of time of the return value is a millisecond, the granularity of the value depends on the underlying operating system and may be larger. For example, many operating systems measure time in units of tens of milliseconds." />
       <item value="unsigned" />
       <item value="Duplex" />
-      <item value="DiscoveryClient represents read operations commonly available to Discovery service such as Netflix Eureka or consul.io" />
-      <item value="599795414496383667216982" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1650" />
-        <entry key="ENGLISH" value="1651" />
+        <entry key="CHINESE" value="1652" />
+        <entry key="ENGLISH" value="1653" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
