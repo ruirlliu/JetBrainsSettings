@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Aggregator" />
       <item value="Replaying Decoder" />
       <item value="REPLAY" />
       <item value="Called when the input of the channel was closed which may be because it changed to inactive or because of {@link ChannelInputShutdownEvent}." />
@@ -10,7 +11,6 @@
       <item value="decode Last" />
       <item value="decode" />
       <item value="abstract" />
-      <item value="Aggregator" />
       <item value="Channel Pipeline" />
       <item value="second" />
       <item value="pipeline" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1652" />
-        <entry key="ENGLISH" value="1653" />
+        <entry key="CHINESE" value="1653" />
+        <entry key="ENGLISH" value="1654" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
