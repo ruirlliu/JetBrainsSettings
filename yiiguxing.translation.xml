@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A combination of {@link HttpRequestEncoder} and {@link HttpResponseDecoder} which enables easier client side HTTP implementation. {@link HttpClientCodec} provides additional state management for &lt;tt&gt;HEAD&lt;tt&gt; and &lt;tt&gt;CONNECT&lt;tt&gt; requests, which {@link HttpResponseDecoder} lacks. Please refer to {@link HttpResponseDecoder} to learn what additional state management needs to be done for &lt;tt&gt;HEAD&lt;tt&gt; and &lt;tt&gt;CONNECT&lt;tt&gt; and why {@link HttpResponseDecoder} can not handle it by itself." />
       <item value="atomic" />
       <item value="Signals that an unexpected exception has occurred in a static initializer. An &lt;code&gt;ExceptionInInitializerError&lt;code&gt; is thrown to indicate that an exception occurred during evaluation of a static initializer or the initializer for a static variable." />
       <item value="Subclasses of {@code LinkageError} indicate that a class has some dependency on another class; however, the latter class has incompatibly changed after the compilation of the former class." />
@@ -50,12 +51,11 @@
       <item value="Submits a Runnable task for execution and returns a Future representing that task. The Future's {@code get} method will return the given result upon successful completion." />
       <item value="Initiates an orderly shutdown in which previously submitted tasks are executed, but no new tasks will be accepted. Invocation has no additional effect if already shut down." />
       <item value="mechanics" />
-      <item value="Execution" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1617" />
-        <entry key="ENGLISH" value="1618" />
+        <entry key="CHINESE" value="1618" />
+        <entry key="ENGLISH" value="1619" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
