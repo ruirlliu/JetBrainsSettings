@@ -4,10 +4,12 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="agent" type="PLAIN_TEXT" />
+      <mapping pattern="libnetty_resolver_dns_native_macos_x86_64.jnilib" type="PLAIN_TEXT" />
       <mapping pattern="test.html" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="peroperties" type="PLAIN_TEXT" />
       <mapping ext="propertiess" type="PLAIN_TEXT" />
+      <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="setting" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
