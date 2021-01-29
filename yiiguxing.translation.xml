@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="discardable" />
+      <item value="Http Request Encoder" />
+      <item value="Premature" />
+      <item value="Premature Channel Closure Exception" />
+      <item value="lacks" />
+      <item value="management" />
+      <item value="state" />
+      <item value="additional" />
+      <item value="Determines if the class or interface represented by this {@code Class} object is either the same as, or is a superclass or superinterface of, the class or interface represented by the specified {@code Class} parameter. It returns {@code true} if so; otherwise it returns {@code false}. If this {@code Class} object represents a primitive type, this method returns {@code true} if the specified {@code Class} parameter is exactly this {@code Class} object; otherwise it returns {@code false}." />
+      <item value="Throws MethodArgumentNotValidException if validation fails. @throws HttpMessageNotReadableException if {@link RequestBodyrequired()} is {@code true} and there is no body content or if there is no suitable converter to read the content with." />
+      <item value="validation" />
+      <item value="Method Argument Not Valid Exception" />
       <item value="A combination of {@link HttpRequestEncoder} and {@link HttpResponseDecoder} which enables easier client side HTTP implementation. {@link HttpClientCodec} provides additional state management for &lt;tt&gt;HEAD&lt;tt&gt; and &lt;tt&gt;CONNECT&lt;tt&gt; requests, which {@link HttpResponseDecoder} lacks. Please refer to {@link HttpResponseDecoder} to learn what additional state management needs to be done for &lt;tt&gt;HEAD&lt;tt&gt; and &lt;tt&gt;CONNECT&lt;tt&gt; and why {@link HttpResponseDecoder} can not handle it by itself." />
       <item value="atomic" />
       <item value="Signals that an unexpected exception has occurred in a static initializer. An &lt;code&gt;ExceptionInInitializerError&lt;code&gt; is thrown to indicate that an exception occurred during evaluation of a static initializer or the initializer for a static variable." />
@@ -39,23 +51,11 @@
       <item value="Invoked when the current {@link Channel} has read a message from the peer." />
       <item value="Gets called after the {@link ChannelHandler} was added to the actual context and it's ready to handle events." />
       <item value="{@link ChannelHandler} which will get notified for IO-outbound-operations." />
-      <item value="{@link ChannelHandler} which adds callbacks for state changes. This allows the user to hook in to state changes easily." />
-      <item value="Throttle" />
-      <item value="INDEFINITE" />
-      <item value="scenarios" />
-      <item value="synchronously" />
-      <item value="Selects a set of keys whose corresponding channels are ready for IO operations." />
-      <item value="The number of keys, possibly zero, whose ready-operation sets were updated" />
-      <item value="Operation-set bit for read operations." />
-      <item value="deadline" />
-      <item value="Submits a Runnable task for execution and returns a Future representing that task. The Future's {@code get} method will return the given result upon successful completion." />
-      <item value="Initiates an orderly shutdown in which previously submitted tasks are executed, but no new tasks will be accepted. Invocation has no additional effect if already shut down." />
-      <item value="mechanics" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1618" />
-        <entry key="ENGLISH" value="1619" />
+        <entry key="CHINESE" value="1635" />
+        <entry key="ENGLISH" value="1636" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
