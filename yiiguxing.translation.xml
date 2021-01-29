@@ -1,12 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="For a richer event model, consider using the {@link java.beans} package. For reliable and ordered messaging among threads, consider using one of the concurrent data structures in the {@link java.util.concurrent} package. For reactive streams style programming, see the {@link java.util.concurrent.Flow} API." />
+      <item value="This class and the {@link Observer} interface have been deprecated. The event model supported by {@code Observer} and {@code Observable} is quite limited, the order of notifications delivered by {@code Observable} is unspecified, and state changes are not in one-for-one correspondence with notifications." />
+      <item value="This class and the {@link Observer} interface have been deprecated. The event model supported by {@code Observer} and {@code Observable} is quite limited" />
+      <item value="attach" />
+      <item value="Object" />
+      <item value="public" />
       <item value="absolute" />
       <item value="Compare Util" />
       <item value="&lt;em&gt;Unsafe&lt;em&gt; operations that should &lt;em&gt;never&lt;em&gt; be called from user-code. These methods are only provided to implement the actual transport, and must be invoked from an IO thread except for the following methods:" />
       <item value="Synchronous Queue" />
       <item value="Exception" />
-      <item value="Object" />
       <item value="Byte To Message Decoder" />
       <item value="Channel Handler Context" />
       <item value="Returns the current time in milliseconds. Note that while the unit of time of the return value is a millisecond, the granularity of the value depends on the underlying operating system and may be larger. For example, many operating systems measure time in units of tens of milliseconds." />
@@ -46,16 +51,11 @@
       <item value="NOT IMPLEMENTED" />
       <item value="Sweep" />
       <item value="Tests whether this thread has been interrupted. The &lt;i&gt;interrupted status&lt;i&gt; of the thread is unaffected by this method." />
-      <item value="If the lock is not available then the current thread becomes disabled for thread scheduling purposes and lies dormant until the lock has been acquired." />
-      <item value="renewal" />
-      <item value="representing" />
-      <item value="natural" />
-      <item value="Callback interface triggered at the end of the singleton pre-instantiation phase during {@link BeanFactory} bootstrap. This interface can be implemented by singleton beans in order to perform some initialization after the regular singleton instantiation algorithm, avoiding side effects with accidental early initialization (e.g. from {@link ListableBeanFactorygetBeansOfType} calls). In that sense, it is an alternative to {@link InitializingBean} which gets triggered right at the end of a bean's local construction phase." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1601" />
-        <entry key="ENGLISH" value="1602" />
+        <entry key="CHINESE" value="1609" />
+        <entry key="ENGLISH" value="1610" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
