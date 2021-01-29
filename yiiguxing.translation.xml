@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="atomic" />
       <item value="Signals that an unexpected exception has occurred in a static initializer. An &lt;code&gt;ExceptionInInitializerError&lt;code&gt; is thrown to indicate that an exception occurred during evaluation of a static initializer or the initializer for a static variable." />
       <item value="Subclasses of {@code LinkageError} indicate that a class has some dependency on another class; however, the latter class has incompatibly changed after the compilation of the former class." />
       <item value="First, try calling a side-effect free JNI method to see if the library was already loaded by the application." />
@@ -50,12 +51,11 @@
       <item value="Initiates an orderly shutdown in which previously submitted tasks are executed, but no new tasks will be accepted. Invocation has no additional effect if already shut down." />
       <item value="mechanics" />
       <item value="Execution" />
-      <item value="temporary" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1616" />
-        <entry key="ENGLISH" value="1617" />
+        <entry key="CHINESE" value="1617" />
+        <entry key="ENGLISH" value="1618" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
