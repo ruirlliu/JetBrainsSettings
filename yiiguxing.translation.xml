@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PROCEDURE" />
       <item value="A {@link ChunkedInput} that fetches data from a file chunk by chunk using NIO {@link FileChannel}." />
       <item value="retain" />
       <item value="read Line" />
@@ -50,12 +51,11 @@
       <item value="A combination of {@link HttpRequestEncoder} and {@link HttpResponseDecoder} which enables easier client side HTTP implementation. {@link HttpClientCodec} provides additional state management for &lt;tt&gt;HEAD&lt;tt&gt; and &lt;tt&gt;CONNECT&lt;tt&gt; requests, which {@link HttpResponseDecoder} lacks. Please refer to {@link HttpResponseDecoder} to learn what additional state management needs to be done for &lt;tt&gt;HEAD&lt;tt&gt; and &lt;tt&gt;CONNECT&lt;tt&gt; and why {@link HttpResponseDecoder} can not handle it by itself." />
       <item value="atomic" />
       <item value="Signals that an unexpected exception has occurred in a static initializer. An &lt;code&gt;ExceptionInInitializerError&lt;code&gt; is thrown to indicate that an exception occurred during evaluation of a static initializer or the initializer for a static variable." />
-      <item value="Subclasses of {@code LinkageError} indicate that a class has some dependency on another class; however, the latter class has incompatibly changed after the compilation of the former class." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1672" />
-        <entry key="ENGLISH" value="1673" />
+        <entry key="CHINESE" value="1673" />
+        <entry key="ENGLISH" value="1674" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
