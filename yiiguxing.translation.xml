@@ -1,19 +1,29 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="RUNNING" />
+      <item value="11100000000000000000000000000000" />
+      <item value="11111111111111111111111111111" />
+      <item value="wc" />
+      <item value="rs" />
+      <item value="javaagent" />
+      <item value="Jet Brains" />
+      <item value="core Pool Size" />
+      <item value="command" />
+      <item value="true" />
+      <item value="return" />
+      <item value="CAPACITY" />
       <item value="TERMINATED" />
       <item value="TIDYING" />
       <item value="STOP" />
       <item value="SHUTDOWN" />
       <item value="Programs" />
-      <item value="javaagent" />
       <item value="java" />
       <item value="Java" />
       <item value="agent" />
       <item value="visualvm" />
       <item value="Tracks largest attained pool size. Accessed only under mainLock." />
       <item value="Set containing all worker threads in pool. Accessed only when holding mainLock." />
-      <item value="CAPACITY" />
       <item value="because the queue may become empty after non-empty and vice versa during SHUTDOWN state, but we can only terminate if, after seeing that it is empty, we see that workerCount is 0 (which sometimes entails a recheck -- see below)." />
       <item value="straightforward" />
       <item value="Detecting the transition from SHUTDOWN to TIDYING is less straightforward than you'd like because the queue may become empty after non-empty and vice versa during SHUTDOWN state, but we can only terminate if, after seeing that it is empty, we see that workerCount is 0 (which sometimes entails a recheck -- see below" />
@@ -41,22 +51,12 @@
       <item value="This is a near duplicate of {@link TimSort}, modified for use with arrays of objects that implement {@link Comparable}, instead of using explicit comparators." />
       <item value="Old merge sort implementation can be selected (for compatibility with broken comparators) using a system property. Cannot be a static boolean in the enclosing class due to circular dependencies. To be removed in a future release." />
       <item value="Handles an IO event or intercepts an IO operation, and forwards it to its next handler in its {@link ChannelPipeline}." />
-      <item value="Prints formatted representations of objects to a text-output stream. This class implements all of the &lt;tt&gt;print&lt;tt&gt; methods found in {@link PrintStream}. It does not contain methods for writing raw bytes, for which a program should use unencoded byte streams. &lt;p&gt; Unlike the {@link PrintStream} class, if automatic flushing is enabled it will be done only when one of the &lt;tt&gt;println&lt;tt&gt;, &lt;tt&gt;printf&lt;tt&gt;, or &lt;tt&gt;format&lt;tt&gt; methods is invoked, rather than whenever a newline character happens to be output. These methods use the platform's own notion of line separator rather than the newline character. &lt;p&gt; Methods in this class never throw IO exceptions, although some of its constructors may. The client may inquire as to whether any errors have occurred by invoking {@link checkError checkError()}." />
-      <item value="Central class to determine requested {@linkplain MediaType media types} for a request. This is done by delegating to a list of configured {@code ContentNegotiationStrategy} instances." />
-      <item value="Negotiation" />
-      <item value="Return a variant of this {@code MethodParameter} which points to the same parameter but one nesting level deeper." />
-      <item value="Emitter" />
-      <item value="Annotation that indicates a method return value should be bound to the web response body. Supported for annotated handler methods." />
-      <item value="List" />
-      <item value="inherently" />
-      <item value="Thread Pool Executor" />
-      <item value="SECONDS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1736" />
-        <entry key="ENGLISH" value="1735" />
-        <entry key="POLISH" value="3" />
+        <entry key="CHINESE" value="1749" />
+        <entry key="ENGLISH" value="1746" />
+        <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="3" />
@@ -72,7 +72,7 @@
         <entry key="SWEDISH" value="1" />
         <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="4" />
-        <entry key="HINDI" value="9" />
+        <entry key="HINDI" value="10" />
         <entry key="INDONESIAN" value="1" />
         <entry key="VIETNAMESE" value="1" />
       </map>
