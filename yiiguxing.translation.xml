@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Handles an IO event or intercepts an IO operation, and forwards it to its next handler in its {@link ChannelPipeline}." />
+      <item value="Prints formatted representations of objects to a text-output stream. This class implements all of the &lt;tt&gt;print&lt;tt&gt; methods found in {@link PrintStream}. It does not contain methods for writing raw bytes, for which a program should use unencoded byte streams. &lt;p&gt; Unlike the {@link PrintStream} class, if automatic flushing is enabled it will be done only when one of the &lt;tt&gt;println&lt;tt&gt;, &lt;tt&gt;printf&lt;tt&gt;, or &lt;tt&gt;format&lt;tt&gt; methods is invoked, rather than whenever a newline character happens to be output. These methods use the platform's own notion of line separator rather than the newline character. &lt;p&gt; Methods in this class never throw IO exceptions, although some of its constructors may. The client may inquire as to whether any errors have occurred by invoking {@link checkError checkError()}." />
+      <item value="Central class to determine requested {@linkplain MediaType media types} for a request. This is done by delegating to a list of configured {@code ContentNegotiationStrategy} instances." />
+      <item value="Negotiation" />
       <item value="Return a variant of this {@code MethodParameter} which points to the same parameter but one nesting level deeper." />
       <item value="Emitter" />
       <item value="Annotation that indicates a method return value should be bound to the web response body. Supported for annotated handler methods." />
@@ -47,15 +51,11 @@
       <item value="{@link ChannelInboundHandlerAdapter} which decodes bytes in a stream-like fashion from one {@link ByteBuf} to an other Message type." />
       <item value="discardable" />
       <item value="Http Request Encoder" />
-      <item value="Premature" />
-      <item value="Premature Channel Closure Exception" />
-      <item value="lacks" />
-      <item value="management" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1682" />
-        <entry key="ENGLISH" value="1683" />
+        <entry key="CHINESE" value="1686" />
+        <entry key="ENGLISH" value="1687" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
