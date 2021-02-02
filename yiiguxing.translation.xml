@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="because the queue may become empty after non-empty and vice versa during SHUTDOWN state, but we can only terminate if, after seeing that it is empty, we see that workerCount is 0 (which sometimes entails a recheck -- see below)." />
+      <item value="straightforward" />
+      <item value="Detecting the transition from SHUTDOWN to TIDYING is less straightforward than you'd like because the queue may become empty after non-empty and vice versa during SHUTDOWN state, but we can only terminate if, after seeing that it is empty, we see that workerCount is 0 (which sometimes entails a recheck -- see below" />
+      <item value="Threads waiting in awaitTermination() will return when the state reaches TERMINATED." />
+      <item value="SHUTDOWN -&gt; TIDYING When both queue and pool are empty" />
+      <item value="On invocation of shutdown(), perhaps implicitly in finalize() (RUNNING or SHUTDOWN) -&gt; STOP On invocation of shutdownNow()" />
+      <item value="On invocation of shutdown(), perhaps implicitly in finalize() (RUNNING or SHUTDOWN) -&gt; STOP" />
+      <item value="invocation" />
+      <item value="transitions" />
+      <item value="The numerical order among these values matters, to allow ordered comparisons. The runState monotonically increases over time, but need not hit each state." />
+      <item value="matters" />
+      <item value="The numerical order among these values matters, to allow ordered comparisons. The runState monotonically increases over time, but need not hit each state" />
       <item value="Inserts the specified element into this queue if it is possible to do so immediately without violating capacity restrictions, returning {@code true} upon success and throwing an {@code IllegalStateException} if no space is currently available. When using a capacity-restricted queue, it is generally preferable to use {@link offer(Object) offer}." />
       <item value="poll" />
       <item value="Reentrant" />
@@ -39,23 +51,11 @@
       <item value="outbound Handler" />
       <item value="fire" />
       <item value="Channel Inbound Handler" />
-      <item value="Internally, a {@link FastThreadLocal} uses a constant index in an array, instead of using hash code and hash table, to look for a variable. Although seemingly very subtle, it yields slight performance advantage over using a hash table, and it is useful when accessed frequently. &lt;p&gt;&lt;p&gt; To take advantage of this thread-local variable, your thread must be a {@link FastThreadLocalThread} or its subtype. By default, all threads created by {@link DefaultThreadFactory} are {@link FastThreadLocalThread} due to this reason. &lt;p&gt;&lt;p&gt; Note that the fast path is only possible on threads that extend {@link FastThreadLocalThread}, because it requires a special field to store the necessary state. An access by any other kind of thread falls back to a regular {@link ThreadLocal}." />
-      <item value="A special variant of {@link ThreadLocal} that yields higher access performance when accessed from a {@link FastThreadLocalThread}." />
-      <item value="session" />
-      <item value="returns" />
-      <item value="Default Byte Buf Holder" />
-      <item value="sanity" />
-      <item value="on-the-fly" />
-      <item value="Codec" />
-      <item value="Aggregator" />
-      <item value="Replaying Decoder" />
-      <item value="REPLAY" />
-      <item value="Called when the input of the channel was closed which may be because it changed to inactive or because of {@link ChannelInputShutdownEvent}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1701" />
-        <entry key="ENGLISH" value="1702" />
+        <entry key="CHINESE" value="1713" />
+        <entry key="ENGLISH" value="1714" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
