@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="explicit" />
+      <item value="&gt;If you are using an optimizing VM, you may find that ComparableTimSort offers no performance benefit over TimSort in conjunction with a comparator that simply returns {@code ((Comparable)first).compareTo(Second)}. If this is the case, you are better off deleting ComparableTimSort to eliminate the code duplication. (See Arrays.java for details.)" />
+      <item value="This is a near duplicate of {@link TimSort}, modified for use with arrays of objects that implement {@link Comparable}, instead of using explicit comparators." />
+      <item value="Old merge sort implementation can be selected (for compatibility with broken comparators) using a system property. Cannot be a static boolean in the enclosing class due to circular dependencies. To be removed in a future release." />
       <item value="Handles an IO event or intercepts an IO operation, and forwards it to its next handler in its {@link ChannelPipeline}." />
       <item value="Prints formatted representations of objects to a text-output stream. This class implements all of the &lt;tt&gt;print&lt;tt&gt; methods found in {@link PrintStream}. It does not contain methods for writing raw bytes, for which a program should use unencoded byte streams. &lt;p&gt; Unlike the {@link PrintStream} class, if automatic flushing is enabled it will be done only when one of the &lt;tt&gt;println&lt;tt&gt;, &lt;tt&gt;printf&lt;tt&gt;, or &lt;tt&gt;format&lt;tt&gt; methods is invoked, rather than whenever a newline character happens to be output. These methods use the platform's own notion of line separator rather than the newline character. &lt;p&gt; Methods in this class never throw IO exceptions, although some of its constructors may. The client may inquire as to whether any errors have occurred by invoking {@link checkError checkError()}." />
       <item value="Central class to determine requested {@linkplain MediaType media types} for a request. This is done by delegating to a list of configured {@code ContentNegotiationStrategy} instances." />
@@ -47,15 +51,11 @@
       <item value="second" />
       <item value="pipeline" />
       <item value="readable Bytes" />
-      <item value="For example here is an implementation which reads all readable bytes from the input {@link ByteBuf} and create a new {@link ByteBuf}." />
-      <item value="{@link ChannelInboundHandlerAdapter} which decodes bytes in a stream-like fashion from one {@link ByteBuf} to an other Message type." />
-      <item value="discardable" />
-      <item value="Http Request Encoder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1686" />
-        <entry key="ENGLISH" value="1687" />
+        <entry key="CHINESE" value="1690" />
+        <entry key="ENGLISH" value="1691" />
         <entry key="POLISH" value="3" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
