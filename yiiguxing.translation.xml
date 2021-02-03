@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="addon" />
+      <item value="addons" />
       <item value="decrypt" />
       <item value="Method that will return a valid String representation of the container value, if the node is a value node (method {@link isValueNode} returns true), otherwise empty String." />
       <item value="RUNNING" />
@@ -49,17 +51,15 @@
       <item value="The call to addWorker atomically checks runState and workerCount, and so prevents false alarms that would add threads when it shouldn't, by returning false." />
       <item value="Indicates that the same instance of the annotated {@link ChannelHandler} can be added to one or more {@link ChannelPipeline}s multiple times without a race condition. &lt;p&gt; If this annotation is not specified, you have to create a new handler instance every time you add it to a pipeline because it has unshared state such as member variables. &lt;p&gt; This annotation is provided for documentation purpose, just like &lt;a href=&quot;http:www.javaconcurrencyinpractice.comannotationsdoc&quot;&gt;the JCIP annotations&lt;a&gt;." />
       <item value="explicit" />
-      <item value="&gt;If you are using an optimizing VM, you may find that ComparableTimSort offers no performance benefit over TimSort in conjunction with a comparator that simply returns {@code ((Comparable)first).compareTo(Second)}. If this is the case, you are better off deleting ComparableTimSort to eliminate the code duplication. (See Arrays.java for details.)" />
-      <item value="This is a near duplicate of {@link TimSort}, modified for use with arrays of objects that implement {@link Comparable}, instead of using explicit comparators." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1751" />
-        <entry key="ENGLISH" value="1748" />
+        <entry key="CHINESE" value="1753" />
+        <entry key="ENGLISH" value="1749" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
-        <entry key="FRENCH" value="3" />
+        <entry key="FRENCH" value="4" />
         <entry key="FILIPINO" value="2" />
         <entry key="FINNISH" value="4" />
         <entry key="DUTCH" value="1" />
