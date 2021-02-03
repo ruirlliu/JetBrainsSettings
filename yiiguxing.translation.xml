@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cluster List" />
       <item value="Cluster" />
       <item value="false" />
       <item value="boolean" />
@@ -50,12 +51,11 @@
       <item value="Inserts the specified element into this queue if it is possible to do so immediately without violating capacity restrictions, returning {@code true} upon success and throwing an {@code IllegalStateException} if no space is currently available. When using a capacity-restricted queue, it is generally preferable to use {@link offer(Object) offer}." />
       <item value="poll" />
       <item value="Reentrant" />
-      <item value="transitioning" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1760" />
-        <entry key="ENGLISH" value="1756" />
+        <entry key="CHINESE" value="1761" />
+        <entry key="ENGLISH" value="1757" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
