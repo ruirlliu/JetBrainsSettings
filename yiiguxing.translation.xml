@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Array List" />
+      <item value="break" />
+      <item value="continue" />
       <item value="addon" />
       <item value="addons" />
       <item value="decrypt" />
@@ -48,14 +51,11 @@
       <item value="The main pool control state, ctl, is an atomic integer packing two conceptual fields workerCount, indicating the effective number of threads runState, indicating whether running, shutting down etc" />
       <item value="entry into" />
       <item value="because existing ones died since last checking" />
-      <item value="The call to addWorker atomically checks runState and workerCount, and so prevents false alarms that would add threads when it shouldn't, by returning false." />
-      <item value="Indicates that the same instance of the annotated {@link ChannelHandler} can be added to one or more {@link ChannelPipeline}s multiple times without a race condition. &lt;p&gt; If this annotation is not specified, you have to create a new handler instance every time you add it to a pipeline because it has unshared state such as member variables. &lt;p&gt; This annotation is provided for documentation purpose, just like &lt;a href=&quot;http:www.javaconcurrencyinpractice.comannotationsdoc&quot;&gt;the JCIP annotations&lt;a&gt;." />
-      <item value="explicit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1753" />
-        <entry key="ENGLISH" value="1749" />
+        <entry key="CHINESE" value="1756" />
+        <entry key="ENGLISH" value="1752" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
