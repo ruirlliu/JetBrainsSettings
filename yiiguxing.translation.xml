@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Http Method" />
+      <item value="Http Status" />
+      <item value="Response Entity" />
+      <item value="Resource" />
+      <item value="Rest Template" />
+      <item value="client" />
+      <item value="stereo" />
+      <item value="stereotype" />
+      <item value="wire" />
+      <item value="Autowired" />
+      <item value="Parameterized Type Reference" />
+      <item value="the array of {@code Method} objects representing the public methods of this class" />
+      <item value="the array of {@code Method} objects representing all the declared methods of this class" />
       <item value="cluster List" />
       <item value="Cluster" />
       <item value="false" />
@@ -38,24 +51,11 @@
       <item value="Set containing all worker threads in pool. Accessed only when holding mainLock." />
       <item value="because the queue may become empty after non-empty and vice versa during SHUTDOWN state, but we can only terminate if, after seeing that it is empty, we see that workerCount is 0 (which sometimes entails a recheck -- see below)." />
       <item value="straightforward" />
-      <item value="Detecting the transition from SHUTDOWN to TIDYING is less straightforward than you'd like because the queue may become empty after non-empty and vice versa during SHUTDOWN state, but we can only terminate if, after seeing that it is empty, we see that workerCount is 0 (which sometimes entails a recheck -- see below" />
-      <item value="Threads waiting in awaitTermination() will return when the state reaches TERMINATED." />
-      <item value="SHUTDOWN -&gt; TIDYING When both queue and pool are empty" />
-      <item value="On invocation of shutdown(), perhaps implicitly in finalize() (RUNNING or SHUTDOWN) -&gt; STOP On invocation of shutdownNow()" />
-      <item value="On invocation of shutdown(), perhaps implicitly in finalize() (RUNNING or SHUTDOWN) -&gt; STOP" />
-      <item value="invocation" />
-      <item value="transitions" />
-      <item value="The numerical order among these values matters, to allow ordered comparisons. The runState monotonically increases over time, but need not hit each state." />
-      <item value="matters" />
-      <item value="The numerical order among these values matters, to allow ordered comparisons. The runState monotonically increases over time, but need not hit each state" />
-      <item value="Inserts the specified element into this queue if it is possible to do so immediately without violating capacity restrictions, returning {@code true} upon success and throwing an {@code IllegalStateException} if no space is currently available. When using a capacity-restricted queue, it is generally preferable to use {@link offer(Object) offer}." />
-      <item value="poll" />
-      <item value="Reentrant" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1761" />
-        <entry key="ENGLISH" value="1757" />
+        <entry key="CHINESE" value="1778" />
+        <entry key="ENGLISH" value="1773" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
@@ -73,7 +73,7 @@
         <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="4" />
         <entry key="HINDI" value="10" />
-        <entry key="INDONESIAN" value="1" />
+        <entry key="INDONESIAN" value="2" />
         <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
