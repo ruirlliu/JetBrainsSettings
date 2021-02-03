@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="decremented" />
+      <item value="Performs blocking or timed wait for a task, depending on current configuration settings, or returns null if this worker must exit because of any of: 1. There are more than maximumPoolSize workers (due to a call to setMaximumPoolSize). 2. The pool is stopped. 3. The pool is shutdown and the queue is empty. 4. This worker timed out waiting for a task, and timed-out workers are subject to termination (that is, {@code allowCoreThreadTimeOut || workerCount &gt; corePoolSize}) both before and after the timed wait, and if the queue is non-empty, this worker is not the last thread in the pool." />
+      <item value="Transitions to TERMINATED state if either (SHUTDOWN and pool and queue empty) or (STOP and pool empty). If otherwise eligible to terminate but workerCount is nonzero, interrupts an idle worker to ensure that shutdown signals propagate. This method must be called following any action that might make termination possible -- reducing worker count or removing tasks from the queue during shutdown. The method is non-private to allow access from ScheduledThreadPoolExecutor." />
+      <item value="Interrupts threads that might be waiting for tasks (as indicated by not being locked) so they can check for termination or configuration changes. Ignores SecurityExceptions (in which case some threads may remain uninterrupted)." />
+      <item value="Performs blocking or timed wait for a task, depending on current configuration settings, or returns null if this worker must exit because of any of: 1. There are more than maximumPoolSize workers (due to a call to setMaximumPoolSize). 2. The pool is stopped. 3. The pool is shutdown and the queue is empty. 4. This worker timed out waiting for a task, and timed-out workers are subject to termination (that is, {@code allowCoreThreadTimeOut || workerCount &gt; corePoolSize}) both before and after the timed wait, and if the queue is non-empty, this worker is not the last thread in the pool. @return task, or null if the worker must exit, in which case workerCount is decremented" />
       <item value="2. Before running any task, the lock is acquired to prevent other pool interrupts while the task is executing, and then we ensure that unless pool is stopping, this thread does not have its interrupt set." />
       <item value="We may start out with an initial task, in which case we don't need to get the first one. Otherwise, as long as pool is running, we get tasks from getTask. If it returns null then the worker exits due to changed pool state or configuration parameters. Other exits result from exception throws in external code, in which case completedAbruptly holds, which usually leads processWorkerExit to replace this thread." />
       <item value="Main worker run loop. Repeatedly gets tasks from queue and executes them, while coping with a number of issues:" />
@@ -46,16 +51,11 @@
       <item value="CAPACITY" />
       <item value="TERMINATED" />
       <item value="TIDYING" />
-      <item value="STOP" />
-      <item value="SHUTDOWN" />
-      <item value="Programs" />
-      <item value="java" />
-      <item value="Java" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1788" />
-        <entry key="ENGLISH" value="1783" />
+        <entry key="CHINESE" value="1793" />
+        <entry key="ENGLISH" value="1788" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
