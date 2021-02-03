@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="So we recheck state and if necessary roll back the enqueuing if stopped, or start a new thread if there are none." />
+      <item value="If a task can be successfully queued, then we still need to double-check whether we should have added a thread (because existing ones died since last checking) or that the pool shut down since entry into this method" />
       <item value="offer" />
       <item value="Http Method" />
       <item value="Http Status" />
@@ -49,13 +51,11 @@
       <item value="agent" />
       <item value="visualvm" />
       <item value="Tracks largest attained pool size. Accessed only under mainLock." />
-      <item value="Set containing all worker threads in pool. Accessed only when holding mainLock." />
-      <item value="because the queue may become empty after non-empty and vice versa during SHUTDOWN state, but we can only terminate if, after seeing that it is empty, we see that workerCount is 0 (which sometimes entails a recheck -- see below)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1779" />
-        <entry key="ENGLISH" value="1774" />
+        <entry key="CHINESE" value="1781" />
+        <entry key="ENGLISH" value="1776" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
