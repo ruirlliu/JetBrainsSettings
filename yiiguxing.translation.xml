@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="List Op" />
       <item value="Override" />
       <item value="Sets maximum time to live for persistent connections" />
       <item value="Present" />
@@ -50,11 +51,10 @@
       <item value="rs" />
       <item value="javaagent" />
       <item value="Jet Brains" />
-      <item value="core Pool Size" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1799" />
+        <entry key="CHINESE" value="1800" />
         <entry key="ENGLISH" value="1793" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
@@ -62,7 +62,7 @@
         <entry key="FRENCH" value="4" />
         <entry key="FILIPINO" value="3" />
         <entry key="FINNISH" value="4" />
-        <entry key="DUTCH" value="1" />
+        <entry key="DUTCH" value="2" />
         <entry key="CZECH" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="3" />
