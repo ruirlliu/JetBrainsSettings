@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="superclass" />
+      <item value="uninstantiable" />
+      <item value="Used by VM to control lowmem implicit suspension." />
       <item value="decremented" />
       <item value="Performs blocking or timed wait for a task, depending on current configuration settings, or returns null if this worker must exit because of any of: 1. There are more than maximumPoolSize workers (due to a call to setMaximumPoolSize). 2. The pool is stopped. 3. The pool is shutdown and the queue is empty. 4. This worker timed out waiting for a task, and timed-out workers are subject to termination (that is, {@code allowCoreThreadTimeOut || workerCount &gt; corePoolSize}) both before and after the timed wait, and if the queue is non-empty, this worker is not the last thread in the pool." />
       <item value="Transitions to TERMINATED state if either (SHUTDOWN and pool and queue empty) or (STOP and pool empty). If otherwise eligible to terminate but workerCount is nonzero, interrupts an idle worker to ensure that shutdown signals propagate. This method must be called following any action that might make termination possible -- reducing worker count or removing tasks from the queue during shutdown. The method is non-private to allow access from ScheduledThreadPoolExecutor." />
@@ -48,19 +51,16 @@
       <item value="command" />
       <item value="true" />
       <item value="return" />
-      <item value="CAPACITY" />
-      <item value="TERMINATED" />
-      <item value="TIDYING" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1793" />
-        <entry key="ENGLISH" value="1788" />
+        <entry key="CHINESE" value="1796" />
+        <entry key="ENGLISH" value="1790" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
         <entry key="FRENCH" value="4" />
-        <entry key="FILIPINO" value="2" />
+        <entry key="FILIPINO" value="3" />
         <entry key="FINNISH" value="4" />
         <entry key="DUTCH" value="1" />
         <entry key="CZECH" value="1" />
