@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="with Name" />
+      <item value="projects" />
+      <item value="client" />
       <item value="Exact" />
       <item value="Project" />
-      <item value="client" />
-      <item value="projects" />
       <item value="ADVANCED" />
       <item value="directly" />
       <item value="Jenkins" />
@@ -50,12 +51,11 @@
       <item value="addons" />
       <item value="decrypt" />
       <item value="Method that will return a valid String representation of the container value, if the node is a value node (method {@link isValueNode} returns true), otherwise empty String." />
-      <item value="RUNNING" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1809" />
-        <entry key="ENGLISH" value="1802" />
+        <entry key="CHINESE" value="1814" />
+        <entry key="ENGLISH" value="1807" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
