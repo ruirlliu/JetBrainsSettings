@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="decapitalize" />
       <item value="Simple types are defined as anything other than one of recognized container types (arrays, Collections, Maps). For our needs we need not know anything further, since we have no way of dealing with generic types other than Collections and Maps." />
       <item value="filter" />
       <item value="Filters Encoder" />
@@ -50,12 +51,11 @@
       <item value="Cluster" />
       <item value="false" />
       <item value="boolean" />
-      <item value="env Relate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1821" />
-        <entry key="ENGLISH" value="1813" />
+        <entry key="CHINESE" value="1822" />
+        <entry key="ENGLISH" value="1814" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
