@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="void" />
+      <item value="args" />
       <item value="Absent" />
       <item value="decapitalize" />
       <item value="Simple types are defined as anything other than one of recognized container types (arrays, Collections, Maps). For our needs we need not know anything further, since we have no way of dealing with generic types other than Collections and Maps." />
@@ -49,13 +51,11 @@
       <item value="the array of {@code Method} objects representing the public methods of this class" />
       <item value="the array of {@code Method} objects representing all the declared methods of this class" />
       <item value="cluster List" />
-      <item value="Cluster" />
-      <item value="false" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1823" />
-        <entry key="ENGLISH" value="1815" />
+        <entry key="CHINESE" value="1825" />
+        <entry key="ENGLISH" value="1816" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
@@ -63,7 +63,7 @@
         <entry key="FILIPINO" value="3" />
         <entry key="FINNISH" value="5" />
         <entry key="DUTCH" value="2" />
-        <entry key="CZECH" value="1" />
+        <entry key="CZECH" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="3" />
         <entry key="ZULU" value="1" />
