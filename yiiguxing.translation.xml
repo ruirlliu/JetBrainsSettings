@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="token" />
       <item value="Function" />
       <item value="Intrinsic" />
       <item value="index of the search key, if it is contained in the array; otherwise, &lt;tt&gt;(-(&lt;i&gt;insertion point&lt;i&gt;) - 1)&lt;tt&gt;. The &lt;i&gt;insertion point&lt;i&gt; is defined as the point at which the key would be inserted into the array: the index of the first element greater than the key, or &lt;tt&gt;a.length&lt;tt&gt; if all elements in the array are less than the specified key. Note that this guarantees that the return value will be &amp;gt;= 0 if and only if the key is found." />
@@ -50,12 +51,11 @@
       <item value="stereotype" />
       <item value="wire" />
       <item value="Autowired" />
-      <item value="Parameterized Type Reference" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1828" />
-        <entry key="ENGLISH" value="1819" />
+        <entry key="CHINESE" value="1829" />
+        <entry key="ENGLISH" value="1820" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
