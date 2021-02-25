@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Overall Health Status" />
       <item value="token" />
       <item value="Function" />
       <item value="Intrinsic" />
@@ -50,12 +51,11 @@
       <item value="stereo" />
       <item value="stereotype" />
       <item value="wire" />
-      <item value="Autowired" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1829" />
-        <entry key="ENGLISH" value="1820" />
+        <entry key="CHINESE" value="1830" />
+        <entry key="ENGLISH" value="1821" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
