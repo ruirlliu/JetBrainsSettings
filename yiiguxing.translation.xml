@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="connection Timeout" />
+      <item value="Integer" />
+      <item value="Time Unit" />
+      <item value="long" />
+      <item value="time Unit" />
       <item value="IMMUTABLE" />
       <item value="verify" />
       <item value="Specific Handler" />
@@ -46,16 +51,11 @@
       <item value="We may start out with an initial task, in which case we don't need to get the first one. Otherwise, as long as pool is running, we get tasks from getTask. If it returns null then the worker exits due to changed pool state or configuration parameters. Other exits result from exception throws in external code, in which case completedAbruptly holds, which usually leads processWorkerExit to replace this thread." />
       <item value="Main worker run loop. Repeatedly gets tasks from queue and executes them, while coping with a number of issues:" />
       <item value="So we recheck state and if necessary roll back the enqueuing if stopped, or start a new thread if there are none." />
-      <item value="If a task can be successfully queued, then we still need to double-check whether we should have added a thread (because existing ones died since last checking) or that the pool shut down since entry into this method" />
-      <item value="offer" />
-      <item value="Http Method" />
-      <item value="Http Status" />
-      <item value="Response Entity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1837" />
-        <entry key="ENGLISH" value="1828" />
+        <entry key="CHINESE" value="1844" />
+        <entry key="ENGLISH" value="1835" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
