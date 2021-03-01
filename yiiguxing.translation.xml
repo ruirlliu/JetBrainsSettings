@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="stream" />
+      <item value="paas" />
+      <item value="cache" />
+      <item value="common" />
+      <item value="version" />
+      <item value="rabbit" />
+      <item value="dependency" />
+      <item value="bocloud" />
+      <item value="artifact Id" />
+      <item value="access" />
       <item value="load Class" />
       <item value="condition" />
       <item value="Absent" />
@@ -41,21 +51,11 @@
       <item value="Jenkins" />
       <item value="List Op" />
       <item value="Override" />
-      <item value="Sets maximum time to live for persistent connections" />
-      <item value="Present" />
-      <item value="superclass" />
-      <item value="uninstantiable" />
-      <item value="Used by VM to control lowmem implicit suspension." />
-      <item value="decremented" />
-      <item value="Performs blocking or timed wait for a task, depending on current configuration settings, or returns null if this worker must exit because of any of: 1. There are more than maximumPoolSize workers (due to a call to setMaximumPoolSize). 2. The pool is stopped. 3. The pool is shutdown and the queue is empty. 4. This worker timed out waiting for a task, and timed-out workers are subject to termination (that is, {@code allowCoreThreadTimeOut || workerCount &gt; corePoolSize}) both before and after the timed wait, and if the queue is non-empty, this worker is not the last thread in the pool." />
-      <item value="Transitions to TERMINATED state if either (SHUTDOWN and pool and queue empty) or (STOP and pool empty). If otherwise eligible to terminate but workerCount is nonzero, interrupts an idle worker to ensure that shutdown signals propagate. This method must be called following any action that might make termination possible -- reducing worker count or removing tasks from the queue during shutdown. The method is non-private to allow access from ScheduledThreadPoolExecutor." />
-      <item value="Interrupts threads that might be waiting for tasks (as indicated by not being locked) so they can check for termination or configuration changes. Ignores SecurityExceptions (in which case some threads may remain uninterrupted)." />
-      <item value="Performs blocking or timed wait for a task, depending on current configuration settings, or returns null if this worker must exit because of any of: 1. There are more than maximumPoolSize workers (due to a call to setMaximumPoolSize). 2. The pool is stopped. 3. The pool is shutdown and the queue is empty. 4. This worker timed out waiting for a task, and timed-out workers are subject to termination (that is, {@code allowCoreThreadTimeOut || workerCount &gt; corePoolSize}) both before and after the timed wait, and if the queue is non-empty, this worker is not the last thread in the pool. @return task, or null if the worker must exit, in which case workerCount is decremented" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1849" />
-        <entry key="ENGLISH" value="1840" />
+        <entry key="CHINESE" value="1864" />
+        <entry key="ENGLISH" value="1852" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
@@ -72,7 +72,7 @@
         <entry key="SWEDISH" value="1" />
         <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="4" />
-        <entry key="HINDI" value="10" />
+        <entry key="HINDI" value="11" />
         <entry key="INDONESIAN" value="2" />
         <entry key="VIETNAMESE" value="1" />
       </map>
