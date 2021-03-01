@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns the current value of the running Java Virtual Machine's high-resolution time source, in nanoseconds." />
+      <item value="milliseconds" />
+      <item value="parent" />
       <item value="Finds the class with the specified &lt;a href=&quot;name&quot;&gt;binary name&lt;a&gt;. This method should be overridden by class loader implementations that follow the delegation model for loading classes, and will be invoked by the {@link loadClass &lt;tt&gt;loadClass&lt;tt&gt;} method after checking the parent class loader for the requested class. The default implementation throws a &lt;tt&gt;ClassNotFoundException&lt;tt&gt;." />
       <item value="Returns the class with the given &lt;a href=&quot;name&quot;&gt;binary name&lt;a&gt; if this loader has been recorded by the Java virtual machine as an initiating loader of a class with that &lt;a href=&quot;name&quot;&gt;binary name&lt;a&gt;. Otherwise &lt;tt&gt;null&lt;tt&gt; is returned." />
       <item value="valid" />
@@ -48,14 +51,11 @@
       <item value="json" />
       <item value="images" />
       <item value="liurui" />
-      <item value="Exec" />
-      <item value="with Name" />
-      <item value="projects" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1872" />
-        <entry key="ENGLISH" value="1858" />
+        <entry key="CHINESE" value="1878" />
+        <entry key="ENGLISH" value="1864" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
