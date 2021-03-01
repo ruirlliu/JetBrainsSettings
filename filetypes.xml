@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <removed_mapping ext="klib" type="ARCHIVE" />
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="agent" type="PLAIN_TEXT" />
       <mapping pattern="libnetty_resolver_dns_native_macos_x86_64.jnilib" type="PLAIN_TEXT" />
       <mapping pattern="test.html" type="PLAIN_TEXT" />
