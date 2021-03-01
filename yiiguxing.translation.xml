@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mappers" />
       <item value="Returns the current value of the running Java Virtual Machine's high-resolution time source, in nanoseconds." />
       <item value="milliseconds" />
       <item value="parent" />
@@ -50,11 +51,10 @@
       <item value="Filters Encoder" />
       <item value="json" />
       <item value="images" />
-      <item value="liurui" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1878" />
+        <entry key="CHINESE" value="1880" />
         <entry key="ENGLISH" value="1864" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
