@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Concurrent Hash Map" />
       <item value="class" />
       <item value="equals" />
       <item value="mapper" />
@@ -50,12 +51,11 @@
       <item value="connection Timeout" />
       <item value="Integer" />
       <item value="Time Unit" />
-      <item value="long" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1908" />
-        <entry key="ENGLISH" value="1890" />
+        <entry key="CHINESE" value="1909" />
+        <entry key="ENGLISH" value="1891" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
