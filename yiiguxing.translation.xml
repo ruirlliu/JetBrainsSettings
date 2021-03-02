@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="That is, {@code Error} and its subclasses are regarded as unchecked exceptions for the purposes of compile-time checking of exceptions." />
+      <item value="Unchecked exceptions do &lt;em&gt;not&lt;em&gt; need to be declared in a method or constructor's {@code throws} clause if they can be thrown by the execution of the method or constructor and propagate outside the method or constructor boundary" />
+      <item value="Unchecked exceptions do &lt;em&gt;not&lt;em&gt; need to be declared in a method or constructor's {@code throws} clause if they can be thrown by the execution of the method or constructor and propagate outside the method or constructor boundary." />
+      <item value="Compile-Time Checking of Exceptions" />
+      <item value="This annotation assists the 'Data flow to this' feature by describing data flow from the method parameter to the corresponding container (e.g. &lt;code&gt;ArrayList.add(item)&lt;code&gt;) or from the container to the method return value (e.g. &lt;code&gt;Set.toArray()&lt;code&gt;) or between method parameters (e.g. &lt;code&gt;System.arraycopy(array1, 0, array2, length)&lt;code&gt;)" />
       <item value="Concurrent Hash Map" />
       <item value="class" />
       <item value="equals" />
@@ -46,16 +51,11 @@
       <item value="access" />
       <item value="load Class" />
       <item value="Absent" />
-      <item value="The NO_OP HostnameVerifier essentially turns hostname verification off. This implementation is a no-op, and never throws the SSLException." />
-      <item value="trust Self Sign Cert" />
-      <item value="connection Timeout" />
-      <item value="Integer" />
-      <item value="Time Unit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1909" />
-        <entry key="ENGLISH" value="1891" />
+        <entry key="CHINESE" value="1914" />
+        <entry key="ENGLISH" value="1896" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
