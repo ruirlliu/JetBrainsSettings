@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Creates a (reactive) web application context without defining any {@code server.port=0} {@link Environment} property." />
+      <item value="Creates a web application context (reactive or servlet based) and sets a {@code server.port=0} {@link Environment} property (which usually triggers listening on a random port). Often used in conjunction with a {@link LocalServerPort} injected field on the test." />
       <item value="evict" />
       <item value="Group Key" />
       <item value="Object" />
@@ -49,13 +51,11 @@
       <item value="verify" />
       <item value="Specific Handler" />
       <item value="Items Handler" />
-      <item value="resources" />
-      <item value="Overall Health Status" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1898" />
-        <entry key="ENGLISH" value="1882" />
+        <entry key="CHINESE" value="1901" />
+        <entry key="ENGLISH" value="1885" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
