@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Opaque" />
       <item value="compatibility" />
       <item value="Static holder for local Spring properties, i.e. defined at the Spring library level. &lt;p&gt;Reads a {@code spring.properties} file from the root of the Spring library classpath, and also allows for programmatically setting properties through {@link setProperty}. When checking a property, local entries are being checked first, then falling back to JVM-level system properties through a {@link SystemgetProperty} check. &lt;p&gt;This is an alternative way to set Spring-related system properties such as &quot;spring.getenv.ignore&quot; and &quot;spring.beaninfo.ignore&quot;, in particular for scenarios where JVM system properties are locked on the target platform (e.g. WebSphere). See {@link setFlag} for a convenient way to locally set such flags to &quot;true&quot;." />
       <item value="Synchronous client to perform HTTP requests, exposing a simple, template method API over underlying HTTP client libraries such as the JDK {@code HttpURLConnection}, Apache HttpComponents, and others." />
@@ -50,12 +51,11 @@
       <item value="rabbit" />
       <item value="dependency" />
       <item value="bocloud" />
-      <item value="artifact Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1917" />
-        <entry key="ENGLISH" value="1899" />
+        <entry key="CHINESE" value="1918" />
+        <entry key="ENGLISH" value="1900" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
