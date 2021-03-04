@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Identifies a method as a default instance method." />
+      <item value="It causes NPEs because of some lifecycle race condition" />
+      <item value="race condition" />
+      <item value="has Text" />
+      <item value="String Utils" />
+      <item value="unwrap" />
+      <item value="equals" />
+      <item value="hash Code" />
+      <item value="String Builder" />
+      <item value="Hard Coded" />
       <item value="Absent" />
       <item value="Opaque" />
       <item value="compatibility" />
@@ -13,7 +23,6 @@
       <item value="This annotation assists the 'Data flow to this' feature by describing data flow from the method parameter to the corresponding container (e.g. &lt;code&gt;ArrayList.add(item)&lt;code&gt;) or from the container to the method return value (e.g. &lt;code&gt;Set.toArray()&lt;code&gt;) or between method parameters (e.g. &lt;code&gt;System.arraycopy(array1, 0, array2, length)&lt;code&gt;)" />
       <item value="Concurrent Hash Map" />
       <item value="class" />
-      <item value="equals" />
       <item value="mapper" />
       <item value="mappers" />
       <item value="condition" />
@@ -42,20 +51,11 @@
       <item value="potential" />
       <item value="is System Domain Loader" />
       <item value="tmpdir" />
-      <item value="vendor" />
-      <item value="isalist" />
-      <item value="stream" />
-      <item value="paas" />
-      <item value="cache" />
-      <item value="common" />
-      <item value="version" />
-      <item value="rabbit" />
-      <item value="dependency" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1919" />
-        <entry key="ENGLISH" value="1901" />
+        <entry key="CHINESE" value="1929" />
+        <entry key="ENGLISH" value="1911" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
