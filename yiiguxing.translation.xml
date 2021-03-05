@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cache" />
       <item value="Identifies a method as a default instance method." />
       <item value="It causes NPEs because of some lifecycle race condition" />
       <item value="race condition" />
@@ -50,12 +51,11 @@
       <item value="valid" />
       <item value="potential" />
       <item value="is System Domain Loader" />
-      <item value="tmpdir" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1929" />
-        <entry key="ENGLISH" value="1911" />
+        <entry key="CHINESE" value="1930" />
+        <entry key="ENGLISH" value="1912" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
