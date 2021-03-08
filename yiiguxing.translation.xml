@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="callback" />
+      <item value="attach" />
+      <item value="Reactor" />
+      <item value="implements" />
+      <item value="Runnable" />
+      <item value="A token representing the registration of a {@link SelectableChannel} with a {@link Selector}." />
+      <item value="Attaches the given object to this key. &lt;p&gt; An attached object may later be retrieved via the {@link attachment() attachment} method. Only one object may be attached at a time; invoking this method causes any previous attachment to be discarded. The current attachment may be discarded by attaching &lt;tt&gt;null&lt;tt&gt;. &lt;p&gt;" />
+      <item value="next" />
       <item value="reactor" />
       <item value="split" />
       <item value="equals" />
@@ -43,19 +51,11 @@
       <item value="evict" />
       <item value="Group Key" />
       <item value="static" />
-      <item value="Class" />
-      <item value="type" />
-      <item value="primitive" />
-      <item value="represents" />
-      <item value="conversion" />
-      <item value="reference" />
-      <item value="widening" />
-      <item value="interface" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1943" />
-        <entry key="ENGLISH" value="1924" />
+        <entry key="CHINESE" value="1955" />
+        <entry key="ENGLISH" value="1936" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
