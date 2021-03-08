@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reactor" />
       <item value="split" />
       <item value="equals" />
       <item value="Registrar" />
@@ -50,12 +51,11 @@
       <item value="reference" />
       <item value="widening" />
       <item value="interface" />
-      <item value="Returns the current value of the running Java Virtual Machine's high-resolution time source, in nanoseconds." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1941" />
-        <entry key="ENGLISH" value="1922" />
+        <entry key="CHINESE" value="1943" />
+        <entry key="ENGLISH" value="1924" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
