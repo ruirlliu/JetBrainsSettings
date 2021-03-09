@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="devops" />
+      <item value="SNAPSHOT" />
+      <item value="selection" />
+      <item value="operation" />
+      <item value="Selection Key" />
+      <item value="Socket Channel" />
+      <item value="Runnable" />
+      <item value="Mthread Handler" />
       <item value="Causes the first selection operation that has not yet returned to return immediately." />
       <item value="A key representing the registration of this channel with the given selector" />
       <item value="registration" />
@@ -11,7 +19,6 @@
       <item value="attach" />
       <item value="Reactor" />
       <item value="implements" />
-      <item value="Runnable" />
       <item value="A token representing the registration of a {@link SelectableChannel} with a {@link Selector}." />
       <item value="Attaches the given object to this key. &lt;p&gt; An attached object may later be retrieved via the {@link attachment() attachment} method. Only one object may be attached at a time; invoking this method causes any previous attachment to be discarded. The current attachment may be discarded by attaching &lt;tt&gt;null&lt;tt&gt;. &lt;p&gt;" />
       <item value="next" />
@@ -44,18 +51,11 @@
       <item value="Unchecked exceptions do &lt;em&gt;not&lt;em&gt; need to be declared in a method or constructor's {@code throws} clause if they can be thrown by the execution of the method or constructor and propagate outside the method or constructor boundary" />
       <item value="Unchecked exceptions do &lt;em&gt;not&lt;em&gt; need to be declared in a method or constructor's {@code throws} clause if they can be thrown by the execution of the method or constructor and propagate outside the method or constructor boundary." />
       <item value="Compile-Time Checking of Exceptions" />
-      <item value="This annotation assists the 'Data flow to this' feature by describing data flow from the method parameter to the corresponding container (e.g. &lt;code&gt;ArrayList.add(item)&lt;code&gt;) or from the container to the method return value (e.g. &lt;code&gt;Set.toArray()&lt;code&gt;) or between method parameters (e.g. &lt;code&gt;System.arraycopy(array1, 0, array2, length)&lt;code&gt;)" />
-      <item value="Concurrent Hash Map" />
-      <item value="class" />
-      <item value="mapper" />
-      <item value="mappers" />
-      <item value="condition" />
-      <item value="for" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1962" />
-        <entry key="ENGLISH" value="1943" />
+        <entry key="CHINESE" value="1973" />
+        <entry key="ENGLISH" value="1952" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
@@ -63,7 +63,7 @@
         <entry key="FILIPINO" value="4" />
         <entry key="FINNISH" value="5" />
         <entry key="DUTCH" value="2" />
-        <entry key="CZECH" value="3" />
+        <entry key="CZECH" value="5" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="3" />
         <entry key="ZULU" value="1" />
