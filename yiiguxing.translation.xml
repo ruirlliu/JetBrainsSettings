@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Reserve" />
       <item value="devops" />
       <item value="SNAPSHOT" />
       <item value="selection" />
@@ -50,12 +51,11 @@
       <item value="That is, {@code Error} and its subclasses are regarded as unchecked exceptions for the purposes of compile-time checking of exceptions." />
       <item value="Unchecked exceptions do &lt;em&gt;not&lt;em&gt; need to be declared in a method or constructor's {@code throws} clause if they can be thrown by the execution of the method or constructor and propagate outside the method or constructor boundary" />
       <item value="Unchecked exceptions do &lt;em&gt;not&lt;em&gt; need to be declared in a method or constructor's {@code throws} clause if they can be thrown by the execution of the method or constructor and propagate outside the method or constructor boundary." />
-      <item value="Compile-Time Checking of Exceptions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1973" />
-        <entry key="ENGLISH" value="1952" />
+        <entry key="CHINESE" value="1974" />
+        <entry key="ENGLISH" value="1953" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
