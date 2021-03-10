@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The value may indicate a suggestion for a logical component name, to be turned into a Spring bean in case of an autodetected component. @return the suggested component name, if any (or empty String otherwise)" />
       <item value="Reserve" />
       <item value="devops" />
       <item value="SNAPSHOT" />
@@ -50,12 +51,11 @@
       <item value="Synchronous client to perform HTTP requests, exposing a simple, template method API over underlying HTTP client libraries such as the JDK {@code HttpURLConnection}, Apache HttpComponents, and others." />
       <item value="That is, {@code Error} and its subclasses are regarded as unchecked exceptions for the purposes of compile-time checking of exceptions." />
       <item value="Unchecked exceptions do &lt;em&gt;not&lt;em&gt; need to be declared in a method or constructor's {@code throws} clause if they can be thrown by the execution of the method or constructor and propagate outside the method or constructor boundary" />
-      <item value="Unchecked exceptions do &lt;em&gt;not&lt;em&gt; need to be declared in a method or constructor's {@code throws} clause if they can be thrown by the execution of the method or constructor and propagate outside the method or constructor boundary." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1974" />
-        <entry key="ENGLISH" value="1953" />
+        <entry key="CHINESE" value="1975" />
+        <entry key="ENGLISH" value="1954" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
