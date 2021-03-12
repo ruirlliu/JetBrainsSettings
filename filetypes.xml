@@ -10,7 +10,6 @@
       <mapping ext="peroperties" type="PLAIN_TEXT" />
       <mapping ext="propertiess" type="PLAIN_TEXT" />
       <mapping ext="so" type="PLAIN_TEXT" />
-      <mapping ext="graphqls" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="setting" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
