@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="vampire" />
       <item value="Gwt Compatible" />
       <item value="The presence of this annotation on an API indicates that the method may &lt;em&gt;not&lt;em&gt; be used with the &lt;a href=&quot;http:www.gwtproject.org&quot;&gt;Google Web Toolkit&lt;a&gt; (GWT)." />
       <item value="Removal" />
@@ -50,12 +51,11 @@
       <item value="It causes NPEs because of some lifecycle race condition" />
       <item value="race condition" />
       <item value="has Text" />
-      <item value="String Utils" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1987" />
-        <entry key="ENGLISH" value="1966" />
+        <entry key="CHINESE" value="1988" />
+        <entry key="ENGLISH" value="1967" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
@@ -79,7 +79,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615168616563" />
+    <option name="lastTrimTime" value="1615771870980" />
   </component>
   <component name="Settings">
     <option name="translator" value="YOUDAO" />
