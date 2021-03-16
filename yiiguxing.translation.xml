@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Modify the application context's internal bean definition registry after its standard initialization. All regular bean definitions will have been loaded, but no beans will have been instantiated yet. This allows for adding further bean definitions before the next post-processing phase kicks in. @param registry the bean definition registry used by the application context @throws org.springframework.beans.BeansException in case of errors" />
+      <item value="Extension to the standard {@link BeanFactoryPostProcessor} SPI, allowing for the registration of further bean definitions &lt;i&gt;before&lt;i&gt; regular BeanFactoryPostProcessor detection kicks in. In particular, BeanDefinitionRegistryPostProcessor may register further bean definitions which in turn define BeanFactoryPostProcessor instances." />
       <item value="the binary qualified name of the class to be read." />
       <item value="Interface that defines abstract access to the annotations of a specific class, in a form that does not require that class to be loaded yet." />
       <item value="be assigned to objects of this class" />
@@ -49,13 +51,11 @@
       <item value="operation" />
       <item value="Selection Key" />
       <item value="Socket Channel" />
-      <item value="Runnable" />
-      <item value="Mthread Handler" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2015" />
-        <entry key="ENGLISH" value="1993" />
+        <entry key="CHINESE" value="2017" />
+        <entry key="ENGLISH" value="1995" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
