@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the binary qualified name of the class to be read." />
       <item value="Interface that defines abstract access to the annotations of a specific class, in a form that does not require that class to be loaded yet." />
       <item value="be assigned to objects of this class" />
       <item value="the {@code boolean} value indicating whether objects of the type {@code cls} can be assigned to objects of this class" />
@@ -50,12 +51,11 @@
       <item value="Socket Channel" />
       <item value="Runnable" />
       <item value="Mthread Handler" />
-      <item value="Causes the first selection operation that has not yet returned to return immediately." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2014" />
-        <entry key="ENGLISH" value="1992" />
+        <entry key="CHINESE" value="2015" />
+        <entry key="ENGLISH" value="1993" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
