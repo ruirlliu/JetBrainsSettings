@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="out-of-the-box" />
+      <item value="this will get typed mappers working correctly," />
+      <item value="this auto-configuration will attempt to register mappers based on the interface definitions in or under the root auto-configuration package." />
+      <item value="interface definitions" />
+      <item value="If {@link org.mybatis.spring.annotation.MapperScan} is used, or a configuration file is specified as a property, those will be considered, otherwise this auto-configuration will attempt to register mappers based on the interface definitions in or under the root auto-configuration package." />
+      <item value="those will be considered" />
+      <item value="auto-configuration will attempt to register mappers based on the interface definitions in or under the root auto-configuration package." />
+      <item value="Contributes" />
       <item value="Template" />
       <item value="Session" />
       <item value="properties" />
@@ -43,19 +51,11 @@
       <item value="Override" />
       <item value="Acceptor" />
       <item value="interest" />
-      <item value="callback" />
-      <item value="attach" />
-      <item value="Reactor" />
-      <item value="implements" />
-      <item value="A token representing the registration of a {@link SelectableChannel} with a {@link Selector}." />
-      <item value="Attaches the given object to this key. &lt;p&gt; An attached object may later be retrieved via the {@link attachment() attachment} method. Only one object may be attached at a time; invoking this method causes any previous attachment to be discarded. The current attachment may be discarded by attaching &lt;tt&gt;null&lt;tt&gt;. &lt;p&gt;" />
-      <item value="next" />
-      <item value="reactor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2001" />
-        <entry key="ENGLISH" value="1979" />
+        <entry key="CHINESE" value="2009" />
+        <entry key="ENGLISH" value="1987" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
