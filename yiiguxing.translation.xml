@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Interface that defines abstract access to the annotations of a specific class, in a form that does not require that class to be loaded yet." />
       <item value="be assigned to objects of this class" />
       <item value="the {@code boolean} value indicating whether objects of the type {@code cls} can be assigned to objects of this class" />
       <item value="Select and return the names of which class(es) should be imported based on the {@link AnnotationMetadata} of the importing @{@link Configuration} class. @return the class names, or an empty array if none" />
@@ -50,12 +51,11 @@
       <item value="Runnable" />
       <item value="Mthread Handler" />
       <item value="Causes the first selection operation that has not yet returned to return immediately." />
-      <item value="A key representing the registration of this channel with the given selector" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2013" />
-        <entry key="ENGLISH" value="1991" />
+        <entry key="CHINESE" value="2014" />
+        <entry key="ENGLISH" value="1992" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
