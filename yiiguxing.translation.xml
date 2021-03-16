@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Select and return the names of which class(es) should be imported based on the {@link AnnotationMetadata} of the importing @{@link Configuration} class. @return the class names, or an empty array if none" />
+      <item value="Interface to be implemented by types that register additional bean definitions when processing @{@link Configuration} classes. Useful when operating at the bean definition level (as opposed to {@code @Bean} methodinstance level) is desired or necessary." />
       <item value="out-of-the-box" />
       <item value="this will get typed mappers working correctly," />
       <item value="this auto-configuration will attempt to register mappers based on the interface definitions in or under the root auto-configuration package." />
@@ -49,13 +51,11 @@
       <item value="A key representing the registration of this channel with the given selector" />
       <item value="registration" />
       <item value="Override" />
-      <item value="Acceptor" />
-      <item value="interest" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2009" />
-        <entry key="ENGLISH" value="1987" />
+        <entry key="CHINESE" value="2011" />
+        <entry key="ENGLISH" value="1989" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
