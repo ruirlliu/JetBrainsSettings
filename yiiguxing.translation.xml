@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="BeanFactory that enables injection of MyBatis mapper interfaces. It can be set up with a SqlSessionFactory or a pre-configured SqlSessionTemplate." />
+      <item value="If mapper registering configuration or mapper scanning configuration not present, this configuration allow to scan mappers based on the same component-scanning path as Spring Boot itself." />
+      <item value="Instantiate a class using its 'primary' constructor (for Kotlin classes, potentially having default arguments declared) or its default constructor (for regular Java classes, expecting a standard no-arg setup). &lt;p&gt;Note that this method tries to set the constructor accessible if given a non-accessible (that is, non-public) constructor." />
+      <item value="Introspection" />
+      <item value="Packages to search type aliases" />
+      <item value="Interceptor Chain" />
+      <item value="REUSE" />
       <item value="vampire" />
       <item value="Gwt Compatible" />
       <item value="The presence of this annotation on an API indicates that the method may &lt;em&gt;not&lt;em&gt; be used with the &lt;a href=&quot;http:www.gwtproject.org&quot;&gt;Google Web Toolkit&lt;a&gt; (GWT)." />
@@ -44,18 +51,11 @@
       <item value="update Registry Image" />
       <item value="Object" />
       <item value="Data Response" />
-      <item value="invoke" />
-      <item value="args" />
-      <item value="Cache" />
-      <item value="Identifies a method as a default instance method." />
-      <item value="It causes NPEs because of some lifecycle race condition" />
-      <item value="race condition" />
-      <item value="has Text" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1988" />
-        <entry key="ENGLISH" value="1967" />
+        <entry key="CHINESE" value="1995" />
+        <entry key="ENGLISH" value="1974" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
