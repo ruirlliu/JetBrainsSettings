@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Template" />
+      <item value="Session" />
+      <item value="properties" />
+      <item value="metadata" />
+      <item value="configure" />
+      <item value="autoconfigure" />
       <item value="BeanFactory that enables injection of MyBatis mapper interfaces. It can be set up with a SqlSessionFactory or a pre-configured SqlSessionTemplate." />
       <item value="If mapper registering configuration or mapper scanning configuration not present, this configuration allow to scan mappers based on the same component-scanning path as Spring Boot itself." />
       <item value="Instantiate a class using its 'primary' constructor (for Kotlin classes, potentially having default arguments declared) or its default constructor (for regular Java classes, expecting a standard no-arg setup). &lt;p&gt;Note that this method tries to set the constructor accessible if given a non-accessible (that is, non-public) constructor." />
@@ -45,17 +51,11 @@
       <item value="Attaches the given object to this key. &lt;p&gt; An attached object may later be retrieved via the {@link attachment() attachment} method. Only one object may be attached at a time; invoking this method causes any previous attachment to be discarded. The current attachment may be discarded by attaching &lt;tt&gt;null&lt;tt&gt;. &lt;p&gt;" />
       <item value="next" />
       <item value="reactor" />
-      <item value="split" />
-      <item value="Registrar" />
-      <item value="Registry" />
-      <item value="update Registry Image" />
-      <item value="Object" />
-      <item value="Data Response" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1995" />
-        <entry key="ENGLISH" value="1974" />
+        <entry key="CHINESE" value="2001" />
+        <entry key="ENGLISH" value="1979" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
@@ -73,7 +73,7 @@
         <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="4" />
         <entry key="HINDI" value="12" />
-        <entry key="INDONESIAN" value="2" />
+        <entry key="INDONESIAN" value="3" />
         <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
