@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Perpetual" />
       <item value="separate" />
       <item value="Calls the parent search that will search and register all the candidates. Then the registered objects are post processed to set them as MapperFactoryBeans" />
       <item value="Determine whether the underlying class is independent, i.e. whether it is a top-level class or a nested class (static inner class) that can be constructed independently from an enclosing class." />
@@ -50,12 +51,11 @@
       <item value="The value may indicate a suggestion for a logical component name, to be turned into a Spring bean in case of an autodetected component. @return the suggested component name, if any (or empty String otherwise)" />
       <item value="Reserve" />
       <item value="devops" />
-      <item value="SNAPSHOT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2025" />
-        <entry key="ENGLISH" value="2003" />
+        <entry key="CHINESE" value="2026" />
+        <entry key="ENGLISH" value="2004" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
