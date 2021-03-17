@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Central delegate that manages resources and transaction synchronizations per thread. To be used by resource management code but not by typical application code." />
       <item value="Produces a method handle for a reflected method. It will bypass checks for overriding methods on the receiver, &lt;a href=&quot;MethodHandles.Lookup.htmlequiv&quot;&gt;as if called&lt;a&gt; from an {@code invokespecial} instruction from within the explicitly specified {@code specialCaller}. The type of the method handle will be that of the method, with a suitably restricted receiver type prepended. (The receiver type will be {@code specialCaller} or a subtype.) If the method's {@code accessible} flag is not set, access checking is performed immediately on behalf of the lookup class, as if {@code invokespecial} instruction were being linked. &lt;p&gt; Before method resolution, if the explicitly specified caller class is not identical with the lookup class, or if this lookup object does not have &lt;a href=&quot;MethodHandles.Lookup.htmlprivacc&quot;&gt;private access&lt;a&gt; privileges, the access fails. &lt;p&gt; The returned method handle will have" />
       <item value="Perpetual" />
       <item value="separate" />
@@ -50,12 +51,11 @@
       <item value="holder" />
       <item value="Absent" />
       <item value="The value may indicate a suggestion for a logical component name, to be turned into a Spring bean in case of an autodetected component. @return the suggested component name, if any (or empty String otherwise)" />
-      <item value="Reserve" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2027" />
-        <entry key="ENGLISH" value="2005" />
+        <entry key="CHINESE" value="2028" />
+        <entry key="ENGLISH" value="2006" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
