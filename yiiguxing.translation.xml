@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="multiplier" />
       <item value="Perpetual" />
       <item value="transactional" />
       <item value="Central delegate that manages resources and transaction synchronizations per thread. To be used by resource management code but not by typical application code." />
@@ -50,12 +51,11 @@
       <item value="candidate" />
       <item value="equals" />
       <item value="holder" />
-      <item value="Absent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2030" />
-        <entry key="ENGLISH" value="2008" />
+        <entry key="CHINESE" value="2031" />
+        <entry key="ENGLISH" value="2009" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="5" />
