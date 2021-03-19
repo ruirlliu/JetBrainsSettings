@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Strict" />
+      <item value="Ambiguity" />
       <item value="Assistant" />
       <item value="Clinton Begin" />
       <item value="eturns the namespace type to reference a cache (the namespace name become a FQCN of specified type)." />
@@ -49,13 +51,11 @@
       <item value="autoconfigure" />
       <item value="BeanFactory that enables injection of MyBatis mapper interfaces. It can be set up with a SqlSessionFactory or a pre-configured SqlSessionTemplate." />
       <item value="If mapper registering configuration or mapper scanning configuration not present, this configuration allow to scan mappers based on the same component-scanning path as Spring Boot itself." />
-      <item value="Instantiate a class using its 'primary' constructor (for Kotlin classes, potentially having default arguments declared) or its default constructor (for regular Java classes, expecting a standard no-arg setup). &lt;p&gt;Note that this method tries to set the constructor accessible if given a non-accessible (that is, non-public) constructor." />
-      <item value="Introspection" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2046" />
-        <entry key="ENGLISH" value="2023" />
+        <entry key="CHINESE" value="2048" />
+        <entry key="ENGLISH" value="2025" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="6" />
