@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="superclass" />
       <item value="plugin" />
       <item value="The 2nd level cache transactional buffer. &lt;p&gt; This class holds all cache entries that are to be added to the 2nd level cache during a Session. Entries are sent to the cache when commit is called or discarded if the Session is rolled back. Blocking cache support has been added. Therefore any get() that returns a cache miss will be followed by a put() so any lock associated with the key can be released." />
       <item value="Stale" />
@@ -50,12 +51,11 @@
       <item value="Facade" />
       <item value="Concrete" />
       <item value="Returns a new Observable that emits items resulting from applying a function that you supply to each item emitted by the source Observable, where that function returns an Observable, and then emitting the items that result from concatenating those resulting Observables." />
-      <item value="Fluent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2034" />
-        <entry key="ENGLISH" value="2011" />
+        <entry key="CHINESE" value="2035" />
+        <entry key="ENGLISH" value="2012" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="6" />
