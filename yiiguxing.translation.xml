@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="signatures" />
+      <item value="method the {@code Method} instance corresponding to the interface method invoked on the proxy instance. The declaring class of the {@code Method} object will be the interface that the method was declared in, which may be a superinterface of the proxy interface that the proxy class inherits the method through." />
+      <item value="Returns the {@code Class} object representing the class or interface that declares the executable represented by this object." />
+      <item value="executable" />
       <item value="superclass" />
       <item value="plugin" />
       <item value="The 2nd level cache transactional buffer. &lt;p&gt; This class holds all cache entries that are to be added to the 2nd level cache during a Session. Entries are sent to the cache when commit is called or discarded if the Session is rolled back. Blocking cache support has been added. Therefore any get() that returns a cache miss will be followed by a put() so any lock associated with the key can be released." />
@@ -47,15 +51,11 @@
       <item value="Gwt Compatible" />
       <item value="The presence of this annotation on an API indicates that the method may &lt;em&gt;not&lt;em&gt; be used with the &lt;a href=&quot;http:www.gwtproject.org&quot;&gt;Google Web Toolkit&lt;a&gt; (GWT)." />
       <item value="Removal" />
-      <item value="Status code (302) indicating that the resource has temporarily moved to another location, but that future references should still use the original URI to access the resource. This definition is being retained for backwards compatibility. SC_FOUND is now the preferred definition." />
-      <item value="Facade" />
-      <item value="Concrete" />
-      <item value="Returns a new Observable that emits items resulting from applying a function that you supply to each item emitted by the source Observable, where that function returns an Observable, and then emitting the items that result from concatenating those resulting Observables." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2035" />
-        <entry key="ENGLISH" value="2012" />
+        <entry key="CHINESE" value="2039" />
+        <entry key="ENGLISH" value="2016" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="6" />
