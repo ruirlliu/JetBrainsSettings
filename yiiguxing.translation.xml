@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Assistant" />
+      <item value="Clinton Begin" />
       <item value="eturns the namespace type to reference a cache (the namespace name become a FQCN of specified type)." />
       <item value="The annotation that reference a cache." />
       <item value="A map holds cache-ref relationship. The key is the namespace that references a cache bound to another namespace and the value is the namespace which the actual cache is bound to." />
@@ -49,13 +51,11 @@
       <item value="If mapper registering configuration or mapper scanning configuration not present, this configuration allow to scan mappers based on the same component-scanning path as Spring Boot itself." />
       <item value="Instantiate a class using its 'primary' constructor (for Kotlin classes, potentially having default arguments declared) or its default constructor (for regular Java classes, expecting a standard no-arg setup). &lt;p&gt;Note that this method tries to set the constructor accessible if given a non-accessible (that is, non-public) constructor." />
       <item value="Introspection" />
-      <item value="Packages to search type aliases" />
-      <item value="Interceptor Chain" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2044" />
-        <entry key="ENGLISH" value="2021" />
+        <entry key="CHINESE" value="2046" />
+        <entry key="ENGLISH" value="2023" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="6" />
