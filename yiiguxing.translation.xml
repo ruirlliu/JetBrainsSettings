@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Mutable" />
+      <item value="INFRASTRUCTURE" />
+      <item value="Registers packages with {@link AutoConfigurationPackages}. When no {@link basePackages base packages} or {@link basePackageClasses base package classes} are specified, the package of the annotated class is registered." />
+      <item value="Determine if the auto-configuration base packages for the given bean factory are available." />
+      <item value="Instruments" />
       <item value="Strict" />
       <item value="Ambiguity" />
       <item value="Assistant" />
@@ -46,16 +51,11 @@
       <item value="Template" />
       <item value="Session" />
       <item value="properties" />
-      <item value="metadata" />
-      <item value="configure" />
-      <item value="autoconfigure" />
-      <item value="BeanFactory that enables injection of MyBatis mapper interfaces. It can be set up with a SqlSessionFactory or a pre-configured SqlSessionTemplate." />
-      <item value="If mapper registering configuration or mapper scanning configuration not present, this configuration allow to scan mappers based on the same component-scanning path as Spring Boot itself." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2048" />
-        <entry key="ENGLISH" value="2025" />
+        <entry key="ENGLISH" value="2030" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="6" />
@@ -79,6 +79,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615771870980" />
+    <option name="lastTrimTime" value="1616463198451" />
   </component>
 </application>
