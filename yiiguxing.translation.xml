@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Initializer" />
       <item value="Mutable" />
       <item value="INFRASTRUCTURE" />
       <item value="Registers packages with {@link AutoConfigurationPackages}. When no {@link basePackages base packages} or {@link basePackageClasses base package classes} are specified, the package of the annotated class is registered." />
@@ -50,12 +51,11 @@
       <item value="Contributes" />
       <item value="Template" />
       <item value="Session" />
-      <item value="properties" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2048" />
-        <entry key="ENGLISH" value="2030" />
+        <entry key="ENGLISH" value="2031" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="6" />
