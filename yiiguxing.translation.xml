@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="如果之前预约IP与最新的不一致，需要加个标记，应用发布时更新。" />
+      <item value="of Nullable" />
+      <item value="Optional" />
+      <item value="JSON Object" />
+      <item value="deployer Config Json Str" />
+      <item value="parse Object" />
+      <item value="ERROR" />
       <item value="index For" />
       <item value="expunge Stale Entries" />
       <item value="Must not null out e.next;" />
@@ -16,13 +23,11 @@
       <item value="Build" />
       <item value="调用check Application方法异常" />
       <item value="result" />
-      <item value="JSON Object" />
       <item value="state" />
       <item value="success" />
       <item value="check Application" />
       <item value="app" />
       <item value="application Name" />
-      <item value="ERROR" />
       <item value="APPLICATION NAME" />
       <item value="Whether the size of &quot;words&quot; is user-specified. If so, we assume the user knows what he's doing and try harder to preserve it." />
       <item value="Sticky" />
@@ -46,16 +51,11 @@
       <item value="INFRASTRUCTURE" />
       <item value="Registers packages with {@link AutoConfigurationPackages}. When no {@link basePackages base packages} or {@link basePackageClasses base package classes} are specified, the package of the annotated class is registered." />
       <item value="Determine if the auto-configuration base packages for the given bean factory are available." />
-      <item value="Instruments" />
-      <item value="Strict" />
-      <item value="Ambiguity" />
-      <item value="Assistant" />
-      <item value="Clinton Begin" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2075" />
-        <entry key="ENGLISH" value="2076" />
+        <entry key="CHINESE" value="2083" />
+        <entry key="ENGLISH" value="2083" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="6" />
