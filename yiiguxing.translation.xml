@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="init" />
+      <item value="init Rpc Provider" />
       <item value="Serializable" />
       <item value="Glue" />
       <item value="PAYMENT REQUIRED" />
@@ -49,13 +51,11 @@
       <item value="the {@code boolean} value indicating whether objects of the type {@code cls} can be assigned to objects of this class" />
       <item value="Select and return the names of which class(es) should be imported based on the {@link AnnotationMetadata} of the importing @{@link Configuration} class. @return the class names, or an empty array if none" />
       <item value="Interface to be implemented by types that register additional bean definitions when processing @{@link Configuration} classes. Useful when operating at the bean definition level (as opposed to {@code @Bean} methodinstance level) is desired or necessary." />
-      <item value="out-of-the-box" />
-      <item value="this will get typed mappers working correctly," />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2048" />
-        <entry key="ENGLISH" value="2040" />
+        <entry key="ENGLISH" value="2042" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="6" />
