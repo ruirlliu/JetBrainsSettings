@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="last" />
+      <item value="this" />
+      <item value="Enqueued" />
+      <item value="referent" />
+      <item value="Reference Queue" />
+      <item value="collectors" />
+      <item value="In order to ensure that a reclaimable object remains so, the referent of a phantom reference may not be retrieved: The &lt;code&gt;get&lt;code&gt; method of a phantom reference always returns &lt;code&gt;null&lt;code&gt;." />
+      <item value="ensure" />
+      <item value="In order to" />
+      <item value="Unlike soft and weak references, phantom references are not automatically cleared by the garbage collector as they are enqueued. An object that is reachable via phantom references will remain so until all such references are cleared or themselves become unreachable." />
+      <item value="Unlike" />
       <item value="如果之前预约IP与最新的不一致，需要加个标记，应用发布时更新。" />
       <item value="of Nullable" />
       <item value="Optional" />
@@ -40,22 +51,11 @@
       <item value="init Rpc Provider" />
       <item value="Serializable" />
       <item value="Glue" />
-      <item value="PAYMENT REQUIRED" />
-      <item value="cluster Id" />
-      <item value="Reserved Ip" />
-      <item value="Result" />
-      <item value="equals" />
-      <item value="instanceof" />
-      <item value="Initializer" />
-      <item value="Mutable" />
-      <item value="INFRASTRUCTURE" />
-      <item value="Registers packages with {@link AutoConfigurationPackages}. When no {@link basePackages base packages} or {@link basePackageClasses base package classes} are specified, the package of the annotated class is registered." />
-      <item value="Determine if the auto-configuration base packages for the given bean factory are available." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2083" />
-        <entry key="ENGLISH" value="2083" />
+        <entry key="CHINESE" value="2092" />
+        <entry key="ENGLISH" value="2093" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="6" />
@@ -63,6 +63,7 @@
         <entry key="FILIPINO" value="4" />
         <entry key="FINNISH" value="5" />
         <entry key="DUTCH" value="2" />
+        <entry key="CATALAN" value="1" />
         <entry key="CZECH" value="5" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="3" />
