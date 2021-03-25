@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Treated specially by GC" />
+      <item value="f 86 d 3 a 43 eec 5" />
+      <item value="gc" />
+      <item value="The call &lt;code&gt;System.gc()&lt;code&gt; is effectively equivalent to the call: &lt;blockquote&gt;&lt;pre&gt; Runtime.getRuntime().gc() &lt;pre&gt;&lt;blockquote&gt;" />
+      <item value="Reference" />
+      <item value="reference" />
       <item value="last" />
       <item value="this" />
       <item value="Enqueued" />
@@ -45,17 +51,11 @@
       <item value="Object" />
       <item value="reservation Name" />
       <item value="oraclejdk 8" />
-      <item value="install" />
-      <item value="script" />
-      <item value="init" />
-      <item value="init Rpc Provider" />
-      <item value="Serializable" />
-      <item value="Glue" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2092" />
-        <entry key="ENGLISH" value="2093" />
+        <entry key="CHINESE" value="2097" />
+        <entry key="ENGLISH" value="2098" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="6" />
@@ -73,6 +73,7 @@
         <entry key="SWEDISH" value="1" />
         <entry key="SLOVAK" value="1" />
         <entry key="SPANISH" value="1" />
+        <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="4" />
         <entry key="HINDI" value="12" />
         <entry key="INDONESIAN" value="3" />
