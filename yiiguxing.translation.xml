@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Serializable" />
+      <item value="Glue" />
       <item value="PAYMENT REQUIRED" />
       <item value="cluster Id" />
       <item value="Reserved Ip" />
@@ -49,13 +51,11 @@
       <item value="Interface to be implemented by types that register additional bean definitions when processing @{@link Configuration} classes. Useful when operating at the bean definition level (as opposed to {@code @Bean} methodinstance level) is desired or necessary." />
       <item value="out-of-the-box" />
       <item value="this will get typed mappers working correctly," />
-      <item value="this auto-configuration will attempt to register mappers based on the interface definitions in or under the root auto-configuration package." />
-      <item value="interface definitions" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2048" />
-        <entry key="ENGLISH" value="2037" />
+        <entry key="ENGLISH" value="2040" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="6" />
