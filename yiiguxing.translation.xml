@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="index For" />
+      <item value="expunge Stale Entries" />
+      <item value="Must not null out e.next;" />
+      <item value="Stale" />
+      <item value="expunge" />
+      <item value="unchecked" />
       <item value="Detached" />
       <item value="Pipeline Project Interceptor" />
       <item value="Task" />
@@ -45,17 +51,11 @@
       <item value="Ambiguity" />
       <item value="Assistant" />
       <item value="Clinton Begin" />
-      <item value="eturns the namespace type to reference a cache (the namespace name become a FQCN of specified type)." />
-      <item value="The annotation that reference a cache." />
-      <item value="A map holds cache-ref relationship. The key is the namespace that references a cache bound to another namespace and the value is the namespace which the actual cache is bound to." />
-      <item value="It's important that the type is added before the parser is run otherwise the binding may automatically be attempted by the mapper parser. If the type is already known, it won't try." />
-      <item value="eviction" />
-      <item value="signatures" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2068" />
-        <entry key="ENGLISH" value="2069" />
+        <entry key="CHINESE" value="2075" />
+        <entry key="ENGLISH" value="2076" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="6" />
@@ -70,6 +70,7 @@
         <entry key="NORWEGIAN" value="2" />
         <entry key="PORTUGUESE" value="4" />
         <entry key="SWEDISH" value="1" />
+        <entry key="SLOVAK" value="1" />
         <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="4" />
         <entry key="HINDI" value="12" />
