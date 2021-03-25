@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reservation Name" />
       <item value="oraclejdk 8" />
       <item value="install" />
       <item value="script" />
@@ -50,12 +51,11 @@
       <item value="Extension to the standard {@link BeanFactoryPostProcessor} SPI, allowing for the registration of further bean definitions &lt;i&gt;before&lt;i&gt; regular BeanFactoryPostProcessor detection kicks in. In particular, BeanDefinitionRegistryPostProcessor may register further bean definitions which in turn define BeanFactoryPostProcessor instances." />
       <item value="the binary qualified name of the class to be read." />
       <item value="Interface that defines abstract access to the annotations of a specific class, in a form that does not require that class to be loaded yet." />
-      <item value="be assigned to objects of this class" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2048" />
-        <entry key="ENGLISH" value="2045" />
+        <entry key="ENGLISH" value="2046" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="6" />
