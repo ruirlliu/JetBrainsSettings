@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="oraclejdk 8" />
+      <item value="install" />
+      <item value="script" />
       <item value="init" />
       <item value="init Rpc Provider" />
       <item value="Serializable" />
@@ -48,14 +51,11 @@
       <item value="the binary qualified name of the class to be read." />
       <item value="Interface that defines abstract access to the annotations of a specific class, in a form that does not require that class to be loaded yet." />
       <item value="be assigned to objects of this class" />
-      <item value="the {@code boolean} value indicating whether objects of the type {@code cls} can be assigned to objects of this class" />
-      <item value="Select and return the names of which class(es) should be imported based on the {@link AnnotationMetadata} of the importing @{@link Configuration} class. @return the class names, or an empty array if none" />
-      <item value="Interface to be implemented by types that register additional bean definitions when processing @{@link Configuration} classes. Useful when operating at the bean definition level (as opposed to {@code @Bean} methodinstance level) is desired or necessary." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2048" />
-        <entry key="ENGLISH" value="2042" />
+        <entry key="ENGLISH" value="2045" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="6" />
