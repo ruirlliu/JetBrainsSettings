@@ -1,10 +1,23 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="deploy Config" />
+      <item value="task" />
+      <item value="Times" />
+      <item value="Build" />
+      <item value="调用check Application方法异常" />
+      <item value="result" />
+      <item value="JSON Object" />
+      <item value="state" />
+      <item value="success" />
+      <item value="check Application" />
+      <item value="app" />
+      <item value="application Name" />
+      <item value="ERROR" />
+      <item value="APPLICATION NAME" />
       <item value="Whether the size of &quot;words&quot; is user-specified. If so, we assume the user knows what he's doing and try harder to preserve it." />
       <item value="Sticky" />
       <item value="Object" />
-      <item value="JSON Object" />
       <item value="reservation Name" />
       <item value="oraclejdk 8" />
       <item value="install" />
@@ -38,24 +51,11 @@
       <item value="method the {@code Method} instance corresponding to the interface method invoked on the proxy instance. The declaring class of the {@code Method} object will be the interface that the method was declared in, which may be a superinterface of the proxy interface that the proxy class inherits the method through." />
       <item value="Returns the {@code Class} object representing the class or interface that declares the executable represented by this object." />
       <item value="executable" />
-      <item value="superclass" />
-      <item value="plugin" />
-      <item value="The 2nd level cache transactional buffer. &lt;p&gt; This class holds all cache entries that are to be added to the 2nd level cache during a Session. Entries are sent to the cache when commit is called or discarded if the Session is rolled back. Blocking cache support has been added. Therefore any get() that returns a cache miss will be followed by a put() so any lock associated with the key can be released." />
-      <item value="Stale" />
-      <item value="multiplier" />
-      <item value="Perpetual" />
-      <item value="transactional" />
-      <item value="Central delegate that manages resources and transaction synchronizations per thread. To be used by resource management code but not by typical application code." />
-      <item value="Produces a method handle for a reflected method. It will bypass checks for overriding methods on the receiver, &lt;a href=&quot;MethodHandles.Lookup.htmlequiv&quot;&gt;as if called&lt;a&gt; from an {@code invokespecial} instruction from within the explicitly specified {@code specialCaller}. The type of the method handle will be that of the method, with a suitably restricted receiver type prepended. (The receiver type will be {@code specialCaller} or a subtype.) If the method's {@code accessible} flag is not set, access checking is performed immediately on behalf of the lookup class, as if {@code invokespecial} instruction were being linked. &lt;p&gt; Before method resolution, if the explicitly specified caller class is not identical with the lookup class, or if this lookup object does not have &lt;a href=&quot;MethodHandles.Lookup.htmlprivacc&quot;&gt;private access&lt;a&gt; privileges, the access fails. &lt;p&gt; The returned method handle will have" />
-      <item value="separate" />
-      <item value="Calls the parent search that will search and register all the candidates. Then the registered objects are post processed to set them as MapperFactoryBeans" />
-      <item value="Determine whether the underlying class is independent, i.e. whether it is a top-level class or a nested class (static inner class) that can be constructed independently from an enclosing class." />
-      <item value="Filter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2049" />
-        <entry key="ENGLISH" value="2050" />
+        <entry key="CHINESE" value="2065" />
+        <entry key="ENGLISH" value="2066" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="6" />
