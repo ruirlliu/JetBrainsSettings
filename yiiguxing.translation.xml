@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ENV PUBLIC" />
+      <item value="contains" />
+      <item value="IMAGECATALOG" />
+      <item value="PUBLIC" />
+      <item value="byte" />
+      <item value="Integer" />
+      <item value="chart Statistic" />
+      <item value="since" />
+      <item value="author" />
       <item value="Treated specially by GC" />
       <item value="f 86 d 3 a 43 eec 5" />
       <item value="gc" />
@@ -42,20 +51,11 @@
       <item value="result" />
       <item value="state" />
       <item value="success" />
-      <item value="check Application" />
-      <item value="app" />
-      <item value="application Name" />
-      <item value="APPLICATION NAME" />
-      <item value="Whether the size of &quot;words&quot; is user-specified. If so, we assume the user knows what he's doing and try harder to preserve it." />
-      <item value="Sticky" />
-      <item value="Object" />
-      <item value="reservation Name" />
-      <item value="oraclejdk 8" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2097" />
-        <entry key="ENGLISH" value="2098" />
+        <entry key="CHINESE" value="2108" />
+        <entry key="ENGLISH" value="2109" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="6" />
