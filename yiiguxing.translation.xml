@@ -1,8 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="milliseconds" />
+      <item value="Print GC Details" />
+      <item value="那么当引用对象指向的对象达到合适的状态" />
       <item value="phantom" />
+      <item value="milliseconds" />
       <item value="Reference Queue" />
       <item value="Reference" />
       <item value="next" />
@@ -49,13 +51,11 @@
       <item value="unchecked" />
       <item value="Detached" />
       <item value="Pipeline Project Interceptor" />
-      <item value="Task" />
-      <item value="deploy Config" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2122" />
-        <entry key="ENGLISH" value="2123" />
+        <entry key="CHINESE" value="2124" />
+        <entry key="ENGLISH" value="2125" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="6" />
