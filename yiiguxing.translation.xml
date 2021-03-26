@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="milliseconds" />
       <item value="phantom" />
       <item value="Reference Queue" />
       <item value="Reference" />
@@ -50,12 +51,11 @@
       <item value="Pipeline Project Interceptor" />
       <item value="Task" />
       <item value="deploy Config" />
-      <item value="task" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2121" />
-        <entry key="ENGLISH" value="2122" />
+        <entry key="CHINESE" value="2122" />
+        <entry key="ENGLISH" value="2123" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="6" />
