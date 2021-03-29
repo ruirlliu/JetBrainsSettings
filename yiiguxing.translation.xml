@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Dialect" />
       <item value="version Name" />
       <item value="CONFIG INFO" />
       <item value="TRADITIONAL" />
@@ -50,12 +51,11 @@
       <item value="PUBLIC" />
       <item value="byte" />
       <item value="Integer" />
-      <item value="chart Statistic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2161" />
-        <entry key="ENGLISH" value="2162" />
+        <entry key="CHINESE" value="2162" />
+        <entry key="ENGLISH" value="2163" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="6" />
