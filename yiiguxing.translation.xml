@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="indirect" />
       <item value="while" />
       <item value="Serializable" />
       <item value="Entry" />
@@ -50,12 +51,11 @@
       <item value="In order to" />
       <item value="Unlike soft and weak references, phantom references are not automatically cleared by the garbage collector as they are enqueued. An object that is reachable via phantom references will remain so until all such references are cleared or themselves become unreachable." />
       <item value="Unlike" />
-      <item value="如果之前预约IP与最新的不一致，需要加个标记，应用发布时更新。" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2144" />
-        <entry key="ENGLISH" value="2145" />
+        <entry key="CHINESE" value="2146" />
+        <entry key="ENGLISH" value="2147" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="6" />
