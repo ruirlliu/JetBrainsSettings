@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Final references, used to implement finalization" />
+      <item value="Polls this queue to see if a reference object is available. If one is available without further delay then it is removed from the queue and returned. Otherwise this method immediately returns &lt;tt&gt;null&lt;tt&gt;. @return A reference object, if one was immediately available, otherwise &lt;code&gt;null&lt;code&gt;" />
+      <item value="Reference" />
       <item value="indirect" />
       <item value="while" />
       <item value="Serializable" />
@@ -23,7 +26,6 @@
       <item value="phantom" />
       <item value="milliseconds" />
       <item value="Reference Queue" />
-      <item value="Reference" />
       <item value="next" />
       <item value="volatile" />
       <item value="referent" />
@@ -49,13 +51,11 @@
       <item value="In order to ensure that a reclaimable object remains so, the referent of a phantom reference may not be retrieved: The &lt;code&gt;get&lt;code&gt; method of a phantom reference always returns &lt;code&gt;null&lt;code&gt;." />
       <item value="ensure" />
       <item value="In order to" />
-      <item value="Unlike soft and weak references, phantom references are not automatically cleared by the garbage collector as they are enqueued. An object that is reachable via phantom references will remain so until all such references are cleared or themselves become unreachable." />
-      <item value="Unlike" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2146" />
-        <entry key="ENGLISH" value="2147" />
+        <entry key="CHINESE" value="2149" />
+        <entry key="ENGLISH" value="2150" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="6" />
