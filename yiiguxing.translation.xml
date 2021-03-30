@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Object" />
+      <item value="EMPTY LIST" />
       <item value="concurrent" />
       <item value="Dialect" />
       <item value="version Name" />
@@ -49,13 +51,11 @@
       <item value="contains" />
       <item value="IMAGECATALOG" />
       <item value="PUBLIC" />
-      <item value="byte" />
-      <item value="Integer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2163" />
-        <entry key="ENGLISH" value="2164" />
+        <entry key="CHINESE" value="2165" />
+        <entry key="ENGLISH" value="2166" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="6" />
