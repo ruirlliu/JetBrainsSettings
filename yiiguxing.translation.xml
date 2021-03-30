@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="concurrent" />
       <item value="Dialect" />
       <item value="version Name" />
       <item value="CONFIG INFO" />
@@ -13,7 +14,6 @@
       <item value="References" />
       <item value="priority" />
       <item value="Reference" />
-      <item value="concurrent" />
       <item value="Final references, used to implement finalization" />
       <item value="Polls this queue to see if a reference object is available. If one is available without further delay then it is removed from the queue and returned. Otherwise this method immediately returns &lt;tt&gt;null&lt;tt&gt;. @return A reference object, if one was immediately available, otherwise &lt;code&gt;null&lt;code&gt;" />
       <item value="indirect" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2162" />
-        <entry key="ENGLISH" value="2163" />
+        <entry key="CHINESE" value="2163" />
+        <entry key="ENGLISH" value="2164" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="6" />
