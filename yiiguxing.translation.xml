@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="void" />
+      <item value="transfer" />
+      <item value="next" />
+      <item value="new Table" />
       <item value="public" />
       <item value="load Factor" />
       <item value="threshold" />
@@ -44,18 +48,14 @@
       <item value="phantom" />
       <item value="milliseconds" />
       <item value="Reference Queue" />
-      <item value="next" />
       <item value="volatile" />
       <item value="referent" />
       <item value="pending" />
-      <item value="Inactive" />
-      <item value="Enqueued" />
-      <item value="last" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2170" />
-        <entry key="ENGLISH" value="2171" />
+        <entry key="CHINESE" value="2174" />
+        <entry key="ENGLISH" value="2175" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="6" />
