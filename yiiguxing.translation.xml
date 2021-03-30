@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="rotate Left" />
+      <item value="red-black" />
+      <item value="extends" />
+      <item value="Tree Node" />
+      <item value="left" />
+      <item value="parent" />
+      <item value="Recursive invariant check" />
+      <item value="是否为空" />
+      <item value="adapted" />
+      <item value="rotate" />
       <item value="Propagate" />
       <item value="void" />
       <item value="transfer" />
@@ -18,7 +28,6 @@
       <item value="CONFIG INFO" />
       <item value="TRADITIONAL" />
       <item value="CONTAINER" />
-      <item value="extends" />
       <item value="registered" />
       <item value="Polls this queue to see if a reference object is available. If one is available without further delay then it is removed from the queue and returned. Otherwise this method immediately returns &lt;tt&gt;null&lt;tt&gt;." />
       <item value="A reference object, if one was immediately available, otherwise &lt;code&gt;null&lt;code&gt;" />
@@ -42,20 +51,11 @@
       <item value="JSON Object" />
       <item value="add Reserve Ips Annotation" />
       <item value="Disable Circular Reference Detect" />
-      <item value="add Not Reserve Ips Annotation" />
-      <item value="private" />
-      <item value="Print GC Details" />
-      <item value="那么当引用对象指向的对象达到合适的状态" />
-      <item value="phantom" />
-      <item value="milliseconds" />
-      <item value="Reference Queue" />
-      <item value="volatile" />
-      <item value="referent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2175" />
-        <entry key="ENGLISH" value="2176" />
+        <entry key="CHINESE" value="2186" />
+        <entry key="ENGLISH" value="2187" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="6" />
