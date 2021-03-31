@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="delete By Primary Key" />
       <item value="prepare Method Overrides" />
       <item value="bean Name" />
       <item value="A marker superinterface indicating that a bean is eligible to be notified by the Spring container of a particular framework object through a callback-style method. The actual method signature is determined by individual subinterfaces but should typically consist of just one void-returning method that accepts a single argument." />
@@ -50,12 +51,11 @@
       <item value="Serializable" />
       <item value="Entry" />
       <item value="Comparator" />
-      <item value="Weak Hash Map" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2199" />
-        <entry key="ENGLISH" value="2200" />
+        <entry key="CHINESE" value="2200" />
+        <entry key="ENGLISH" value="2201" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="6" />
