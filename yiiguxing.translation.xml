@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Array List" />
+      <item value="headers" />
+      <item value="add All" />
       <item value="delete By Primary Key" />
       <item value="prepare Method Overrides" />
       <item value="bean Name" />
@@ -48,14 +51,11 @@
       <item value="Polls this queue to see if a reference object is available. If one is available without further delay then it is removed from the queue and returned. Otherwise this method immediately returns &lt;tt&gt;null&lt;tt&gt;. @return A reference object, if one was immediately available, otherwise &lt;code&gt;null&lt;code&gt;" />
       <item value="indirect" />
       <item value="while" />
-      <item value="Serializable" />
-      <item value="Entry" />
-      <item value="Comparator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2200" />
-        <entry key="ENGLISH" value="2201" />
+        <entry key="CHINESE" value="2203" />
+        <entry key="ENGLISH" value="2204" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="6" />
