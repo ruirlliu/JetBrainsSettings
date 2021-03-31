@@ -2,9 +2,12 @@
   <component name="AppStorage">
     <histories>
       <item value="A marker superinterface indicating that a bean is eligible to be notified by the Spring container of a particular framework object through a callback-style method. The actual method signature is determined by individual subinterfaces but should typically consist of just one void-returning method that accepts a single argument." />
-      <item value="p&gt;Note that merely implementing {@link Aware} provides no default functionality. Rather, processing must be done explicitly, for example in a {@link org.springframework.beans.factory.config.BeanPostProcessor}. Refer to {@link org.springframework.context.support.ApplicationContextAwareProcessor} for an example of processing specific {@code Aware} interface callbacks." />
-      <item value="A marker superinterface indicating that a bean is eligible to be notified by the Spring container of a particular framework object through a callback-style method. The actual method signature is determined by individual subinterfaces but should typically consist of just one void-returning method that accepts a single argument. &lt;p&gt;Note that merely implementing {@link Aware} provides no default functionality. Rather, processing must be done explicitly, for example in a {@link org.springframework.beans.factory.config.BeanPostProcessor}. Refer to {@link org.springframework.context.support.ApplicationContextAwareProcessor} for an example of processing specific {@code Aware} interface callbacks." />
+      <item value="Note that merely implementing {@link Aware} provides no default functionality. Rather, processing must be done explicitly, for example in a {@link org.springframework.beans.factory.config.BeanPostProcessor}. Refer to {@link org.springframework.context.support.ApplicationContextAwareProcessor} for an example of processing specific {@code Aware} interface callbacks." />
+      <item value="is eligible to be notified" />
       <item value="eligible" />
+      <item value="A marker superinterface indicating that a bean is eligible to be notified by the Spring container of a particular framework object through a callback-style method. The actual method signature is determined by individual subinterfaces but should typically consist of just one void-returning method that accepts a single argument. &lt;p&gt;Note that merely implementing {@link Aware} provides no default functionality. Rather, processing must be done explicitly, for example in a {@link org.springframework.beans.factory.config.BeanPostProcessor}. Refer to {@link org.springframework.context.support.ApplicationContextAwareProcessor} for an example of processing specific {@code Aware} interface callbacks." />
+      <item value="merely" />
+      <item value="p&gt;Note that merely implementing {@link Aware} provides no default functionality. Rather, processing must be done explicitly, for example in a {@link org.springframework.beans.factory.config.BeanPostProcessor}. Refer to {@link org.springframework.context.support.ApplicationContextAwareProcessor} for an example of processing specific {@code Aware} interface callbacks." />
       <item value="rotate Left" />
       <item value="red-black" />
       <item value="extends" />
@@ -48,14 +51,11 @@
       <item value="Weak Hash Map" />
       <item value="run Finalization" />
       <item value="Wormhole" />
-      <item value="gc" />
-      <item value="mutex" />
-      <item value="networks" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2191" />
-        <entry key="ENGLISH" value="2192" />
+        <entry key="CHINESE" value="2197" />
+        <entry key="ENGLISH" value="2198" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="6" />
