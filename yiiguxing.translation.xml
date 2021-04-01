@@ -1,9 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="null" />
+      <item value="Context" />
+      <item value="Http Servlet" />
+      <item value="request" />
+      <item value="get Relative Path" />
+      <item value="path" />
+      <item value="true" />
+      <item value="resource" />
+      <item value="requested" />
+      <item value="Servlet Config" />
+      <item value="init" />
+      <item value="initialization" />
       <item value="action" />
       <item value="client" />
-      <item value="null" />
       <item value="empty" />
       <item value="dependency" />
       <item value="Externalized" />
@@ -40,22 +51,11 @@
       <item value="public" />
       <item value="load Factor" />
       <item value="threshold" />
-      <item value="Returns a power of two size for the given target capacity." />
-      <item value="Object" />
-      <item value="EMPTY LIST" />
-      <item value="concurrent" />
-      <item value="Dialect" />
-      <item value="version Name" />
-      <item value="CONFIG INFO" />
-      <item value="TRADITIONAL" />
-      <item value="CONTAINER" />
-      <item value="registered" />
-      <item value="Polls this queue to see if a reference object is available. If one is available without further delay then it is removed from the queue and returned. Otherwise this method immediately returns &lt;tt&gt;null&lt;tt&gt;." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2211" />
-        <entry key="ENGLISH" value="2212" />
+        <entry key="CHINESE" value="2239" />
+        <entry key="ENGLISH" value="2240" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="6" />
