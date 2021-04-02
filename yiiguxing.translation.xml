@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="add Reserve Ips Annotation" />
+      <item value="main" />
+      <item value="JSON Object" />
+      <item value="annotation" />
+      <item value="check Annotation" />
+      <item value="application Api" />
+      <item value="add Not Reserve Ips Annotation" />
       <item value="null" />
       <item value="Context" />
       <item value="Http Servlet" />
@@ -44,18 +51,11 @@
       <item value="adapted" />
       <item value="rotate" />
       <item value="Propagate" />
-      <item value="void" />
-      <item value="transfer" />
-      <item value="next" />
-      <item value="new Table" />
-      <item value="public" />
-      <item value="load Factor" />
-      <item value="threshold" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2239" />
-        <entry key="ENGLISH" value="2240" />
+        <entry key="CHINESE" value="2250" />
+        <entry key="ENGLISH" value="2251" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="6" />
