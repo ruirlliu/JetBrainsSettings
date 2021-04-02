@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="overview" />
       <item value="JSON Object" />
       <item value="deploy Config" />
       <item value="add Reserve Ips Annotation" />
@@ -50,12 +51,11 @@
       <item value="Recursive invariant check" />
       <item value="是否为空" />
       <item value="adapted" />
-      <item value="rotate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2253" />
-        <entry key="ENGLISH" value="2254" />
+        <entry key="CHINESE" value="2254" />
+        <entry key="ENGLISH" value="2255" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="6" />
