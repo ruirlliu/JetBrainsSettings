@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Priority" />
+      <item value="Extension of the {@link Ordered} interface, expressing a &lt;em&gt;priority&lt;em&gt; ordering: order values expressed by {@code PriorityOrdered} objects always apply before same order values expressed by &lt;em&gt;plain&lt;em&gt; {@link Ordered} objects. &lt;p&gt;This is primarily a special-purpose interface, used for objects where it is particularly important to recognize &lt;em&gt;prioritized&lt;em&gt; objects first, without even obtaining the remaining objects. A typical example: prioritized post-processors in a Spring {@link org.springframework.context.ApplicationContext}." />
       <item value="deduce" />
       <item value="Override" />
       <item value="remove" />
@@ -49,13 +51,11 @@
       <item value="red-black" />
       <item value="extends" />
       <item value="Tree Node" />
-      <item value="left" />
-      <item value="parent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2257" />
-        <entry key="ENGLISH" value="2258" />
+        <entry key="CHINESE" value="2259" />
+        <entry key="ENGLISH" value="2260" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="6" />
