@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Even if" />
+      <item value="Eager" />
+      <item value="Base class for {@link org.springframework.context.ApplicationContext} implementations which are supposed to support multiple calls to {@link refresh()}, creating a new internal bean factory instance every time. Typically (but not necessarily), such a context will be driven by a set of config locations to load bean definitions from. &lt;p&gt;The only method to be implemented by subclasses is {@link loadBeanDefinitions}, which gets invoked on each refresh. A concrete implementation is supposed to load bean definitions into the given {@link org.springframework.beans.factory.support.DefaultListableBeanFactory}, typically delegating to one or more specific bean definition readers. &lt;p&gt;&lt;b&gt;Note that there is a similar base class for WebApplicationContexts.&lt;b&gt; {@link org.springframework.web.context.support.AbstractRefreshableWebApplicationContext} provides the same subclassing strategy, but additionally pre-implements all context functionality for web environments. There is also a pre-defined way to receive config locations for a web context. &lt;p&gt;Concrete standalone subclasses of this base class, reading in a specific bean definition format, are {@link ClassPathXmlApplicationContext} and {@link FileSystemXmlApplicationContext}, which both derive from the common {@link AbstractXmlApplicationContext} base class; {@link org.springframework.context.annotation.AnnotationConfigApplicationContext} supports {@code @Configuration}-annotated classes as a source of bean definitions." />
       <item value="App Template" />
       <item value="configure Headless Property" />
       <item value="deduce" />
@@ -48,14 +51,11 @@
       <item value="eligible" />
       <item value="A marker superinterface indicating that a bean is eligible to be notified by the Spring container of a particular framework object through a callback-style method. The actual method signature is determined by individual subinterfaces but should typically consist of just one void-returning method that accepts a single argument. &lt;p&gt;Note that merely implementing {@link Aware} provides no default functionality. Rather, processing must be done explicitly, for example in a {@link org.springframework.beans.factory.config.BeanPostProcessor}. Refer to {@link org.springframework.context.support.ApplicationContextAwareProcessor} for an example of processing specific {@code Aware} interface callbacks." />
       <item value="merely" />
-      <item value="p&gt;Note that merely implementing {@link Aware} provides no default functionality. Rather, processing must be done explicitly, for example in a {@link org.springframework.beans.factory.config.BeanPostProcessor}. Refer to {@link org.springframework.context.support.ApplicationContextAwareProcessor} for an example of processing specific {@code Aware} interface callbacks." />
-      <item value="rotate Left" />
-      <item value="red-black" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2262" />
-        <entry key="ENGLISH" value="2263" />
+        <entry key="CHINESE" value="2265" />
+        <entry key="ENGLISH" value="2266" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="6" />
