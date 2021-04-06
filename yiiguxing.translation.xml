@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Hierarchical" />
+      <item value="apply Bean Post Processors Before Initialization" />
+      <item value="bean" />
+      <item value="add Reserve Ips Annotation" />
       <item value="kubernetes" />
       <item value="reservation" />
       <item value="Beans Exception" />
@@ -23,7 +27,6 @@
       <item value="overview" />
       <item value="JSON Object" />
       <item value="deploy Config" />
-      <item value="add Reserve Ips Annotation" />
       <item value="main" />
       <item value="annotation" />
       <item value="check Annotation" />
@@ -48,15 +51,12 @@
       <item value="Externalized" />
       <item value="registration" />
       <item value="mercyblitz" />
-      <item value="Array List" />
-      <item value="headers" />
-      <item value="add All" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2275" />
-        <entry key="ENGLISH" value="2275" />
-        <entry key="ESTONIAN" value="1" />
+        <entry key="CHINESE" value="2279" />
+        <entry key="ENGLISH" value="2280" />
+        <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="6" />
