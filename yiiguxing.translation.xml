@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Query Real Name By App Name And Proj Id" />
       <item value="add Not Reserve Ips Annotation" />
       <item value="add Reserve Ips Annotation" />
       <item value="is Whitespace" />
@@ -50,12 +51,11 @@
       <item value="Populate" />
       <item value="Typical methods for creating and populating external bean instances" />
       <item value="Typical" />
-      <item value="demarcation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2332" />
-        <entry key="ENGLISH" value="2333" />
+        <entry key="CHINESE" value="2333" />
+        <entry key="ENGLISH" value="2334" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
