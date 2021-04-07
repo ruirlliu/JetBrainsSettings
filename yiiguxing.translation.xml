@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="post Process After Initialization" />
       <item value="subsequently" />
       <item value="&amp;mdash;" />
       <item value="Interface to be implemented by beans that need to react once all their properties have been set by a {@link BeanFactory}: e.g. to perform custom initialization, or merely to check that all mandatory properties have been set." />
@@ -50,12 +51,11 @@
       <item value="This method will first search the parent class loader for the resource; if the parent is &lt;tt&gt;null&lt;tt&gt; the path of the class loader built-in to the virtual machine is searched. That failing, this method will invoke {@link findResource(String)} to find the resource." />
       <item value="Finds the resource with the given name. A resource is some data (images, audio, text, etc) that can be accessed by class code in a way that is independent of the location of the code." />
       <item value="Hierarchical" />
-      <item value="apply Bean Post Processors Before Initialization" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2339" />
-        <entry key="ENGLISH" value="2339" />
+        <entry key="ENGLISH" value="2340" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
