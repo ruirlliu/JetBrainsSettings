@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="add Not Reserve Ips Annotation" />
+      <item value="add Reserve Ips Annotation" />
+      <item value="is Whitespace" />
+      <item value="after Properties Set" />
+      <item value="Constructor" />
       <item value="image" />
       <item value="register Resolvable Dependency" />
       <item value="Configure the bean factory with context callbacks." />
@@ -40,22 +45,17 @@
       <item value="Hierarchical" />
       <item value="apply Bean Post Processors Before Initialization" />
       <item value="bean" />
-      <item value="add Reserve Ips Annotation" />
       <item value="kubernetes" />
       <item value="reservation" />
       <item value="Populate" />
       <item value="Typical methods for creating and populating external bean instances" />
       <item value="Typical" />
       <item value="demarcation" />
-      <item value="manual" />
-      <item value="args" />
-      <item value="Even if" />
-      <item value="Eager" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2325" />
-        <entry key="ENGLISH" value="2326" />
+        <entry key="CHINESE" value="2332" />
+        <entry key="ENGLISH" value="2333" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
