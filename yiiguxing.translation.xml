@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Protected method invoked when this task transitions to state {@code isDone} (whether normally or via cancellation). The default implementation does nothing. Subclasses may override this method to invoke completion callbacks or perform bookkeeping. Note that you can query status inside the implementation of this method to determine whether this task has been cancelled." />
+      <item value="Suppose you have a set of solvers for a certain problem, each returning a value of some type {@code Result}, and would like to run them concurrently, processing the results of each of them that return a non-null value, in some method {@code use(Result r)}. You could write this as:" />
+      <item value="A {@link CompletionService} that uses a supplied {@link Executor} to execute tasks. This class arranges that submitted tasks are, upon completion, placed on a queue accessible using {@code take}. The class is lightweight enough to be suitable for transient use when processing groups of tasks." />
+      <item value="Completion Service" />
       <item value="Role hint indicating that a {@code BeanDefinition} is providing an entirely background role and has no relevance to the end-user. This hint is used when registering beans that are completely part of the internal workings of a {@link org.springframework.beans.factory.parsing.ComponentDefinition}." />
       <item value="Role hint indicating that a {@code BeanDefinition} is a supporting part of some larger configuration, typically an outer {@link org.springframework.beans.factory.parsing.ComponentDefinition}. {@code SUPPORT} beans are considered important enough to be aware of when looking more closely at a particular {@link org.springframework.beans.factory.parsing.ComponentDefinition}, but not when looking at the overall configuration of an application." />
       <item value="Role hint indicating that a {@code BeanDefinition} is a supporting part of some larger configuration, typically an outer {@link org.springframework.beans.factory.parsing.ComponentDefinition}. {@code SUPPORT} beans are considered important enough to be aware of when looking more closely at a particular" />
@@ -47,15 +51,11 @@
       <item value="configure Headless Property" />
       <item value="deduce" />
       <item value="Priority" />
-      <item value="Extension of the {@link Ordered} interface, expressing a &lt;em&gt;priority&lt;em&gt; ordering: order values expressed by {@code PriorityOrdered} objects always apply before same order values expressed by &lt;em&gt;plain&lt;em&gt; {@link Ordered} objects. &lt;p&gt;This is primarily a special-purpose interface, used for objects where it is particularly important to recognize &lt;em&gt;prioritized&lt;em&gt; objects first, without even obtaining the remaining objects. A typical example: prioritized post-processors in a Spring {@link org.springframework.context.ApplicationContext}." />
-      <item value="Override" />
-      <item value="remove" />
-      <item value="overview" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2315" />
-        <entry key="ENGLISH" value="2316" />
+        <entry key="CHINESE" value="2319" />
+        <entry key="ENGLISH" value="2320" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
