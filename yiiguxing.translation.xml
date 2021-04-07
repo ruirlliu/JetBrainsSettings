@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Role hint indicating that a {@code BeanDefinition} is providing an entirely background role and has no relevance to the end-user. This hint is used when registering beans that are completely part of the internal workings of a {@link org.springframework.beans.factory.parsing.ComponentDefinition}." />
+      <item value="Role hint indicating that a {@code BeanDefinition} is a supporting part of some larger configuration, typically an outer {@link org.springframework.beans.factory.parsing.ComponentDefinition}. {@code SUPPORT} beans are considered important enough to be aware of when looking more closely at a particular {@link org.springframework.beans.factory.parsing.ComponentDefinition}, but not when looking at the overall configuration of an application." />
+      <item value="Role hint indicating that a {@code BeanDefinition} is a supporting part of some larger configuration, typically an outer {@link org.springframework.beans.factory.parsing.ComponentDefinition}. {@code SUPPORT} beans are considered important enough to be aware of when looking more closely at a particular" />
+      <item value="corresponds" />
+      <item value="If Role is present on a {@link Configuration @Configuration} class, this indicates the role of the configuration class bean definition and does not cascade to all @{@code Bean} methods defined within. This behavior is different than that of the @{@link Lazy} annotation, for example." />
+      <item value="If this annotation is not present on a Component or Bean definition, the default value of {@link BeanDefinitionROLE_APPLICATION} will apply." />
+      <item value="May be used on any class directly or indirectly annotated with {@link org.springframework.stereotype.Component} or on methods annotated with {@link Bean}." />
+      <item value="Indicates the 'role' hint for a given bean." />
+      <item value="Role hint indicating that a {@code BeanDefinition} is a major part of the application. Typically corresponds to a user-defined bean." />
+      <item value="Allow a subclass to provide custom initialization of the reader, then proceed with actually loading the bean definitions." />
+      <item value="Configure the bean definition reader with this context's resource loading environment." />
+      <item value="Create a new XmlBeanDefinitionReader for the given BeanFactory." />
       <item value="Beans Exception" />
       <item value="load Bean Definitions" />
       <item value="Load bean definitions into the given bean factory, typically through delegating to one or more bean definition readers." />
@@ -39,23 +51,11 @@
       <item value="Override" />
       <item value="remove" />
       <item value="overview" />
-      <item value="JSON Object" />
-      <item value="deploy Config" />
-      <item value="main" />
-      <item value="annotation" />
-      <item value="check Annotation" />
-      <item value="application Api" />
-      <item value="add Not Reserve Ips Annotation" />
-      <item value="null" />
-      <item value="Context" />
-      <item value="Http Servlet" />
-      <item value="request" />
-      <item value="get Relative Path" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2300" />
-        <entry key="ENGLISH" value="2301" />
+        <entry key="CHINESE" value="2315" />
+        <entry key="ENGLISH" value="2316" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
