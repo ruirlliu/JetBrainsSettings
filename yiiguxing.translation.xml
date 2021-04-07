@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="subsequently" />
+      <item value="&amp;mdash;" />
+      <item value="Interface to be implemented by beans that need to react once all their properties have been set by a {@link BeanFactory}: e.g. to perform custom initialization, or merely to check that all mandatory properties have been set." />
+      <item value="Factory hook that allows for custom modification of new bean instances &amp;mdash; for example, checking for marker interfaces or wrapping beans with proxies." />
+      <item value="or merely to check that all mandatory properties have been set." />
+      <item value="react" />
       <item value="Query Real Name By App Name And Proj Id" />
       <item value="add Not Reserve Ips Annotation" />
       <item value="add Reserve Ips Annotation" />
@@ -45,17 +51,11 @@
       <item value="Finds the resource with the given name. A resource is some data (images, audio, text, etc) that can be accessed by class code in a way that is independent of the location of the code." />
       <item value="Hierarchical" />
       <item value="apply Bean Post Processors Before Initialization" />
-      <item value="bean" />
-      <item value="kubernetes" />
-      <item value="reservation" />
-      <item value="Populate" />
-      <item value="Typical methods for creating and populating external bean instances" />
-      <item value="Typical" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2333" />
-        <entry key="ENGLISH" value="2334" />
+        <entry key="CHINESE" value="2339" />
+        <entry key="ENGLISH" value="2339" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
