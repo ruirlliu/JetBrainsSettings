@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="image" />
+      <item value="register Resolvable Dependency" />
+      <item value="Configure the bean factory with context callbacks." />
+      <item value="Ignore the given dependency interface for autowiring. &lt;p&gt;This will typically be used by application contexts to register dependencies that are resolved in other ways, like BeanFactory through BeanFactoryAware or ApplicationContext through ApplicationContextAware. &lt;p&gt;By default, only the BeanFactoryAware interface is ignored. For further types to ignore, invoke this method for each type. @param ifc the dependency interface to ignore" />
+      <item value="context" />
+      <item value="Beans Exception" />
       <item value="Protected method invoked when this task transitions to state {@code isDone} (whether normally or via cancellation). The default implementation does nothing. Subclasses may override this method to invoke completion callbacks or perform bookkeeping. Note that you can query status inside the implementation of this method to determine whether this task has been cancelled." />
       <item value="Suppose you have a set of solvers for a certain problem, each returning a value of some type {@code Result}, and would like to run them concurrently, processing the results of each of them that return a non-null value, in some method {@code use(Result r)}. You could write this as:" />
       <item value="A {@link CompletionService} that uses a supplied {@link Executor} to execute tasks. This class arranges that submitted tasks are, upon completion, placed on a queue accessible using {@code take}. The class is lightweight enough to be suitable for transient use when processing groups of tasks." />
@@ -17,7 +23,6 @@
       <item value="Allow a subclass to provide custom initialization of the reader, then proceed with actually loading the bean definitions." />
       <item value="Configure the bean definition reader with this context's resource loading environment." />
       <item value="Create a new XmlBeanDefinitionReader for the given BeanFactory." />
-      <item value="Beans Exception" />
       <item value="load Bean Definitions" />
       <item value="Load bean definitions into the given bean factory, typically through delegating to one or more bean definition readers." />
       <item value="the bean factory to load bean definitions into" />
@@ -46,16 +51,11 @@
       <item value="args" />
       <item value="Even if" />
       <item value="Eager" />
-      <item value="Base class for {@link org.springframework.context.ApplicationContext} implementations which are supposed to support multiple calls to {@link refresh()}, creating a new internal bean factory instance every time. Typically (but not necessarily), such a context will be driven by a set of config locations to load bean definitions from. &lt;p&gt;The only method to be implemented by subclasses is {@link loadBeanDefinitions}, which gets invoked on each refresh. A concrete implementation is supposed to load bean definitions into the given {@link org.springframework.beans.factory.support.DefaultListableBeanFactory}, typically delegating to one or more specific bean definition readers. &lt;p&gt;&lt;b&gt;Note that there is a similar base class for WebApplicationContexts.&lt;b&gt; {@link org.springframework.web.context.support.AbstractRefreshableWebApplicationContext} provides the same subclassing strategy, but additionally pre-implements all context functionality for web environments. There is also a pre-defined way to receive config locations for a web context. &lt;p&gt;Concrete standalone subclasses of this base class, reading in a specific bean definition format, are {@link ClassPathXmlApplicationContext} and {@link FileSystemXmlApplicationContext}, which both derive from the common {@link AbstractXmlApplicationContext} base class; {@link org.springframework.context.annotation.AnnotationConfigApplicationContext} supports {@code @Configuration}-annotated classes as a source of bean definitions." />
-      <item value="App Template" />
-      <item value="configure Headless Property" />
-      <item value="deduce" />
-      <item value="Priority" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2319" />
-        <entry key="ENGLISH" value="2320" />
+        <entry key="CHINESE" value="2325" />
+        <entry key="ENGLISH" value="2326" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
