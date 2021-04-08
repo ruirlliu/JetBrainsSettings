@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="null" />
+      <item value="target Type" />
       <item value="Instantiate all remaining (non-lazy-init) singletons." />
       <item value="remaining" />
       <item value="register Listeners" />
@@ -49,13 +51,11 @@
       <item value="Property" />
       <item value="Conditional On Property" />
       <item value="post Process After Initialization" />
-      <item value="subsequently" />
-      <item value="&amp;mdash;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2401" />
-        <entry key="ENGLISH" value="2402" />
+        <entry key="CHINESE" value="2403" />
+        <entry key="ENGLISH" value="2404" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
