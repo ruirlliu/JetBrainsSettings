@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="regardless" />
+      <item value="values" />
+      <item value="ordering" />
+      <item value="priority" />
+      <item value="and the rest." />
+      <item value="rest" />
+      <item value="precision" />
       <item value="Property" />
       <item value="Conditional On Property" />
       <item value="post Process After Initialization" />
@@ -44,18 +51,11 @@
       <item value="Set whether to allow circular references between beans - and automatically try to resolve them. &lt;p&gt;Note that circular reference resolution means that one of the involved beans will receive a reference to another bean that is not fully initialized yet. This can lead to subtle and not-so-subtle side effects on initialization; it does work fine for many scenarios, though. &lt;p&gt;Default is &quot;true&quot;. Turn this off to throw an exception when encountering a circular reference, disallowing them completely. &lt;p&gt;&lt;b&gt;NOTE:&lt;b&gt; It is generally recommended to not rely on circular references between your beans. Refactor your application logic to have the two beans involved delegate to a third bean that encapsulates their common logic." />
       <item value="Set whether to allow circular references between beans - and automatically try to resolve them." />
       <item value="Set whether it should be allowed to override bean definitions by registering a different definition with the same name, automatically replacing the former. If not, an exception will be thrown. This also applies to overriding aliases. &lt;p&gt;Default is &quot;true&quot;. @see registerBeanDefinition" />
-      <item value="Subclasses must implement this method to perform the actual configuration load. The method is invoked by {@link refresh()} before any other initialization work. &lt;p&gt;A subclass will either create a new bean factory and hold a reference to it, or return a single BeanFactory instance that it holds. In the latter case, it will usually throw an IllegalStateException if refreshing the context more than once." />
-      <item value="Subclasses must implement this method to perform the actual configuration load. The method is invoked by {@link refresh()} before any other initialization work. &lt;p&gt;A subclass will either create a new bean factory and hold a reference to it, or return a single BeanFactory instance that it holds. In the latter case, it will usually throw an IllegalStateException if refreshing the context more than once. @throws BeansException if initialization of the bean factory failed @throws IllegalStateException if already initialized and multiple refresh attempts are not supported" />
-      <item value="abstract" />
-      <item value="Initialize any placeholder property sources in the context environment." />
-      <item value="strict" />
-      <item value="JAR URL SEPARATOR" />
-      <item value="This method will first search the parent class loader for the resource; if the parent is &lt;tt&gt;null&lt;tt&gt; the path of the class loader built-in to the virtual machine is searched. That failing, this method will invoke {@link findResource(String)} to find the resource." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2341" />
-        <entry key="ENGLISH" value="2342" />
+        <entry key="CHINESE" value="2352" />
+        <entry key="ENGLISH" value="2353" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
