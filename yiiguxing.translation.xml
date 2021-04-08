@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="internal" />
+      <item value="Bean Factory Post Processor" />
+      <item value="adapting" />
       <item value="Unsupported Operation Exception" />
       <item value="failure" />
       <item value="reform" />
@@ -48,14 +51,11 @@
       <item value="add Not Reserve Ips Annotation" />
       <item value="add Reserve Ips Annotation" />
       <item value="is Whitespace" />
-      <item value="after Properties Set" />
-      <item value="Constructor" />
-      <item value="image" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2386" />
-        <entry key="ENGLISH" value="2387" />
+        <entry key="CHINESE" value="2392" />
+        <entry key="ENGLISH" value="2393" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
