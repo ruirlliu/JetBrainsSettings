@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unsupported Operation Exception" />
+      <item value="failure" />
+      <item value="reform" />
+      <item value="transfer" />
+      <item value="transfer Reserved Response" />
       <item value="PRECEDENCE" />
       <item value="Beans Exception" />
       <item value="throws" />
@@ -46,16 +51,11 @@
       <item value="after Properties Set" />
       <item value="Constructor" />
       <item value="image" />
-      <item value="register Resolvable Dependency" />
-      <item value="Configure the bean factory with context callbacks." />
-      <item value="Ignore the given dependency interface for autowiring. &lt;p&gt;This will typically be used by application contexts to register dependencies that are resolved in other ways, like BeanFactory through BeanFactoryAware or ApplicationContext through ApplicationContextAware. &lt;p&gt;By default, only the BeanFactoryAware interface is ignored. For further types to ignore, invoke this method for each type. @param ifc the dependency interface to ignore" />
-      <item value="context" />
-      <item value="Protected method invoked when this task transitions to state {@code isDone} (whether normally or via cancellation). The default implementation does nothing. Subclasses may override this method to invoke completion callbacks or perform bookkeeping. Note that you can query status inside the implementation of this method to determine whether this task has been cancelled." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2381" />
-        <entry key="ENGLISH" value="2382" />
+        <entry key="CHINESE" value="2386" />
+        <entry key="ENGLISH" value="2387" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
