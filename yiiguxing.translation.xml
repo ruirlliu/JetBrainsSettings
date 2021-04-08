@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="intercept" />
       <item value="internal" />
       <item value="Bean Factory Post Processor" />
       <item value="adapting" />
@@ -31,7 +32,6 @@
       <item value="Instantiate" />
       <item value="Instantiate and register all BeanPostProcessor beans, respecting explicit order if given. &lt;p&gt;Must be called before any instantiation of application beans." />
       <item value="processors" />
-      <item value="intercept" />
       <item value="regardless" />
       <item value="values" />
       <item value="ordering" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2392" />
-        <entry key="ENGLISH" value="2393" />
+        <entry key="CHINESE" value="2393" />
+        <entry key="ENGLISH" value="2394" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
