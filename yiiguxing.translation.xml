@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="multicaster" />
+      <item value="context" />
       <item value="intercept" />
       <item value="internal" />
       <item value="Bean Factory Post Processor" />
@@ -49,13 +51,11 @@
       <item value="react" />
       <item value="Query Real Name By App Name And Proj Id" />
       <item value="add Not Reserve Ips Annotation" />
-      <item value="add Reserve Ips Annotation" />
-      <item value="is Whitespace" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2393" />
-        <entry key="ENGLISH" value="2394" />
+        <entry key="CHINESE" value="2396" />
+        <entry key="ENGLISH" value="2397" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
