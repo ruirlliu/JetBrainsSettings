@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PRECEDENCE" />
+      <item value="Beans Exception" />
+      <item value="throws" />
       <item value="precedence" />
       <item value="HIGHEST PRECEDENCE" />
       <item value="subsequent" />
@@ -47,15 +50,12 @@
       <item value="Configure the bean factory with context callbacks." />
       <item value="Ignore the given dependency interface for autowiring. &lt;p&gt;This will typically be used by application contexts to register dependencies that are resolved in other ways, like BeanFactory through BeanFactoryAware or ApplicationContext through ApplicationContextAware. &lt;p&gt;By default, only the BeanFactoryAware interface is ignored. For further types to ignore, invoke this method for each type. @param ifc the dependency interface to ignore" />
       <item value="context" />
-      <item value="Beans Exception" />
       <item value="Protected method invoked when this task transitions to state {@code isDone} (whether normally or via cancellation). The default implementation does nothing. Subclasses may override this method to invoke completion callbacks or perform bookkeeping. Note that you can query status inside the implementation of this method to determine whether this task has been cancelled." />
-      <item value="Suppose you have a set of solvers for a certain problem, each returning a value of some type {@code Result}, and would like to run them concurrently, processing the results of each of them that return a non-null value, in some method {@code use(Result r)}. You could write this as:" />
-      <item value="A {@link CompletionService} that uses a supplied {@link Executor} to execute tasks. This class arranges that submitted tasks are, upon completion, placed on a queue accessible using {@code take}. The class is lightweight enough to be suitable for transient use when processing groups of tasks." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2378" />
-        <entry key="ENGLISH" value="2379" />
+        <entry key="CHINESE" value="2381" />
+        <entry key="ENGLISH" value="2382" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
