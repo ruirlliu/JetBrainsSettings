@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Instantiate all remaining (non-lazy-init) singletons." />
+      <item value="remaining" />
       <item value="register Listeners" />
       <item value="SERVLET INDICATOR CLASSES" />
       <item value="REACTIVE" />
@@ -49,13 +51,11 @@
       <item value="post Process After Initialization" />
       <item value="subsequently" />
       <item value="&amp;mdash;" />
-      <item value="Interface to be implemented by beans that need to react once all their properties have been set by a {@link BeanFactory}: e.g. to perform custom initialization, or merely to check that all mandatory properties have been set." />
-      <item value="or merely to check that all mandatory properties have been set." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2399" />
-        <entry key="ENGLISH" value="2400" />
+        <entry key="CHINESE" value="2401" />
+        <entry key="ENGLISH" value="2402" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
