@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="subsequent" />
+      <item value="Apply this {@code BeanPostProcessor} to the given new bean instance &lt;i&gt;before&lt;i&gt; any bean initialization callbacks (like InitializingBean's {@code afterPropertiesSet} or a custom init-method). The bean will already be populated with property values. The returned bean instance may be a wrapper around the original. &lt;p&gt;The default implementation returns the given {@code bean} as-is. @param bean the new bean instance @param beanName the name of the bean @return the bean instance to use, either the original or a wrapped one; if {@code null}, no subsequent BeanPostProcessors will be invoked @throws org.springframework.beans.BeansException in case of errors @see org.springframework.beans.factory.InitializingBeanafterPropertiesSet" />
+      <item value="contrast" />
+      <item value="semantics" />
+      <item value="&lt;h3&gt;Registration&lt;h3&gt; &lt;p&gt;An {@code ApplicationContext} can autodetect {@code BeanPostProcessor} beans in its bean definitions and apply those post-processors to any beans subsequently created. A plain {@code BeanFactory} allows for programmatic registration of post-processors, applying them to all beans created through the bean factory." />
+      <item value="Registration" />
+      <item value="Typically, post-processors that populate beans via marker interfaces or the like will implement {@link postProcessBeforeInitialization}, while post-processors that wrap beans with proxies will normally implement {@link postProcessAfterInitialization}." />
+      <item value="populate" />
+      <item value="Factory hook that allows for custom modification of new bean instances &amp;mdash; for example, checking for marker interfaces or wrapping beans with proxies." />
+      <item value="Re-register post-processor for detecting inner beans as ApplicationListeners, moving it to the end of the processor chain (for picking up proxies etc)." />
+      <item value="Separate" />
+      <item value="Register BeanPostProcessorChecker that logs an info message when a bean is created during BeanPostProcessor instantiation, i.e. when a bean is not eligible for getting processed by all BeanPostProcessors." />
       <item value="Must be called before any instantiation of application beans." />
       <item value="Instantiate and register all BeanPostProcessor beans, respecting explicit order if given." />
       <item value="Instantiate" />
@@ -20,7 +32,6 @@
       <item value="subsequently" />
       <item value="&amp;mdash;" />
       <item value="Interface to be implemented by beans that need to react once all their properties have been set by a {@link BeanFactory}: e.g. to perform custom initialization, or merely to check that all mandatory properties have been set." />
-      <item value="Factory hook that allows for custom modification of new bean instances &amp;mdash; for example, checking for marker interfaces or wrapping beans with proxies." />
       <item value="or merely to check that all mandatory properties have been set." />
       <item value="react" />
       <item value="Query Real Name By App Name And Proj Id" />
@@ -40,22 +51,11 @@
       <item value="A {@link CompletionService} that uses a supplied {@link Executor} to execute tasks. This class arranges that submitted tasks are, upon completion, placed on a queue accessible using {@code take}. The class is lightweight enough to be suitable for transient use when processing groups of tasks." />
       <item value="Completion Service" />
       <item value="Role hint indicating that a {@code BeanDefinition} is providing an entirely background role and has no relevance to the end-user. This hint is used when registering beans that are completely part of the internal workings of a {@link org.springframework.beans.factory.parsing.ComponentDefinition}." />
-      <item value="Role hint indicating that a {@code BeanDefinition} is a supporting part of some larger configuration, typically an outer {@link org.springframework.beans.factory.parsing.ComponentDefinition}. {@code SUPPORT} beans are considered important enough to be aware of when looking more closely at a particular {@link org.springframework.beans.factory.parsing.ComponentDefinition}, but not when looking at the overall configuration of an application." />
-      <item value="Role hint indicating that a {@code BeanDefinition} is a supporting part of some larger configuration, typically an outer {@link org.springframework.beans.factory.parsing.ComponentDefinition}. {@code SUPPORT} beans are considered important enough to be aware of when looking more closely at a particular" />
-      <item value="corresponds" />
-      <item value="If Role is present on a {@link Configuration @Configuration} class, this indicates the role of the configuration class bean definition and does not cascade to all @{@code Bean} methods defined within. This behavior is different than that of the @{@link Lazy} annotation, for example." />
-      <item value="If this annotation is not present on a Component or Bean definition, the default value of {@link BeanDefinitionROLE_APPLICATION} will apply." />
-      <item value="May be used on any class directly or indirectly annotated with {@link org.springframework.stereotype.Component} or on methods annotated with {@link Bean}." />
-      <item value="Indicates the 'role' hint for a given bean." />
-      <item value="Role hint indicating that a {@code BeanDefinition} is a major part of the application. Typically corresponds to a user-defined bean." />
-      <item value="Allow a subclass to provide custom initialization of the reader, then proceed with actually loading the bean definitions." />
-      <item value="Configure the bean definition reader with this context's resource loading environment." />
-      <item value="Create a new XmlBeanDefinitionReader for the given BeanFactory." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2360" />
-        <entry key="ENGLISH" value="2361" />
+        <entry key="CHINESE" value="2376" />
+        <entry key="ENGLISH" value="2377" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
