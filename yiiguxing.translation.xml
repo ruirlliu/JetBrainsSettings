@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="precedence" />
+      <item value="HIGHEST PRECEDENCE" />
       <item value="subsequent" />
       <item value="Apply this {@code BeanPostProcessor} to the given new bean instance &lt;i&gt;before&lt;i&gt; any bean initialization callbacks (like InitializingBean's {@code afterPropertiesSet} or a custom init-method). The bean will already be populated with property values. The returned bean instance may be a wrapper around the original. &lt;p&gt;The default implementation returns the given {@code bean} as-is. @param bean the new bean instance @param beanName the name of the bean @return the bean instance to use, either the original or a wrapped one; if {@code null}, no subsequent BeanPostProcessors will be invoked @throws org.springframework.beans.BeansException in case of errors @see org.springframework.beans.factory.InitializingBeanafterPropertiesSet" />
       <item value="contrast" />
@@ -49,13 +51,11 @@
       <item value="Protected method invoked when this task transitions to state {@code isDone} (whether normally or via cancellation). The default implementation does nothing. Subclasses may override this method to invoke completion callbacks or perform bookkeeping. Note that you can query status inside the implementation of this method to determine whether this task has been cancelled." />
       <item value="Suppose you have a set of solvers for a certain problem, each returning a value of some type {@code Result}, and would like to run them concurrently, processing the results of each of them that return a non-null value, in some method {@code use(Result r)}. You could write this as:" />
       <item value="A {@link CompletionService} that uses a supplied {@link Executor} to execute tasks. This class arranges that submitted tasks are, upon completion, placed on a queue accessible using {@code take}. The class is lightweight enough to be suitable for transient use when processing groups of tasks." />
-      <item value="Completion Service" />
-      <item value="Role hint indicating that a {@code BeanDefinition} is providing an entirely background role and has no relevance to the end-user. This hint is used when registering beans that are completely part of the internal workings of a {@link org.springframework.beans.factory.parsing.ComponentDefinition}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2376" />
-        <entry key="ENGLISH" value="2377" />
+        <entry key="CHINESE" value="2378" />
+        <entry key="ENGLISH" value="2379" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
