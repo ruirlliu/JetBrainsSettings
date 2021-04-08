@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Must be called before any instantiation of application beans." />
+      <item value="Instantiate and register all BeanPostProcessor beans, respecting explicit order if given." />
+      <item value="Instantiate" />
+      <item value="Instantiate and register all BeanPostProcessor beans, respecting explicit order if given. &lt;p&gt;Must be called before any instantiation of application beans." />
+      <item value="processors" />
+      <item value="intercept" />
       <item value="regardless" />
       <item value="values" />
       <item value="ordering" />
@@ -45,17 +51,11 @@
       <item value="Allow a subclass to provide custom initialization of the reader, then proceed with actually loading the bean definitions." />
       <item value="Configure the bean definition reader with this context's resource loading environment." />
       <item value="Create a new XmlBeanDefinitionReader for the given BeanFactory." />
-      <item value="load Bean Definitions" />
-      <item value="Load bean definitions into the given bean factory, typically through delegating to one or more bean definition readers." />
-      <item value="the bean factory to load bean definitions into" />
-      <item value="Set whether to allow circular references between beans - and automatically try to resolve them. &lt;p&gt;Note that circular reference resolution means that one of the involved beans will receive a reference to another bean that is not fully initialized yet. This can lead to subtle and not-so-subtle side effects on initialization; it does work fine for many scenarios, though. &lt;p&gt;Default is &quot;true&quot;. Turn this off to throw an exception when encountering a circular reference, disallowing them completely. &lt;p&gt;&lt;b&gt;NOTE:&lt;b&gt; It is generally recommended to not rely on circular references between your beans. Refactor your application logic to have the two beans involved delegate to a third bean that encapsulates their common logic." />
-      <item value="Set whether to allow circular references between beans - and automatically try to resolve them." />
-      <item value="Set whether it should be allowed to override bean definitions by registering a different definition with the same name, automatically replacing the former. If not, an exception will be thrown. This also applies to overriding aliases. &lt;p&gt;Default is &quot;true&quot;. @see registerBeanDefinition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2352" />
-        <entry key="ENGLISH" value="2353" />
+        <entry key="CHINESE" value="2360" />
+        <entry key="ENGLISH" value="2361" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
