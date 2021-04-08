@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SERVLET INDICATOR CLASSES" />
+      <item value="REACTIVE" />
       <item value="multicaster" />
       <item value="context" />
       <item value="intercept" />
@@ -49,13 +51,11 @@
       <item value="Interface to be implemented by beans that need to react once all their properties have been set by a {@link BeanFactory}: e.g. to perform custom initialization, or merely to check that all mandatory properties have been set." />
       <item value="or merely to check that all mandatory properties have been set." />
       <item value="react" />
-      <item value="Query Real Name By App Name And Proj Id" />
-      <item value="add Not Reserve Ips Annotation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2396" />
-        <entry key="ENGLISH" value="2397" />
+        <entry key="CHINESE" value="2398" />
+        <entry key="ENGLISH" value="2399" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
