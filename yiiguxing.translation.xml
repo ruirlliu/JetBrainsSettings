@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="informer" />
       <item value="a callback for creating an instance of the bean" />
       <item value="Mutable Property Values" />
       <item value="Initializing Bean" />
@@ -50,17 +51,16 @@
       <item value="Registration" />
       <item value="Typically, post-processors that populate beans via marker interfaces or the like will implement {@link postProcessBeforeInitialization}, while post-processors that wrap beans with proxies will normally implement {@link postProcessAfterInitialization}." />
       <item value="populate" />
-      <item value="Factory hook that allows for custom modification of new bean instances &amp;mdash; for example, checking for marker interfaces or wrapping beans with proxies." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2421" />
+        <entry key="CHINESE" value="2422" />
         <entry key="ENGLISH" value="2422" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="6" />
-        <entry key="FRENCH" value="4" />
+        <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="4" />
         <entry key="FINNISH" value="5" />
         <entry key="DUTCH" value="2" />
