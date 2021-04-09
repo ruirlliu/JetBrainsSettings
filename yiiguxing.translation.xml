@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="weird" />
+      <item value="Web Logic" />
       <item value="startup Date" />
       <item value="current Time Millis" />
       <item value="prepare Refresh" />
@@ -49,13 +51,11 @@
       <item value="Instantiate" />
       <item value="Instantiate and register all BeanPostProcessor beans, respecting explicit order if given. &lt;p&gt;Must be called before any instantiation of application beans." />
       <item value="processors" />
-      <item value="regardless" />
-      <item value="values" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2410" />
-        <entry key="ENGLISH" value="2411" />
+        <entry key="CHINESE" value="2413" />
+        <entry key="ENGLISH" value="2414" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
