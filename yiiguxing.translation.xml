@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="page" />
+      <item value="JSON Object" />
+      <item value="Http Status" />
+      <item value="just" />
+      <item value="Mono" />
       <item value="null" />
       <item value="target Type" />
       <item value="Instantiate all remaining (non-lazy-init) singletons." />
@@ -46,16 +51,11 @@
       <item value="ordering" />
       <item value="priority" />
       <item value="and the rest." />
-      <item value="rest" />
-      <item value="precision" />
-      <item value="Property" />
-      <item value="Conditional On Property" />
-      <item value="post Process After Initialization" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2403" />
-        <entry key="ENGLISH" value="2404" />
+        <entry key="CHINESE" value="2407" />
+        <entry key="ENGLISH" value="2408" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
@@ -71,6 +71,7 @@
         <entry key="ZULU" value="1" />
         <entry key="NORWEGIAN" value="2" />
         <entry key="PORTUGUESE" value="4" />
+        <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="SLOVAK" value="1" />
         <entry key="SPANISH" value="1" />
