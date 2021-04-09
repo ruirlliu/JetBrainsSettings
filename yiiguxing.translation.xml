@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="possible" />
+      <item value="creation" />
+      <item value="singleton" />
+      <item value="avoid" />
       <item value="Populate the bean instance in the given BeanWrapper with the property values from the bean definition." />
       <item value="Populate" />
       <item value="Indicate that the annotated element represents a stereotype for the index." />
@@ -47,15 +51,11 @@
       <item value="Beans Exception" />
       <item value="throws" />
       <item value="precedence" />
-      <item value="HIGHEST PRECEDENCE" />
-      <item value="subsequent" />
-      <item value="Apply this {@code BeanPostProcessor} to the given new bean instance &lt;i&gt;before&lt;i&gt; any bean initialization callbacks (like InitializingBean's {@code afterPropertiesSet} or a custom init-method). The bean will already be populated with property values. The returned bean instance may be a wrapper around the original. &lt;p&gt;The default implementation returns the given {@code bean} as-is. @param bean the new bean instance @param beanName the name of the bean @return the bean instance to use, either the original or a wrapped one; if {@code null}, no subsequent BeanPostProcessors will be invoked @throws org.springframework.beans.BeansException in case of errors @see org.springframework.beans.factory.InitializingBeanafterPropertiesSet" />
-      <item value="contrast" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2426" />
-        <entry key="ENGLISH" value="2427" />
+        <entry key="CHINESE" value="2430" />
+        <entry key="ENGLISH" value="2431" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
