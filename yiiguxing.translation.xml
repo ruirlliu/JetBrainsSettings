@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="after Properties Set" />
       <item value="in favor of" />
       <item value="Autowire" />
       <item value="Capable" />
@@ -50,12 +51,11 @@
       <item value="Re-register post-processor for detecting inner beans as ApplicationListeners, moving it to the end of the processor chain (for picking up proxies etc)." />
       <item value="Separate" />
       <item value="Register BeanPostProcessorChecker that logs an info message when a bean is created during BeanPostProcessor instantiation, i.e. when a bean is not eligible for getting processed by all BeanPostProcessors." />
-      <item value="Must be called before any instantiation of application beans." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2417" />
-        <entry key="ENGLISH" value="2418" />
+        <entry key="CHINESE" value="2418" />
+        <entry key="ENGLISH" value="2419" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
