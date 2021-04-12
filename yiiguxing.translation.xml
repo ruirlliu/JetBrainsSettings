@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Element" />
+      <item value="Metadata" />
+      <item value="Bean Metadata Element" />
+      <item value="arbitrary" />
       <item value="Process the given bean element, parsing the bean definition and registering it with the registry." />
       <item value="INFER" />
       <item value="regard to" />
@@ -47,15 +51,11 @@
       <item value="singleton" />
       <item value="avoid" />
       <item value="Populate the bean instance in the given BeanWrapper with the property values from the bean definition." />
-      <item value="Populate" />
-      <item value="Indicate that the annotated element represents a stereotype for the index." />
-      <item value="Scope" />
-      <item value="Token Auth Interceptor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2497" />
-        <entry key="ENGLISH" value="2498" />
+        <entry key="CHINESE" value="2502" />
+        <entry key="ENGLISH" value="2503" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
