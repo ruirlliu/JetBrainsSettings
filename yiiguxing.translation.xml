@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="contains Singleton" />
+      <item value="existing Definition" />
+      <item value="Cannot modify startup-time collection elements anymore (for stable iteration)" />
+      <item value="bean Definition Map" />
+      <item value="Bean Definition" />
       <item value="Element" />
       <item value="Metadata" />
       <item value="Bean Metadata Element" />
@@ -46,16 +51,11 @@
       <item value="Holder for constructor argument values, typically as part of a bean definition." />
       <item value="Holder for constructor argument values, typically as part of a bean definition. &lt;p&gt;Supports values for a specific index in the constructor argument list as well as for generic argument matches by type. @author Juergen Hoeller @since 09.11.2003 @see BeanDefinitiongetConstructorArgumentValues" />
       <item value="Definition" />
-      <item value="possible" />
-      <item value="creation" />
-      <item value="singleton" />
-      <item value="avoid" />
-      <item value="Populate the bean instance in the given BeanWrapper with the property values from the bean definition." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2502" />
-        <entry key="ENGLISH" value="2503" />
+        <entry key="CHINESE" value="2511" />
+        <entry key="ENGLISH" value="2512" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
