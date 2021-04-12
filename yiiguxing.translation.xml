@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="retrofitted" />
+      <item value="aforementioned" />
+      <item value="but no definition for the class with the specified name could be found." />
       <item value="Thrown when an application tries to load in a class through its string name using:" />
       <item value="Illegal State Exception" />
       <item value="Beans Exception" />
@@ -48,14 +51,11 @@
       <item value="multicaster" />
       <item value="context" />
       <item value="intercept" />
-      <item value="internal" />
-      <item value="Bean Factory Post Processor" />
-      <item value="adapting" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2441" />
-        <entry key="ENGLISH" value="2442" />
+        <entry key="CHINESE" value="2447" />
+        <entry key="ENGLISH" value="2448" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
