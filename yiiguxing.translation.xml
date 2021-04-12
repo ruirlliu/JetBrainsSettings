@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="enforce" />
       <item value="Facade" />
       <item value="Mutable" />
       <item value="Mutabl" />
@@ -50,12 +51,11 @@
       <item value="informer" />
       <item value="a callback for creating an instance of the bean" />
       <item value="Mutable Property Values" />
-      <item value="Initializing Bean" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2493" />
-        <entry key="ENGLISH" value="2494" />
+        <entry key="CHINESE" value="2494" />
+        <entry key="ENGLISH" value="2495" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
