@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Thrown when an application tries to load in a class through its string name using:" />
+      <item value="Illegal State Exception" />
+      <item value="Beans Exception" />
+      <item value="refresh" />
+      <item value="annotations" />
+      <item value="after Properties Set" />
+      <item value="Override" />
+      <item value="Holder for constructor argument values, typically as part of a bean definition." />
+      <item value="Holder for constructor argument values, typically as part of a bean definition. &lt;p&gt;Supports values for a specific index in the constructor argument list as well as for generic argument matches by type. @author Juergen Hoeller @since 09.11.2003 @see BeanDefinitiongetConstructorArgumentValues" />
+      <item value="Definition" />
       <item value="possible" />
       <item value="creation" />
       <item value="singleton" />
@@ -14,7 +24,6 @@
       <item value="a callback for creating an instance of the bean" />
       <item value="Mutable Property Values" />
       <item value="Initializing Bean" />
-      <item value="after Properties Set" />
       <item value="in favor of" />
       <item value="Autowire" />
       <item value="Capable" />
@@ -42,20 +51,11 @@
       <item value="internal" />
       <item value="Bean Factory Post Processor" />
       <item value="adapting" />
-      <item value="Unsupported Operation Exception" />
-      <item value="failure" />
-      <item value="reform" />
-      <item value="transfer" />
-      <item value="transfer Reserved Response" />
-      <item value="PRECEDENCE" />
-      <item value="Beans Exception" />
-      <item value="throws" />
-      <item value="precedence" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2430" />
-        <entry key="ENGLISH" value="2431" />
+        <entry key="CHINESE" value="2441" />
+        <entry key="ENGLISH" value="2442" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
@@ -84,6 +84,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1617672818454" />
+    <option name="lastTrimTime" value="1618191369766" />
   </component>
 </application>
