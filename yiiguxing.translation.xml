@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Load bean definitions into the given bean factory, typically through delegating to one or more bean definition readers." />
+      <item value="typically through delegating to one or more bean definition readers." />
+      <item value="encountering" />
+      <item value="Set whether to allow circular references between beans - and automatically try to resolve them. &lt;p&gt;Note that circular reference resolution means that one of the involved beans will receive a reference to another bean that is not fully initialized yet. This can lead to subtle and not-so-subtle side effects on initialization; it does work fine for many scenarios, though. &lt;p&gt;Default is &quot;true&quot;. Turn this off to throw an exception when encountering a circular reference, disallowing them completely. &lt;p&gt;&lt;b&gt;NOTE:&lt;b&gt; It is generally recommended to not rely on circular references between your beans. Refactor your application logic to have the two beans involved delegate to a third bean that encapsulates their common logic." />
       <item value="but the definition can no longer be found." />
       <item value="no longer" />
       <item value="Thrown if the Java Virtual Machine or a &lt;code&gt;ClassLoader&lt;code&gt; instance tries to load in the definition of a class (as part of a normal method call or as part of creating a new instance using the &lt;code&gt;new&lt;code&gt; expression) and no definition of the class could be found. &lt;p&gt; The searched-for class definition existed when the currently executing class was compiled, but the definition can no longer be found." />
@@ -47,15 +51,11 @@
       <item value="null" />
       <item value="target Type" />
       <item value="Instantiate all remaining (non-lazy-init) singletons." />
-      <item value="remaining" />
-      <item value="register Listeners" />
-      <item value="SERVLET INDICATOR CLASSES" />
-      <item value="REACTIVE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2450" />
-        <entry key="ENGLISH" value="2451" />
+        <entry key="CHINESE" value="2454" />
+        <entry key="ENGLISH" value="2455" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
