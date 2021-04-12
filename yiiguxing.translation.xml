@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Mutable" />
+      <item value="Mutabl" />
       <item value="assigned" />
       <item value="recurse" />
       <item value="ALIAS ELEMENT" />
@@ -49,13 +51,11 @@
       <item value="Mutable Property Values" />
       <item value="Initializing Bean" />
       <item value="in favor of" />
-      <item value="Autowire" />
-      <item value="Capable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2490" />
-        <entry key="ENGLISH" value="2491" />
+        <entry key="CHINESE" value="2492" />
+        <entry key="ENGLISH" value="2493" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
