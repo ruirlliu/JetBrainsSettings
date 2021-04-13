@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="finish Bean Factory Initialization" />
+      <item value="Allow for caching all bean definition metadata, not expecting further changes." />
+      <item value="Allow for caching all bean definition metadata, not expecting further changes" />
+      <item value="Register a default embedded value resolver if no bean post-processor (such as a PropertyPlaceholderConfigurer bean) registered any before: at this point, primarily for resolution in annotation attribute values." />
+      <item value="primarily" />
       <item value="Fast Date Parser" />
       <item value="Pattern" />
       <item value="leniency" />
@@ -46,11 +51,6 @@
       <item value="Mutable" />
       <item value="Mutabl" />
       <item value="assigned" />
-      <item value="recurse" />
-      <item value="ALIAS ELEMENT" />
-      <item value="IMPORT ELEMENT" />
-      <item value="node Name Equals" />
-      <item value="Bean Definition Parser Delegate" />
     </histories>
     <option name="languageScores">
       <map>
