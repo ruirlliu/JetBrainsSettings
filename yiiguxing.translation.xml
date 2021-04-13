@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Last step: publish corresponding event." />
+      <item value="Simple Application Event Multicaster" />
+      <item value="Application Event Multicaster" />
+      <item value="Allows post-processing of the bean factory in context subclasses." />
       <item value="dangling" />
       <item value="schema" />
       <item value="Java-based configuration" />
@@ -47,10 +51,6 @@
       <item value="initializes" />
       <item value="Allow a subclass to provide custom initialization of the reader, then proceed with actually loading the bean definitions." />
       <item value="Load bean definitions into the given bean factory, typically through delegating to one or more bean definition readers." />
-      <item value="typically through delegating to one or more bean definition readers." />
-      <item value="encountering" />
-      <item value="Set whether to allow circular references between beans - and automatically try to resolve them. &lt;p&gt;Note that circular reference resolution means that one of the involved beans will receive a reference to another bean that is not fully initialized yet. This can lead to subtle and not-so-subtle side effects on initialization; it does work fine for many scenarios, though. &lt;p&gt;Default is &quot;true&quot;. Turn this off to throw an exception when encountering a circular reference, disallowing them completely. &lt;p&gt;&lt;b&gt;NOTE:&lt;b&gt; It is generally recommended to not rely on circular references between your beans. Refactor your application logic to have the two beans involved delegate to a third bean that encapsulates their common logic." />
-      <item value="but the definition can no longer be found." />
     </histories>
     <option name="languageScores">
       <map>
