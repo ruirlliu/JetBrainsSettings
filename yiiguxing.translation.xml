@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="attempt" />
+      <item value="encountered" />
       <item value="remaining" />
       <item value="Instantiate" />
       <item value="post-processor" />
@@ -49,8 +51,6 @@
       <item value="aforementioned" />
       <item value="but no definition for the class with the specified name could be found." />
       <item value="Thrown when an application tries to load in a class through its string name using:" />
-      <item value="Illegal State Exception" />
-      <item value="Beans Exception" />
     </histories>
     <option name="languageScores">
       <map>
