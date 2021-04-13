@@ -1,6 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Trigger post-initialization callback for all applicable beans..." />
+      <item value="Trigger initialization of all non-lazy singleton beans..." />
+      <item value="Extension of the {@link FactoryBean} interface. Implementations may indicate whether they always return independent instances, for the case where their {@link isSingleton()} implementation returning {@code false} does not clearly indicate independent instances." />
+      <item value="for the case" />
+      <item value="independent" />
+      <item value="Implementations" />
+      <item value="whether early references should be created or not @return the registered singleton object, or {@code null} if none found" />
+      <item value="Dereference" />
+      <item value="compute If Absent" />
+      <item value="FACTORY BEAN PREFIX" />
+      <item value="inclusive" />
+      <item value="canonical" />
+      <item value="Determines if the definition needs to be re-merged." />
+      <item value="Iterate over a copy to allow for init methods which in turn register new bean definitions. While this may not be part of the regular factory bootstrap, it does otherwise work fine." />
+      <item value="bean Definition Names" />
       <item value="finish Bean Factory Initialization" />
       <item value="Allow for caching all bean definition metadata, not expecting further changes." />
       <item value="Allow for caching all bean definition metadata, not expecting further changes" />
@@ -36,21 +51,6 @@
       <item value="BeanFactory not initialized or already closed - &quot; + &quot;call 'refresh' before accessing beans via the ApplicationContext" />
       <item value="contains Singleton" />
       <item value="existing Definition" />
-      <item value="Cannot modify startup-time collection elements anymore (for stable iteration)" />
-      <item value="bean Definition Map" />
-      <item value="Bean Definition" />
-      <item value="Element" />
-      <item value="Metadata" />
-      <item value="Bean Metadata Element" />
-      <item value="arbitrary" />
-      <item value="Process the given bean element, parsing the bean definition and registering it with the registry." />
-      <item value="INFER" />
-      <item value="regard to" />
-      <item value="enforce" />
-      <item value="Facade" />
-      <item value="Mutable" />
-      <item value="Mutabl" />
-      <item value="assigned" />
     </histories>
     <option name="languageScores">
       <map>
