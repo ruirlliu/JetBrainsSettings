@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="remaining" />
+      <item value="Instantiate" />
       <item value="post-processor" />
       <item value="process" />
       <item value="Invoke factory processors registered as beans in the context." />
@@ -49,8 +51,6 @@
       <item value="Thrown when an application tries to load in a class through its string name using:" />
       <item value="Illegal State Exception" />
       <item value="Beans Exception" />
-      <item value="refresh" />
-      <item value="annotations" />
     </histories>
     <option name="languageScores">
       <map>
