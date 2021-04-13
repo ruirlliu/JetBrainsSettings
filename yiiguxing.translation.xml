@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="post-processor" />
+      <item value="process" />
       <item value="Invoke factory processors registered as beans in the context." />
       <item value="bean Factory" />
       <item value="BeanFactory not initialized or already closed - &quot; + &quot;call 'refresh' before accessing beans via the ApplicationContext" />
@@ -49,8 +51,6 @@
       <item value="Beans Exception" />
       <item value="refresh" />
       <item value="annotations" />
-      <item value="after Properties Set" />
-      <item value="Override" />
     </histories>
     <option name="languageScores">
       <map>
