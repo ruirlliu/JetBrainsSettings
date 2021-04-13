@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="bean Factory" />
+      <item value="BeanFactory not initialized or already closed - &quot; + &quot;call 'refresh' before accessing beans via the ApplicationContext" />
       <item value="contains Singleton" />
       <item value="existing Definition" />
       <item value="Cannot modify startup-time collection elements anymore (for stable iteration)" />
@@ -49,13 +51,11 @@
       <item value="after Properties Set" />
       <item value="Override" />
       <item value="Holder for constructor argument values, typically as part of a bean definition." />
-      <item value="Holder for constructor argument values, typically as part of a bean definition. &lt;p&gt;Supports values for a specific index in the constructor argument list as well as for generic argument matches by type. @author Juergen Hoeller @since 09.11.2003 @see BeanDefinitiongetConstructorArgumentValues" />
-      <item value="Definition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2511" />
-        <entry key="ENGLISH" value="2512" />
+        <entry key="CHINESE" value="2513" />
+        <entry key="ENGLISH" value="2514" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
