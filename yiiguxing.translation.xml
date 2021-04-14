@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="canonical" />
+      <item value="raw" />
       <item value="Smart Initializing Singleton" />
       <item value="initialize" />
       <item value="bootstrap" />
@@ -16,7 +18,6 @@
       <item value="compute If Absent" />
       <item value="FACTORY BEAN PREFIX" />
       <item value="inclusive" />
-      <item value="canonical" />
       <item value="Determines if the definition needs to be re-merged." />
       <item value="Iterate over a copy to allow for init methods which in turn register new bean definitions. While this may not be part of the regular factory bootstrap, it does otherwise work fine." />
       <item value="bean Definition Names" />
@@ -50,7 +51,6 @@
       <item value="Instantiate" />
       <item value="post-processor" />
       <item value="process" />
-      <item value="Invoke factory processors registered as beans in the context." />
     </histories>
     <option name="languageScores">
       <map>
