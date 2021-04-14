@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="update Reservation" />
       <item value="Cache of early singleton objects: bean name to bean instance" />
       <item value="Names of beans that are currently in creation" />
       <item value="allow Early Reference" />
@@ -50,7 +51,6 @@
       <item value="Load or refresh the persistent representation of the configuration, which might be from Java-based configuration, an XML file, a properties file, a relational database schema, or some other format." />
       <item value="Load or refresh the persistent representation of the configuration" />
       <item value="refresh" />
-      <item value="attempt" />
     </histories>
     <option name="languageScores">
       <map>
