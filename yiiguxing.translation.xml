@@ -1,8 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="values" />
+      <item value="Cache of early singleton objects: bean name to bean instance" />
+      <item value="Names of beans that are currently in creation" />
+      <item value="allow Early Reference" />
       <item value="canonical" />
+      <item value="integrated" />
+      <item value="values" />
       <item value="raw" />
       <item value="Smart Initializing Singleton" />
       <item value="initialize" />
@@ -47,10 +51,6 @@
       <item value="Load or refresh the persistent representation of the configuration" />
       <item value="refresh" />
       <item value="attempt" />
-      <item value="encountered" />
-      <item value="remaining" />
-      <item value="Instantiate" />
-      <item value="post-processor" />
     </histories>
     <option name="languageScores">
       <map>
