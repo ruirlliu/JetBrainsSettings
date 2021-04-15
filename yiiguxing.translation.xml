@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Initialization On Demand Holder idiom" />
+      <item value="get And Add Int" />
       <item value="STATUS_500" />
       <item value="section" />
       <item value="Content" />
@@ -49,8 +51,6 @@
       <item value="Weaver" />
       <item value="Destruction" />
       <item value="Merged" />
-      <item value="register Resolvable Dependency" />
-      <item value="{@link BeanPostProcessor} implementation that supplies the {@code ApplicationContext}, {@link org.springframework.core.env.Environment Environment}, or {@link StringValueResolver} for the {@code ApplicationContext} to beans that implement the {@link EnvironmentAware}, {@link EmbeddedValueResolverAware}, {@link ResourceLoaderAware}, {@link ApplicationEventPublisherAware}, {@link MessageSourceAware}, andor {@link ApplicationContextAware} interfaces. &lt;p&gt;Implemented interfaces are satisfied in the order in which they are mentioned above. &lt;p&gt;Application contexts will automatically register this with their underlying bean factory. Applications do not use this directly." />
     </histories>
     <option name="languageScores">
       <map>
