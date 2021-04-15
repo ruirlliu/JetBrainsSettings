@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="STATUS_500" />
+      <item value="section" />
+      <item value="Content" />
+      <item value="Semantics" />
+      <item value="Created" />
+      <item value="CREATED" />
+      <item value="unascribed" />
       <item value="future" />
       <item value="unless" />
       <item value="non-volatile, protected by state readswrites" />
@@ -44,13 +51,6 @@
       <item value="Merged" />
       <item value="register Resolvable Dependency" />
       <item value="{@link BeanPostProcessor} implementation that supplies the {@code ApplicationContext}, {@link org.springframework.core.env.Environment Environment}, or {@link StringValueResolver} for the {@code ApplicationContext} to beans that implement the {@link EnvironmentAware}, {@link EmbeddedValueResolverAware}, {@link ResourceLoaderAware}, {@link ApplicationEventPublisherAware}, {@link MessageSourceAware}, andor {@link ApplicationContextAware} interfaces. &lt;p&gt;Implemented interfaces are satisfied in the order in which they are mentioned above. &lt;p&gt;Application contexts will automatically register this with their underlying bean factory. Applications do not use this directly." />
-      <item value="Configure the bean factory with context callbacks." />
-      <item value="Last step: publish corresponding event." />
-      <item value="Simple Application Event Multicaster" />
-      <item value="Application Event Multicaster" />
-      <item value="Allows post-processing of the bean factory in context subclasses." />
-      <item value="dangling" />
-      <item value="schema" />
     </histories>
     <option name="languageScores">
       <map>
