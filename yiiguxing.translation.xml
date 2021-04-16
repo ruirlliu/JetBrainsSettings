@@ -1,10 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Instance Factory" />
       <item value="cancel Reservation" />
       <item value="Populate" />
       <item value="instance" />
-      <item value="Instance Factory" />
       <item value="allocate" />
       <item value="ctor" />
       <item value="会执行类的初始化" />
