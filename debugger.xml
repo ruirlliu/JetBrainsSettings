@@ -1,5 +1,6 @@
 <application>
   <component name="DebuggerSettings">
+    <option name="SHOW_ALTERNATIVE_SOURCE" value="false" />
     <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapNever" />
     <filter>
       <option name="PATTERN" value="com.sun.*" />
@@ -734,7 +735,7 @@
   </component>
   <component name="NodeRendererSettings">
     <CustomRenderers VERSION="8">
-      <Renderer ID="CompoundTypeRenderer">
+      <Renderer ID="CompoundNodeRenderer">
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="java.lang.String" />
         <Renderer ID="EnumerationChildrenRenderer" role="children">
@@ -754,11 +755,6 @@
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
-        </configuration>
-      </debugger>
-      <debugger id="kotlin_debugger">
-        <configuration>
-          <option name="filterForStdlibAlreadyAdded" value="true" />
         </configuration>
       </debugger>
     </debuggers>
