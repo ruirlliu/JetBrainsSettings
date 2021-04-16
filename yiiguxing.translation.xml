@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="checks" />
+      <item value="cancellation" />
+      <item value="implies" />
+      <item value="generally" />
+      <item value="Condition" />
       <item value="Instance Factory" />
       <item value="cancel Reservation" />
       <item value="Populate" />
@@ -46,11 +51,6 @@
       <item value="inclusive" />
       <item value="Determines if the definition needs to be re-merged." />
       <item value="Iterate over a copy to allow for init methods which in turn register new bean definitions. While this may not be part of the regular factory bootstrap, it does otherwise work fine." />
-      <item value="bean Definition Names" />
-      <item value="finish Bean Factory Initialization" />
-      <item value="Allow for caching all bean definition metadata, not expecting further changes." />
-      <item value="Allow for caching all bean definition metadata, not expecting further changes" />
-      <item value="Register a default embedded value resolver if no bean post-processor (such as a PropertyPlaceholderConfigurer bean) registered any before: at this point, primarily for resolution in annotation attribute values." />
     </histories>
     <option name="languageScores">
       <map>
