@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Resolver" />
+      <item value="value Resolver" />
+      <item value="str Val" />
+      <item value="Load properties from file afterwards, to let those properties override." />
+      <item value="Load properties from file upfront, to let local properties override." />
+      <item value="Property Sources Placeholder Configurer" />
       <item value="object" />
       <item value="checks" />
       <item value="cancellation" />
@@ -45,12 +51,6 @@
       <item value="for the case" />
       <item value="independent" />
       <item value="Implementations" />
-      <item value="whether early references should be created or not @return the registered singleton object, or {@code null} if none found" />
-      <item value="Dereference" />
-      <item value="compute If Absent" />
-      <item value="FACTORY BEAN PREFIX" />
-      <item value="inclusive" />
-      <item value="Determines if the definition needs to be re-merged." />
     </histories>
     <option name="languageScores">
       <map>
