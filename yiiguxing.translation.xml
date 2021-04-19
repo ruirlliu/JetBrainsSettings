@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="String Value Resolver" />
+      <item value="post Process Before Initialization" />
       <item value="check Multi" />
       <item value="read Resolve Method" />
       <item value="write Replace Method" />
@@ -49,8 +51,6 @@
       <item value="initialize" />
       <item value="bootstrap" />
       <item value="instantiation" />
-      <item value="Trigger post-initialization callback for all applicable beans..." />
-      <item value="Trigger initialization of all non-lazy singleton beans..." />
     </histories>
     <option name="languageScores">
       <map>
@@ -84,6 +84,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1618191369766" />
+    <option name="lastTrimTime" value="1618815440638" />
   </component>
 </application>
