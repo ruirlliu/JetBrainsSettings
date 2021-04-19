@@ -1,8 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="String Value Resolver" />
       <item value="post Process Before Initialization" />
+      <item value="Bean Definition Store Exception" />
+      <item value="Concurrent Hash Map" />
+      <item value="alias Map" />
+      <item value="String Value Resolver" />
       <item value="check Multi" />
       <item value="read Resolve Method" />
       <item value="write Replace Method" />
@@ -48,9 +51,6 @@
       <item value="values" />
       <item value="raw" />
       <item value="Smart Initializing Singleton" />
-      <item value="initialize" />
-      <item value="bootstrap" />
-      <item value="instantiation" />
     </histories>
     <option name="languageScores">
       <map>
