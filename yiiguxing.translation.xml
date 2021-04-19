@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="String" />
+      <item value="pre Instantiate Singletons" />
+      <item value="Trigger initialization of all non-lazy singleton beans..." />
+      <item value="initialization" />
+      <item value="bean Definition Names" />
+      <item value="logger" />
+      <item value="get Merged Local Bean Definition" />
+      <item value="Root Bean Definition" />
       <item value="news From" />
       <item value="post Process Before Initialization" />
       <item value="Bean Definition Store Exception" />
@@ -43,14 +51,6 @@
       <item value="unless" />
       <item value="non-volatile, protected by state readswrites" />
       <item value="volatile" />
-      <item value="update Reservation" />
-      <item value="Cache of early singleton objects: bean name to bean instance" />
-      <item value="Names of beans that are currently in creation" />
-      <item value="allow Early Reference" />
-      <item value="canonical" />
-      <item value="integrated" />
-      <item value="values" />
-      <item value="raw" />
     </histories>
     <option name="languageScores">
       <map>
