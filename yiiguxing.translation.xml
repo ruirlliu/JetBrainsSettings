@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="news From" />
       <item value="post Process Before Initialization" />
       <item value="Bean Definition Store Exception" />
       <item value="Concurrent Hash Map" />
@@ -50,7 +51,6 @@
       <item value="integrated" />
       <item value="values" />
       <item value="raw" />
-      <item value="Smart Initializing Singleton" />
     </histories>
     <option name="languageScores">
       <map>
