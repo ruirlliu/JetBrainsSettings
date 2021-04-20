@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="consequence" />
       <item value="canonical" />
       <item value="Dereference" />
       <item value="Don't let calling code try to dereference the factory if the bean isn't a factory." />
@@ -8,7 +9,6 @@
       <item value="Object" />
       <item value="protected" />
       <item value="bean Name" />
-      <item value="consequence" />
       <item value="whether early references should be created or not" />
       <item value="name" />
       <item value="required Type" />
