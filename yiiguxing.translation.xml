@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="requested" />
+      <item value="bean" />
+      <item value="name" />
       <item value="consequence" />
       <item value="canonical" />
       <item value="Dereference" />
@@ -10,7 +13,6 @@
       <item value="protected" />
       <item value="bean Name" />
       <item value="whether early references should be created or not" />
-      <item value="name" />
       <item value="required Type" />
       <item value="do Get Bean" />
       <item value="singleton" />
@@ -49,8 +51,6 @@
       <item value="Property Sources Placeholder Configurer" />
       <item value="object" />
       <item value="checks" />
-      <item value="cancellation" />
-      <item value="implies" />
     </histories>
     <option name="languageScores">
       <map>
