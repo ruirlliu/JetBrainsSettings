@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="consequence" />
+      <item value="whether early references should be created or not" />
+      <item value="name" />
+      <item value="required Type" />
+      <item value="do Get Bean" />
+      <item value="singleton" />
+      <item value="registered" />
+      <item value="manually" />
+      <item value="singletons" />
       <item value="bean Name" />
       <item value="FACTORY BEAN PREFIX" />
       <item value="is Eager Init" />
@@ -42,15 +51,6 @@
       <item value="cancel Reservation" />
       <item value="Populate" />
       <item value="instance" />
-      <item value="allocate" />
-      <item value="ctor" />
-      <item value="会执行类的初始化" />
-      <item value="Initialization On Demand Holder idiom" />
-      <item value="get And Add Int" />
-      <item value="STATUS_500" />
-      <item value="section" />
-      <item value="Content" />
-      <item value="Semantics" />
     </histories>
     <option name="languageScores">
       <map>
