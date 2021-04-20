@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="canonical" />
       <item value="Dereference" />
       <item value="Don't let calling code try to dereference the factory if the bean isn't a factory." />
       <item value="get Object For Bean Instance" />
@@ -50,7 +51,6 @@
       <item value="checks" />
       <item value="cancellation" />
       <item value="implies" />
-      <item value="generally" />
     </histories>
     <option name="languageScores">
       <map>
