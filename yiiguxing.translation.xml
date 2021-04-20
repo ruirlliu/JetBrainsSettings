@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="encountered" />
       <item value="DefaultListableBeanFactory itself is not deserializable - &quot; + &quot;just a SerializedBeanFactoryReference is" />
       <item value="DefaultListableBeanFactory itself is not deserializable - &quot; + &quot;just a SerializedBeanFactoryReference i" />
       <item value="Serialized Bean Factory Reference" />
@@ -50,7 +51,6 @@
       <item value="Created" />
       <item value="CREATED" />
       <item value="unascribed" />
-      <item value="future" />
     </histories>
     <option name="languageScores">
       <map>
