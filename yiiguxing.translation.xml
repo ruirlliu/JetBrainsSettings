@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="shrink" />
+      <item value="shrinkage" />
       <item value="Named Thread Local" />
       <item value="creation" />
       <item value="currently" />
@@ -49,8 +51,6 @@
       <item value="check Multi" />
       <item value="read Resolve Method" />
       <item value="write Replace Method" />
-      <item value="Serializable" />
-      <item value="Resolver" />
     </histories>
     <option name="languageScores">
       <map>
