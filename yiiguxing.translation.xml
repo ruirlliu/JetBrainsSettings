@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Inject" />
+      <item value="interface" />
+      <item value="null" />
       <item value="shrink" />
       <item value="shrinkage" />
       <item value="Named Thread Local" />
@@ -48,9 +51,6 @@
       <item value="Concurrent Hash Map" />
       <item value="alias Map" />
       <item value="String Value Resolver" />
-      <item value="check Multi" />
-      <item value="read Resolve Method" />
-      <item value="write Replace Method" />
     </histories>
     <option name="languageScores">
       <map>
