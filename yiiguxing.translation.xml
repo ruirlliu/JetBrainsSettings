@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Named Thread Local" />
+      <item value="creation" />
+      <item value="currently" />
+      <item value="Prototype" />
       <item value="DEFAULT" />
       <item value="Application Startup" />
       <item value="prototyp" />
@@ -47,10 +51,6 @@
       <item value="write Replace Method" />
       <item value="Serializable" />
       <item value="Resolver" />
-      <item value="value Resolver" />
-      <item value="str Val" />
-      <item value="Load properties from file afterwards, to let those properties override." />
-      <item value="Load properties from file upfront, to let local properties override." />
     </histories>
     <option name="languageScores">
       <map>
