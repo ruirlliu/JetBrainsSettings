@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="op Evaluate Parallel" />
+      <item value="is Parallel" />
+      <item value="stability" />
       <item value="length" />
       <item value="base Url" />
       <item value="application" />
@@ -48,9 +51,6 @@
       <item value="initialization" />
       <item value="bean Definition Names" />
       <item value="logger" />
-      <item value="get Merged Local Bean Definition" />
-      <item value="Root Bean Definition" />
-      <item value="news From" />
     </histories>
     <option name="languageScores">
       <map>
