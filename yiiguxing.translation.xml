@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="application" />
+      <item value="devops" />
       <item value="hard Links To Avoid Garbage Collection" />
       <item value="Inject" />
       <item value="interface" />
@@ -49,8 +51,6 @@
       <item value="news From" />
       <item value="post Process Before Initialization" />
       <item value="Bean Definition Store Exception" />
-      <item value="Concurrent Hash Map" />
-      <item value="alias Map" />
     </histories>
     <option name="languageScores">
       <map>
