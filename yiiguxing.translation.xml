@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="length" />
+      <item value="base Url" />
       <item value="application" />
       <item value="devops" />
       <item value="hard Links To Avoid Garbage Collection" />
@@ -49,8 +51,6 @@
       <item value="get Merged Local Bean Definition" />
       <item value="Root Bean Definition" />
       <item value="news From" />
-      <item value="post Process Before Initialization" />
-      <item value="Bean Definition Store Exception" />
     </histories>
     <option name="languageScores">
       <map>
