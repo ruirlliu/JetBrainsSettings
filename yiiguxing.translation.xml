@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="singletons" />
+      <item value="instantiating" />
       <item value="distinct" />
       <item value="System" />
       <item value="base" />
@@ -45,12 +47,10 @@
       <item value="singleton" />
       <item value="registered" />
       <item value="manually" />
-      <item value="singletons" />
       <item value="FACTORY BEAN PREFIX" />
       <item value="is Eager Init" />
       <item value="encountered" />
       <item value="DefaultListableBeanFactory itself is not deserializable - &quot; + &quot;just a SerializedBeanFactoryReference is" />
-      <item value="DefaultListableBeanFactory itself is not deserializable - &quot; + &quot;just a SerializedBeanFactoryReference i" />
     </histories>
     <option name="languageScores">
       <map>
