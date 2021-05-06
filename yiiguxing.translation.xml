@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="loop Files" />
       <item value="Jumbo" />
       <item value="Sequence" />
       <item value="Retriever" />
@@ -50,7 +51,6 @@
       <item value="consequence" />
       <item value="canonical" />
       <item value="Dereference" />
-      <item value="Don't let calling code try to dereference the factory if the bean isn't a factory." />
     </histories>
     <option name="languageScores">
       <map>
