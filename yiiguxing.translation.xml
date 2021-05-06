@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sequence" />
       <item value="Retriever" />
       <item value="Mutex" />
       <item value="Do not initialize FactoryBeans here: We need to leave all regular beans uninitialized to let post-processors apply to them!" />
@@ -50,7 +51,6 @@
       <item value="Dereference" />
       <item value="Don't let calling code try to dereference the factory if the bean isn't a factory." />
       <item value="get Object For Bean Instance" />
-      <item value="Object" />
     </histories>
     <option name="languageScores">
       <map>
@@ -84,6 +84,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1619431293350" />
+    <option name="lastTrimTime" value="1620263972014" />
   </component>
 </application>
