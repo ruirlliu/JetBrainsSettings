@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Simple Thread Scope" />
+      <item value="Scope" />
+      <item value="callback" />
+      <item value="name" />
+      <item value="destruction" />
       <item value="Object Factory" />
       <item value="singleton Objects" />
       <item value="canonical Name" />
@@ -46,16 +51,11 @@
       <item value="stream" />
       <item value="liurui" />
       <item value="Distinct Test" />
-      <item value="sequential" />
-      <item value="op Evaluate Parallel" />
-      <item value="is Parallel" />
-      <item value="stability" />
-      <item value="length" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2536" />
-        <entry key="ENGLISH" value="2537" />
+        <entry key="CHINESE" value="2540" />
+        <entry key="ENGLISH" value="2541" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
