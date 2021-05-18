@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Ratio" />
       <item value="Populate" />
       <item value="Lasted" />
       <item value="patch" />
@@ -50,12 +51,11 @@
       <item value="Guarantee initialization of beans that the current bean depends on." />
       <item value="singletons" />
       <item value="instantiating" />
-      <item value="distinct" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2545" />
-        <entry key="ENGLISH" value="2546" />
+        <entry key="CHINESE" value="2546" />
+        <entry key="ENGLISH" value="2547" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
