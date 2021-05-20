@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Default Result" />
       <item value="Specific" />
       <item value="latest" />
       <item value="due" />
@@ -50,12 +51,11 @@
       <item value="Depends On" />
       <item value="Tuple" />
       <item value="Combol" />
-      <item value="Docket" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2549" />
-        <entry key="ENGLISH" value="2550" />
+        <entry key="CHINESE" value="2550" />
+        <entry key="ENGLISH" value="2551" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
