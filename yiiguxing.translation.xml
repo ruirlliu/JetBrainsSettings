@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Dimension" />
+      <item value="constraint" />
+      <item value="Quote" />
       <item value="melody" />
       <item value="Coupon" />
       <item value="populate" />
@@ -48,14 +51,11 @@
       <item value="recurse" />
       <item value="duplicate" />
       <item value="is Validate" />
-      <item value="Criteria" />
-      <item value="get Api Relate Document" />
-      <item value="loop Files" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2562" />
-        <entry key="ENGLISH" value="2563" />
+        <entry key="CHINESE" value="2565" />
+        <entry key="ENGLISH" value="2566" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
