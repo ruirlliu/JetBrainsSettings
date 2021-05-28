@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="infer Retry" />
       <item value="infer" />
       <item value="Specified" />
       <item value="Don't override the class with CGLIB if no overrides." />
@@ -50,12 +51,11 @@
       <item value="decrease" />
       <item value="extends" />
       <item value="implements" />
-      <item value="Serializable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2576" />
-        <entry key="ENGLISH" value="2577" />
+        <entry key="CHINESE" value="2577" />
+        <entry key="ENGLISH" value="2578" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
