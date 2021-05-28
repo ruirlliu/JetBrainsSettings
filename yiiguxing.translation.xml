@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Retention" />
       <item value="residual" />
       <item value="rasidual" />
       <item value="Re Charge" />
@@ -50,12 +51,11 @@
       <item value="generally" />
       <item value="put If Absent" />
       <item value="Mandatory" />
-      <item value="parameter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2569" />
-        <entry key="ENGLISH" value="2570" />
+        <entry key="CHINESE" value="2570" />
+        <entry key="ENGLISH" value="2571" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
