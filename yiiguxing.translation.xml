@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="populate" />
       <item value="Matcher" />
       <item value="Visibility" />
       <item value="has Retry" />
@@ -23,7 +24,6 @@
       <item value="Quote" />
       <item value="melody" />
       <item value="Coupon" />
-      <item value="populate" />
       <item value="is Completed" />
       <item value="Custom" />
       <item value="Customer" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2582" />
-        <entry key="ENGLISH" value="2582" />
+        <entry key="ENGLISH" value="2583" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
