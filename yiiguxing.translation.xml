@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="front" />
       <item value="populate" />
       <item value="Matcher" />
       <item value="Visibility" />
@@ -50,12 +51,11 @@
       <item value="destruction" />
       <item value="Object Factory" />
       <item value="singleton Objects" />
-      <item value="canonical Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2582" />
-        <entry key="ENGLISH" value="2583" />
+        <entry key="CHINESE" value="2583" />
+        <entry key="ENGLISH" value="2584" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
