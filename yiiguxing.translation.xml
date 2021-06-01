@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pay Count" />
       <item value="Rate" />
       <item value="instanceof" />
       <item value="front" />
@@ -50,12 +51,11 @@
       <item value="Scope" />
       <item value="callback" />
       <item value="name" />
-      <item value="destruction" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2585" />
-        <entry key="ENGLISH" value="2586" />
+        <entry key="CHINESE" value="2586" />
+        <entry key="ENGLISH" value="2587" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
