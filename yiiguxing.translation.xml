@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Don't try autowiring by type for type Object: never makes sense, even if it technically is a unsatisfied, non-simple property." />
+      <item value="Mutable" />
+      <item value="Synthetic" />
       <item value="Tabulate" />
       <item value="Leap" />
       <item value="Lea" />
@@ -48,14 +51,11 @@
       <item value="is Synthetic" />
       <item value="get Yester Day" />
       <item value="due Day Duration" />
-      <item value="Default Result" />
-      <item value="Specific" />
-      <item value="latest" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2595" />
-        <entry key="ENGLISH" value="2596" />
+        <entry key="CHINESE" value="2598" />
+        <entry key="ENGLISH" value="2599" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
