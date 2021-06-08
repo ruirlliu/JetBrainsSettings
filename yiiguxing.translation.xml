@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MILLISECONDS" />
+      <item value="to Micros" />
+      <item value="to Millis" />
+      <item value="milliseconds" />
+      <item value="time" />
       <item value="Quote" />
       <item value="Remain" />
       <item value="bit" />
@@ -46,16 +51,11 @@
       <item value="Re Charge" />
       <item value="validate" />
       <item value="Dimension" />
-      <item value="constraint" />
-      <item value="melody" />
-      <item value="Coupon" />
-      <item value="is Completed" />
-      <item value="Custom" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2607" />
-        <entry key="ENGLISH" value="2608" />
+        <entry key="CHINESE" value="2610" />
+        <entry key="ENGLISH" value="2611" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
@@ -76,6 +76,7 @@
         <entry key="SLOVAK" value="1" />
         <entry key="WELSH" value="1" />
         <entry key="SPANISH" value="1" />
+        <entry key="GREEK" value="2" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="4" />
         <entry key="HINDI" value="12" />
