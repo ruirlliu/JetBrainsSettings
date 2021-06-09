@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Notice Type" />
       <item value="本次为第几次提醒" />
       <item value="接口名称" />
       <item value="备注" />
@@ -50,12 +51,11 @@
       <item value="illegal Key" />
       <item value="infer Retry" />
       <item value="infer" />
-      <item value="Specified" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2620" />
-        <entry key="ENGLISH" value="2620" />
+        <entry key="ENGLISH" value="2621" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
