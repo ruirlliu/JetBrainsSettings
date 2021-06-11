@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Criteria" />
       <item value="span" />
       <item value="evaluated" />
       <item value="violation" />
@@ -50,12 +51,11 @@
       <item value="Matcher" />
       <item value="Visibility" />
       <item value="has Retry" />
-      <item value="Placeholder Configurer Support" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2623" />
-        <entry key="ENGLISH" value="2624" />
+        <entry key="CHINESE" value="2624" />
+        <entry key="ENGLISH" value="2625" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
