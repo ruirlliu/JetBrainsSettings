@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Array List" />
       <item value="剩余天数不可为空" />
       <item value="String" />
       <item value="Tabulate" />
@@ -50,12 +51,11 @@
       <item value="instanceof" />
       <item value="front" />
       <item value="populate" />
-      <item value="Matcher" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2627" />
-        <entry key="ENGLISH" value="2627" />
+        <entry key="ENGLISH" value="2628" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
@@ -86,6 +86,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1623045354270" />
+    <option name="lastTrimTime" value="1623732590355" />
   </component>
 </application>
