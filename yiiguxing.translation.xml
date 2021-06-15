@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="main" />
+      <item value="distinct" />
       <item value="Array List" />
       <item value="剩余天数不可为空" />
       <item value="String" />
@@ -49,13 +51,11 @@
       <item value="pay Count" />
       <item value="Rate" />
       <item value="instanceof" />
-      <item value="front" />
-      <item value="populate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2627" />
-        <entry key="ENGLISH" value="2628" />
+        <entry key="CHINESE" value="2629" />
+        <entry key="ENGLISH" value="2630" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
