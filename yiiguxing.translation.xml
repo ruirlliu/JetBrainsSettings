@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="decapitalize" />
+      <item value="prone" />
       <item value="canonical" />
       <item value="reflect" />
       <item value="WHERE" />
@@ -49,13 +51,11 @@
       <item value="adjust" />
       <item value="Async" />
       <item value="trigger Async Download" />
-      <item value="Asyn" />
-      <item value="divide" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2633" />
-        <entry key="ENGLISH" value="2634" />
+        <entry key="CHINESE" value="2635" />
+        <entry key="ENGLISH" value="2636" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
