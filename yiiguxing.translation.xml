@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="canonical" />
       <item value="reflect" />
       <item value="WHERE" />
       <item value="main" />
@@ -50,12 +51,11 @@
       <item value="trigger Async Download" />
       <item value="Asyn" />
       <item value="divide" />
-      <item value="pay Count" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2631" />
-        <entry key="ENGLISH" value="2632" />
+        <entry key="CHINESE" value="2632" />
+        <entry key="ENGLISH" value="2633" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
