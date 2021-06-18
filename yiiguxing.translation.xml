@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Api Output" />
       <item value="Even" />
       <item value="null" />
       <item value="user daily invoke average_" />
@@ -50,12 +51,11 @@
       <item value="Invoice" />
       <item value="reform" />
       <item value="Don't try autowiring by type for type Object: never makes sense, even if it technically is a unsatisfied, non-simple property." />
-      <item value="Mutable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2644" />
-        <entry key="ENGLISH" value="2645" />
+        <entry key="CHINESE" value="2645" />
+        <entry key="ENGLISH" value="2646" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
