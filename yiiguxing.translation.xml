@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="limited Date" />
+      <item value="limit Date" />
+      <item value="Chrono Unit" />
       <item value="distinct" />
       <item value="precision" />
       <item value="minus" />
@@ -48,14 +51,11 @@
       <item value="milliseconds" />
       <item value="time" />
       <item value="Quote" />
-      <item value="Remain" />
-      <item value="bit" />
-      <item value="strip Trailing Zeros" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2651" />
-        <entry key="ENGLISH" value="2652" />
+        <entry key="CHINESE" value="2654" />
+        <entry key="ENGLISH" value="2655" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
