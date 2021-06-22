@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="optimal" />
       <item value="set Has Specific Filter" />
       <item value="INNER" />
       <item value="SELECT" />
@@ -50,12 +51,11 @@
       <item value="序号" />
       <item value="get Reserved Api Code" />
       <item value="In Valid" />
-      <item value="retain All" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2662" />
-        <entry key="ENGLISH" value="2663" />
+        <entry key="CHINESE" value="2663" />
+        <entry key="ENGLISH" value="2664" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
