@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Dictionary List" />
       <item value="or Else" />
       <item value="equals" />
       <item value="Word Segmenter" />
@@ -50,12 +51,11 @@
       <item value="Exact" />
       <item value="User Id" />
       <item value="get Remain Cash Range" />
-      <item value="MILLISECONDS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2658" />
-        <entry key="ENGLISH" value="2659" />
+        <entry key="CHINESE" value="2659" />
+        <entry key="ENGLISH" value="2660" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
