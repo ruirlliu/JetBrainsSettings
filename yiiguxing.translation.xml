@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Word Segmenter" />
+      <item value="Propagation" />
+      <item value="MANDATORY" />
       <item value="limited Date" />
       <item value="limit Date" />
       <item value="Chrono Unit" />
@@ -48,14 +51,11 @@
       <item value="MILLISECONDS" />
       <item value="to Micros" />
       <item value="to Millis" />
-      <item value="milliseconds" />
-      <item value="time" />
-      <item value="Quote" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2654" />
-        <entry key="ENGLISH" value="2655" />
+        <entry key="CHINESE" value="2657" />
+        <entry key="ENGLISH" value="2657" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
@@ -69,7 +69,7 @@
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="4" />
         <entry key="ZULU" value="1" />
-        <entry key="NORWEGIAN" value="2" />
+        <entry key="NORWEGIAN" value="3" />
         <entry key="PORTUGUESE" value="6" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="2" />
