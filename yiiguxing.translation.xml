@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Specific" />
+      <item value="set Has Specific Filter" />
       <item value="combo" />
       <item value="combol" />
       <item value="商品信息" />
@@ -10,7 +12,6 @@
       <item value="Mutable" />
       <item value="Combol Api BO" />
       <item value="optimal" />
-      <item value="set Has Specific Filter" />
       <item value="INNER" />
       <item value="SELECT" />
       <item value="get Dictionary List" />
@@ -50,12 +51,11 @@
       <item value="Tabulate" />
       <item value="Criteria" />
       <item value="span" />
-      <item value="evaluated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2669" />
-        <entry key="ENGLISH" value="2670" />
+        <entry key="CHINESE" value="2671" />
+        <entry key="ENGLISH" value="2672" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
