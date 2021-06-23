@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="work Duration" />
+      <item value="real Time" />
       <item value="Combo" />
       <item value="Specific" />
       <item value="set Has Specific Filter" />
@@ -49,13 +51,11 @@
       <item value="Array List" />
       <item value="剩余天数不可为空" />
       <item value="String" />
-      <item value="Tabulate" />
-      <item value="Criteria" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2672" />
-        <entry key="ENGLISH" value="2673" />
+        <entry key="CHINESE" value="2674" />
+        <entry key="ENGLISH" value="2675" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
