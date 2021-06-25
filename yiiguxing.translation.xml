@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="downstream" />
+      <item value="Sink" />
+      <item value="Apply flags from the terminal operation to last pipeline stage" />
+      <item value="is Parallel" />
       <item value="parallel" />
       <item value="depth" />
       <item value="StreamOpFlag.combineOpFlags(sourceOrOpFlags, StreamOpFlag.INITIAL_OPS_VALUE);" />
@@ -47,15 +51,11 @@
       <item value="Api Output" />
       <item value="Even" />
       <item value="null" />
-      <item value="user daily invoke average_" />
-      <item value="Find end of run, and reverse range if descending" />
-      <item value="Ascend" />
-      <item value="If array is small, do a &quot;mini-TimSort&quot; with no merges" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2684" />
-        <entry key="ENGLISH" value="2685" />
+        <entry key="CHINESE" value="2688" />
+        <entry key="ENGLISH" value="2689" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
