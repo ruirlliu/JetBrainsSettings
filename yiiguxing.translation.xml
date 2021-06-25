@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="op Wrap Sink" />
+      <item value="op Evaluate Parallel" />
+      <item value="We can do better that this too; optimize for depth=0 case and just grab spliterator and forEach it" />
       <item value="IMMUTABLE" />
       <item value="downstream" />
       <item value="Sink" />
@@ -48,14 +51,11 @@
       <item value="Slice" />
       <item value="temporal" />
       <item value="CHINES" />
-      <item value="Api Output" />
-      <item value="Even" />
-      <item value="null" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2689" />
-        <entry key="ENGLISH" value="2690" />
+        <entry key="CHINESE" value="2691" />
+        <entry key="ENGLISH" value="2691" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
@@ -63,7 +63,7 @@
         <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="4" />
         <entry key="FINNISH" value="5" />
-        <entry key="DUTCH" value="2" />
+        <entry key="DUTCH" value="5" />
         <entry key="CATALAN" value="4" />
         <entry key="CZECH" value="5" />
         <entry key="CROATIAN" value="2" />
