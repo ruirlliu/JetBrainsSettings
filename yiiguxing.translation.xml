@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="evaluate Sequential" />
+      <item value="evaluate Parallel" />
+      <item value="short Circuit Result" />
+      <item value="stop On Predicate Matches" />
       <item value="op Wrap Sink" />
       <item value="op Evaluate Parallel" />
       <item value="We can do better that this too; optimize for depth=0 case and just grab spliterator and forEach it" />
@@ -47,15 +51,11 @@
       <item value="Chrono Unit" />
       <item value="distinct" />
       <item value="precision" />
-      <item value="minus" />
-      <item value="Slice" />
-      <item value="temporal" />
-      <item value="CHINES" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2691" />
-        <entry key="ENGLISH" value="2691" />
+        <entry key="CHINESE" value="2694" />
+        <entry key="ENGLISH" value="2695" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
