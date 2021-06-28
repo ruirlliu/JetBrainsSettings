@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mechanism" />
+      <item value="Shape" />
       <item value="Codec" />
       <item value="Enable Async" />
       <item value="terminal Op" />
@@ -49,13 +51,11 @@
       <item value="Word Segmenter" />
       <item value="Propagation" />
       <item value="MANDATORY" />
-      <item value="limited Date" />
-      <item value="limit Date" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2696" />
-        <entry key="ENGLISH" value="2697" />
+        <entry key="CHINESE" value="2698" />
+        <entry key="ENGLISH" value="2699" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
@@ -88,6 +88,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1624239248903" />
+    <option name="lastTrimTime" value="1624845896044" />
   </component>
 </application>
