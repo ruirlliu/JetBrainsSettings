@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="distinct" />
+      <item value="op Evaluate Parallel" />
       <item value="Btn" />
       <item value="Tuple" />
       <item value="definition" />
@@ -19,7 +21,6 @@
       <item value="short Circuit Result" />
       <item value="stop On Predicate Matches" />
       <item value="op Wrap Sink" />
-      <item value="op Evaluate Parallel" />
       <item value="We can do better that this too; optimize for depth=0 case and just grab spliterator and forEach it" />
       <item value="IMMUTABLE" />
       <item value="downstream" />
@@ -50,12 +51,11 @@
       <item value="Mutable" />
       <item value="Combol Api BO" />
       <item value="optimal" />
-      <item value="INNER" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2705" />
-        <entry key="ENGLISH" value="2705" />
+        <entry key="ENGLISH" value="2706" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
@@ -63,7 +63,7 @@
         <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="4" />
         <entry key="FINNISH" value="5" />
-        <entry key="DUTCH" value="6" />
+        <entry key="DUTCH" value="7" />
         <entry key="CATALAN" value="4" />
         <entry key="CZECH" value="5" />
         <entry key="CROATIAN" value="2" />
