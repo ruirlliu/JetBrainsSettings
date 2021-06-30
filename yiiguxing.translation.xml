@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pivot" />
       <item value="augend" />
       <item value="INFLATED" />
       <item value="Un Valid" />
@@ -50,12 +51,11 @@
       <item value="set Has Specific Filter" />
       <item value="combo" />
       <item value="combol" />
-      <item value="商品信息" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2708" />
-        <entry key="ENGLISH" value="2709" />
+        <entry key="CHINESE" value="2709" />
+        <entry key="ENGLISH" value="2710" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
