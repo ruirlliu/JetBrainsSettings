@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="UNIMPLEMENTED" />
       <item value="Absent" />
       <item value="get Switch Api Quote" />
       <item value="Quote" />
@@ -50,12 +51,11 @@
       <item value="Phaser" />
       <item value="work Duration" />
       <item value="real Time" />
-      <item value="Combo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2714" />
-        <entry key="ENGLISH" value="2715" />
+        <entry key="CHINESE" value="2715" />
+        <entry key="ENGLISH" value="2716" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
