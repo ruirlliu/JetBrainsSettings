@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="has Retry" />
+      <item value="populate" />
       <item value="BALANCE REMAIN LACK" />
       <item value="mutable" />
       <item value="Facade" />
@@ -49,13 +51,11 @@
       <item value="StreamOpFlag.combineOpFlags(sourceOrOpFlags, StreamOpFlag.INITIAL_OPS_VALUE);" />
       <item value="The following is an optimization of:" />
       <item value="SPLITERATOR" />
-      <item value="Reference" />
-      <item value="to a natural sort order" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2721" />
-        <entry key="ENGLISH" value="2722" />
+        <entry key="CHINESE" value="2723" />
+        <entry key="ENGLISH" value="2724" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
