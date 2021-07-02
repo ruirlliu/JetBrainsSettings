@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="BALANCE REMAIN LACK" />
       <item value="mutable" />
       <item value="Facade" />
       <item value="reduce" />
@@ -50,12 +51,11 @@
       <item value="SPLITERATOR" />
       <item value="Reference" />
       <item value="to a natural sort order" />
-      <item value="Do not propagate the SORTED characteristic if it does not correspond" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2720" />
-        <entry key="ENGLISH" value="2721" />
+        <entry key="CHINESE" value="2721" />
+        <entry key="ENGLISH" value="2722" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
