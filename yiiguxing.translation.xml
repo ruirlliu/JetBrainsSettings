@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Perfection" />
       <item value="serving" />
       <item value="get Latest Apis" />
       <item value="get Latest Api" />
@@ -50,12 +51,11 @@
       <item value="short Circuit Result" />
       <item value="stop On Predicate Matches" />
       <item value="op Wrap Sink" />
-      <item value="We can do better that this too; optimize for depth=0 case and just grab spliterator and forEach it" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2733" />
-        <entry key="ENGLISH" value="2734" />
+        <entry key="CHINESE" value="2734" />
+        <entry key="ENGLISH" value="2735" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
