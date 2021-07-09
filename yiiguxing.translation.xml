@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="and" />
       <item value="underlying" />
       <item value="intersection" />
       <item value="Inheritable" />
@@ -50,12 +51,11 @@
       <item value="mechanism" />
       <item value="Shape" />
       <item value="Codec" />
-      <item value="Enable Async" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2740" />
-        <entry key="ENGLISH" value="2741" />
+        <entry key="CHINESE" value="2741" />
+        <entry key="ENGLISH" value="2742" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
