@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Optimistic" />
       <item value="Suppress Warnings" />
       <item value="Introspec" />
       <item value="Introspector" />
@@ -50,12 +51,11 @@
       <item value="indate" />
       <item value="suffix" />
       <item value="distinct" />
-      <item value="op Evaluate Parallel" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2752" />
-        <entry key="ENGLISH" value="2753" />
+        <entry key="CHINESE" value="2753" />
+        <entry key="ENGLISH" value="2754" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
