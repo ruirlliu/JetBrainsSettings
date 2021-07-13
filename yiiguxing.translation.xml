@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SCENARIO" />
       <item value="extract" />
       <item value="statement" />
       <item value="exceptions" />
@@ -50,12 +51,11 @@
       <item value="augend" />
       <item value="INFLATED" />
       <item value="Un Valid" />
-      <item value="outtime" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2756" />
-        <entry key="ENGLISH" value="2757" />
+        <entry key="CHINESE" value="2757" />
+        <entry key="ENGLISH" value="2758" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
