@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="statement" />
+      <item value="exceptions" />
       <item value="Optimistic" />
       <item value="Suppress Warnings" />
       <item value="Introspec" />
@@ -49,13 +51,11 @@
       <item value="Un Valid" />
       <item value="outtime" />
       <item value="indate" />
-      <item value="suffix" />
-      <item value="distinct" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2753" />
-        <entry key="ENGLISH" value="2754" />
+        <entry key="CHINESE" value="2755" />
+        <entry key="ENGLISH" value="2756" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
