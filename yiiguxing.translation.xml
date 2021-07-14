@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Note that for a particular enum type {@code T}, the implicitly declared {@code public static T valueOf(String)} method on that enum may be used instead of this method to map from a name to the corresponding enum constant. All the constants of an enum type can be obtained by calling the implicit {@code public static T[] values()} method of that type." />
+      <item value="Metric" />
+      <item value="is Assignable" />
+      <item value="signature" />
+      <item value="facade" />
       <item value="Coyote" />
       <item value="SCENARIO" />
       <item value="extract" />
@@ -46,16 +51,11 @@
       <item value="UNIMPLEMENTED" />
       <item value="Absent" />
       <item value="get Switch Api Quote" />
-      <item value="Quote" />
-      <item value="switch Api Quote Setting" />
-      <item value="pivot" />
-      <item value="augend" />
-      <item value="INFLATED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2758" />
-        <entry key="ENGLISH" value="2759" />
+        <entry key="CHINESE" value="2763" />
+        <entry key="ENGLISH" value="2764" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
