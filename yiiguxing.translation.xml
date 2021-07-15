@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Homo" />
+      <item value="Sapiens" />
+      <item value="modern" />
+      <item value="biological" />
       <item value="duplicate" />
       <item value="Initializes" />
       <item value="support" />
@@ -47,15 +51,11 @@
       <item value="get Latest Apis" />
       <item value="get Latest Api" />
       <item value="divide" />
-      <item value="Substract param a type illegal [precision=0 roundingMode=CEILING]." />
-      <item value="Write Map Null Value" />
-      <item value="phone" />
-      <item value="ISOLATION READ UNCOMMITTED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2775" />
-        <entry key="ENGLISH" value="2776" />
+        <entry key="CHINESE" value="2781" />
+        <entry key="ENGLISH" value="2782" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
