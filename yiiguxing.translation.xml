@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="duplicate" />
       <item value="Initializes" />
       <item value="support" />
       <item value="Serialization" />
@@ -50,12 +51,11 @@
       <item value="Write Map Null Value" />
       <item value="phone" />
       <item value="ISOLATION READ UNCOMMITTED" />
-      <item value="referer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2774" />
-        <entry key="ENGLISH" value="2775" />
+        <entry key="CHINESE" value="2775" />
+        <entry key="ENGLISH" value="2776" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
