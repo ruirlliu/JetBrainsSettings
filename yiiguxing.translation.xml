@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Definition" />
+      <item value="Attribute" />
       <item value="Advisor" />
       <item value="is Opaque" />
       <item value="park" />
@@ -49,13 +51,11 @@
       <item value="export" />
       <item value="latch" />
       <item value="socket" />
-      <item value="Perfection" />
-      <item value="serving" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2784" />
-        <entry key="ENGLISH" value="2785" />
+        <entry key="CHINESE" value="2786" />
+        <entry key="ENGLISH" value="2787" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
