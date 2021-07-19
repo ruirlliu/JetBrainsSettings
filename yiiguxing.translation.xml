@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="advisor" />
+      <item value="relevant" />
+      <item value="If we've gone as far as we can go and haven't found it" />
       <item value="Definition" />
       <item value="Attribute" />
       <item value="Advisor" />
@@ -48,14 +51,11 @@
       <item value="underlying" />
       <item value="intersection" />
       <item value="Inheritable" />
-      <item value="export" />
-      <item value="latch" />
-      <item value="socket" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2786" />
-        <entry key="ENGLISH" value="2787" />
+        <entry key="CHINESE" value="2789" />
+        <entry key="ENGLISH" value="2790" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
