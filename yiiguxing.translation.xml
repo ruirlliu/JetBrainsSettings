@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Language Demo" />
+      <item value="get Multi Language Demo" />
       <item value="No singleton guarantees from the factory -&gt; let's lock locally but reuse the factory's singleton lock, just in case a lazy dependency of our advice bean happens to trigger the singleton lock implicitly..." />
       <item value="factory" />
       <item value="Bean Factory" />
@@ -49,13 +51,11 @@
       <item value="Immutable" />
       <item value="Increment" />
       <item value="increment" />
-      <item value="Increase" />
-      <item value="Tuple" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2793" />
-        <entry key="ENGLISH" value="2794" />
+        <entry key="CHINESE" value="2795" />
+        <entry key="ENGLISH" value="2796" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
