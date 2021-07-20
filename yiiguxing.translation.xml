@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MANDATORY" />
+      <item value="definition" />
+      <item value="transaction" />
+      <item value="slot" />
+      <item value="get Propagation Behavior" />
       <item value="current" />
       <item value="formatter" />
       <item value="get Language Demo" />
@@ -46,16 +51,11 @@
       <item value="Optimistic" />
       <item value="Suppress Warnings" />
       <item value="Introspec" />
-      <item value="Introspector" />
-      <item value="false" />
-      <item value="repetition" />
-      <item value="melody" />
-      <item value="Immutable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2797" />
-        <entry key="ENGLISH" value="2798" />
+        <entry key="CHINESE" value="2802" />
+        <entry key="ENGLISH" value="2803" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
