@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The default profile for these purposes is represented as null. We add it first so that it is processed first and has lowest priority." />
       <item value="Defer" />
       <item value="classpath" />
       <item value="Stop Watch" />
@@ -50,12 +51,11 @@
       <item value="Sapiens" />
       <item value="modern" />
       <item value="biological" />
-      <item value="duplicate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2830" />
-        <entry key="ENGLISH" value="2831" />
+        <entry key="CHINESE" value="2831" />
+        <entry key="ENGLISH" value="2832" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
