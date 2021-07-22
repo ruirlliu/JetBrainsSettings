@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Populate Interceptor" />
       <item value="Signature" />
       <item value="Intercepts" />
       <item value="Pivotal" />
@@ -50,12 +51,11 @@
       <item value="current" />
       <item value="formatter" />
       <item value="get Language Demo" />
-      <item value="get Multi Language Demo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2846" />
-        <entry key="ENGLISH" value="2847" />
+        <entry key="CHINESE" value="2847" />
+        <entry key="ENGLISH" value="2848" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
