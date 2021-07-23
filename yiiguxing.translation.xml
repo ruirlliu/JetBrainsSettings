@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Listable Bean Factory" />
       <item value="Coupon" />
       <item value="Populate Interceptor" />
       <item value="Signature" />
@@ -50,12 +51,11 @@
       <item value="slot" />
       <item value="get Propagation Behavior" />
       <item value="current" />
-      <item value="formatter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2848" />
-        <entry key="ENGLISH" value="2849" />
+        <entry key="CHINESE" value="2849" />
+        <entry key="ENGLISH" value="2850" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
