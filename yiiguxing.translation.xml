@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ordinal" />
+      <item value="ordinary" />
       <item value="is Type Match" />
       <item value="Connected" />
       <item value="Raw" />
@@ -49,13 +51,11 @@
       <item value="Opaque" />
       <item value="Switch to manual commit if necessary. This is very expensive in some JDBC drivers, so we don't want to do it unnecessarily (for example if we've explicitly configured the connection pool to set it already)." />
       <item value="explicitly" />
-      <item value="unnecessarily" />
-      <item value="expensive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2859" />
-        <entry key="ENGLISH" value="2860" />
+        <entry key="CHINESE" value="2861" />
+        <entry key="ENGLISH" value="2862" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
