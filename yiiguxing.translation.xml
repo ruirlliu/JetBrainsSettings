@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="post Process Before Instantiation" />
       <item value="refund" />
       <item value="Advice" />
       <item value="Broker" />
@@ -50,12 +51,11 @@
       <item value="Ancestor" />
       <item value="Eligible" />
       <item value="Pointcut" />
-      <item value="Advisor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2872" />
-        <entry key="ENGLISH" value="2873" />
+        <entry key="CHINESE" value="2873" />
+        <entry key="ENGLISH" value="2874" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
