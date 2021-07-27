@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Advice" />
+      <item value="Broker" />
       <item value="set Serializer Features" />
       <item value="source File" />
       <item value="resources File" />
@@ -47,15 +49,13 @@
       <item value="Ancestor" />
       <item value="Eligible" />
       <item value="Pointcut" />
-      <item value="Advice" />
       <item value="Advisor" />
       <item value="We can't create fancy target sources for directly registered singletons." />
-      <item value="fancy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2869" />
-        <entry key="ENGLISH" value="2870" />
+        <entry key="CHINESE" value="2871" />
+        <entry key="ENGLISH" value="2872" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
