@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Serializer Features" />
       <item value="source File" />
       <item value="resources File" />
       <item value="deflate" />
@@ -50,12 +51,11 @@
       <item value="Advisor" />
       <item value="We can't create fancy target sources for directly registered singletons." />
       <item value="fancy" />
-      <item value="fashion" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2868" />
-        <entry key="ENGLISH" value="2869" />
+        <entry key="CHINESE" value="2869" />
+        <entry key="ENGLISH" value="2870" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
