@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fragment" />
+      <item value="Frag" />
       <item value="estimate Time" />
       <item value="Merge" />
       <item value="Trial" />
@@ -49,17 +51,15 @@
       <item value="The default profile for these purposes is represented as null. We add it first so that it is processed first and has lowest priority." />
       <item value="Defer" />
       <item value="classpath" />
-      <item value="Stop Watch" />
-      <item value="comma" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2876" />
-        <entry key="ENGLISH" value="2877" />
+        <entry key="CHINESE" value="2877" />
+        <entry key="ENGLISH" value="2878" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
-        <entry key="GERMAN" value="6" />
+        <entry key="GERMAN" value="7" />
         <entry key="FRENCH" value="5" />
         <entry key="FILIPINO" value="4" />
         <entry key="FINNISH" value="5" />
