@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="assign" />
       <item value="In Need" />
       <item value="Instance" />
       <item value="Fragment" />
@@ -50,12 +51,11 @@
       <item value="Try profile-specific file &amp; profile section in profile file (gh-340)" />
       <item value="processed" />
       <item value="Note the order is from least to most specific (last one wins)" />
-      <item value="The default profile for these purposes is represented as null. We add it first so that it is processed first and has lowest priority." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2879" />
-        <entry key="ENGLISH" value="2880" />
+        <entry key="CHINESE" value="2880" />
+        <entry key="ENGLISH" value="2881" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
