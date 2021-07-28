@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Merge" />
       <item value="Trial" />
       <item value="promotion" />
       <item value="post Process Before Instantiation" />
@@ -50,11 +51,10 @@
       <item value="Stop Watch" />
       <item value="comma" />
       <item value="deduce" />
-      <item value="Ancestor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2875" />
+        <entry key="CHINESE" value="2876" />
         <entry key="ENGLISH" value="2876" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
@@ -68,7 +68,7 @@
         <entry key="CZECH" value="5" />
         <entry key="CROATIAN" value="2" />
         <entry key="LATIN" value="1" />
-        <entry key="ROMANIAN" value="4" />
+        <entry key="ROMANIAN" value="5" />
         <entry key="BENGALI" value="1" />
         <entry key="ZULU" value="1" />
         <entry key="NORWEGIAN" value="3" />
