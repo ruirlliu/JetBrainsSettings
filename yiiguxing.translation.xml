@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="semantics" />
+      <item value="Usage" />
       <item value="root" />
       <item value="get Message" />
       <item value="Disposition" />
@@ -49,13 +51,11 @@
       <item value="Allow for caching all bean definition metadata, not expecting further changes." />
       <item value="Instantiate" />
       <item value="Eager" />
-      <item value="allow Eager Init" />
-      <item value="Listable Bean Factory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2897" />
-        <entry key="ENGLISH" value="2898" />
+        <entry key="CHINESE" value="2899" />
+        <entry key="ENGLISH" value="2900" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
