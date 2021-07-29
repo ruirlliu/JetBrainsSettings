@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="equals" />
       <item value="Export Sales Pre Credit Type Value Converter" />
       <item value="Boolean Mandarin Value Converter" />
       <item value="Insufficient" />
@@ -50,12 +51,11 @@
       <item value="Multipart" />
       <item value="Banner" />
       <item value="Criteria" />
-      <item value="only has null profile" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2887" />
-        <entry key="ENGLISH" value="2888" />
+        <entry key="CHINESE" value="2888" />
+        <entry key="ENGLISH" value="2889" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="2" />
