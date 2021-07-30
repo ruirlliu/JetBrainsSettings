@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="shared" />
       <item value="Anchor" />
       <item value="Figure out the right behavior, and document it" />
       <item value="conscious" />
@@ -50,12 +51,11 @@
       <item value="Advice" />
       <item value="Broker" />
       <item value="set Serializer Features" />
-      <item value="source File" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2916" />
-        <entry key="ENGLISH" value="2917" />
+        <entry key="CHINESE" value="2917" />
+        <entry key="ENGLISH" value="2918" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
