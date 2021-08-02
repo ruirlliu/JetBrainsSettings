@@ -1,12 +1,6 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="compliance" />
-      <item value="These go up to eleven. After that, you just get the varargs form, and whatever warnings might come along with it." />
-      <item value="mapper" />
-      <item value="Written by Doug Lea with assistance from members of JCP JSR-166 Expert Group and released to the public domain, as explained at" />
-      <item value="assistance" />
-      <item value="try Fire" />
       <item value="quoteswitch" />
       <item value="shared" />
       <item value="Anchor" />
@@ -44,6 +38,7 @@
       <item value="Insufficient" />
       <item value="assign Seller Permission" />
       <item value="Trial" />
+      <item value="compliance" />
       <item value="assign" />
       <item value="In Need" />
       <item value="Instance" />
@@ -51,11 +46,16 @@
       <item value="Frag" />
       <item value="estimate Time" />
       <item value="Merge" />
+      <item value="promotion" />
+      <item value="post Process Before Instantiation" />
+      <item value="refund" />
+      <item value="Advice" />
+      <item value="Broker" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2924" />
-        <entry key="ENGLISH" value="2925" />
+        <entry key="CHINESE" value="2918" />
+        <entry key="ENGLISH" value="2919" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
@@ -88,7 +88,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627876283437" />
+    <option name="lastTrimTime" value="1627263639360" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
