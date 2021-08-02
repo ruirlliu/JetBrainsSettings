@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="final" />
       <item value="coupon" />
       <item value="quoteswitch" />
       <item value="shared" />
@@ -50,12 +51,11 @@
       <item value="promotion" />
       <item value="post Process Before Instantiation" />
       <item value="refund" />
-      <item value="Advice" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2919" />
-        <entry key="ENGLISH" value="2920" />
+        <entry key="CHINESE" value="2920" />
+        <entry key="ENGLISH" value="2921" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
