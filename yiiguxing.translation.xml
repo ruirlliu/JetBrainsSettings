@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mapper" />
       <item value="Written by Doug Lea with assistance from members of JCP JSR-166 Expert Group and released to the public domain, as explained at" />
       <item value="assistance" />
       <item value="try Fire" />
@@ -50,12 +51,11 @@
       <item value="estimate Time" />
       <item value="Merge" />
       <item value="promotion" />
-      <item value="post Process Before Instantiation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2921" />
-        <entry key="ENGLISH" value="2922" />
+        <entry key="CHINESE" value="2922" />
+        <entry key="ENGLISH" value="2923" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
