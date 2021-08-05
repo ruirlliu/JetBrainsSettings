@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Overseas Ip" />
       <item value="migrator" />
       <item value="initialize" />
       <item value="Nugget" />
@@ -50,12 +51,11 @@
       <item value="In Need" />
       <item value="Instance" />
       <item value="Fragment" />
-      <item value="Frag" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2925" />
-        <entry key="ENGLISH" value="2926" />
+        <entry key="CHINESE" value="2926" />
+        <entry key="ENGLISH" value="2927" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
