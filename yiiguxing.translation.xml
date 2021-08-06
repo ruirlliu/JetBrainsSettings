@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="equals" />
       <item value="is Overseas Ip" />
       <item value="migrator" />
       <item value="initialize" />
@@ -40,7 +41,6 @@
       <item value="In Need Chinese Value Converter" />
       <item value="select" />
       <item value="Chinese" />
-      <item value="equals" />
       <item value="Export Sales Pre Credit Type Value Converter" />
       <item value="Boolean Mandarin Value Converter" />
       <item value="Insufficient" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2926" />
-        <entry key="ENGLISH" value="2927" />
+        <entry key="CHINESE" value="2927" />
+        <entry key="ENGLISH" value="2928" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
