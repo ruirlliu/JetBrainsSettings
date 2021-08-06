@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Semantics" />
       <item value="equals" />
       <item value="is Overseas Ip" />
       <item value="migrator" />
@@ -50,12 +51,11 @@
       <item value="assign" />
       <item value="In Need" />
       <item value="Instance" />
-      <item value="Fragment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2927" />
-        <entry key="ENGLISH" value="2928" />
+        <entry key="CHINESE" value="2928" />
+        <entry key="ENGLISH" value="2929" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
