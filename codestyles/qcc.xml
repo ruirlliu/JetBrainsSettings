@@ -1,23 +1,6 @@
 <code_scheme name="qcc" version="173">
   <option name="RIGHT_MARGIN" value="180" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
-  <JavaCodeStyleSettings>
-    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
-    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
-    <option name="IMPORT_LAYOUT_TABLE">
-      <value>
-        <package name="java" withSubpackages="true" static="false" />
-        <emptyLine />
-        <package name="javax" withSubpackages="true" static="false" />
-        <emptyLine />
-        <package name="" withSubpackages="true" static="false" />
-        <emptyLine />
-        <package name="com.org.ld" withSubpackages="true" static="false" />
-        <emptyLine />
-        <package name="" withSubpackages="true" static="true" />
-      </value>
-    </option>
-  </JavaCodeStyleSettings>
   <JetCodeStyleSettings>
     <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
   </JetCodeStyleSettings>
@@ -50,9 +33,6 @@
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="XML">
-    <option name="RIGHT_MARGIN" value="180" />
   </codeStyleSettings>
   <codeStyleSettings language="kotlin">
     <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
