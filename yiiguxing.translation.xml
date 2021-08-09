@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Dock" />
+      <item value="Docket" />
       <item value="Invoke" />
       <item value="Invoke History" />
       <item value="Semantics" />
@@ -49,13 +51,11 @@
       <item value="Insufficient" />
       <item value="assign Seller Permission" />
       <item value="Trial" />
-      <item value="compliance" />
-      <item value="assign" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2930" />
-        <entry key="ENGLISH" value="2931" />
+        <entry key="CHINESE" value="2932" />
+        <entry key="ENGLISH" value="2932" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
@@ -74,7 +74,7 @@
         <entry key="NORWEGIAN" value="3" />
         <entry key="PORTUGUESE" value="6" />
         <entry key="JAPANESE" value="1" />
-        <entry key="SWEDISH" value="3" />
+        <entry key="SWEDISH" value="4" />
         <entry key="SLOVAK" value="1" />
         <entry key="WELSH" value="1" />
         <entry key="SPANISH" value="1" />
