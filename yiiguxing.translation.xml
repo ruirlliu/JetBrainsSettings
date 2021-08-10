@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Stem" />
+      <item value="Period" />
+      <item value="elapsed" />
       <item value="Dock" />
       <item value="Docket" />
       <item value="Invoke" />
@@ -48,14 +51,11 @@
       <item value="Chinese" />
       <item value="Export Sales Pre Credit Type Value Converter" />
       <item value="Boolean Mandarin Value Converter" />
-      <item value="Insufficient" />
-      <item value="assign Seller Permission" />
-      <item value="Trial" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2932" />
-        <entry key="ENGLISH" value="2932" />
+        <entry key="CHINESE" value="2934" />
+        <entry key="ENGLISH" value="2935" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
