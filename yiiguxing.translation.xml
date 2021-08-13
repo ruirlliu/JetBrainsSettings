@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Transaction Attribute" />
       <item value="early Proxy References" />
       <item value="The TargetSource will handle target instances in a custom fashion." />
       <item value="Create proxy here if we have a custom TargetSource." />
@@ -50,12 +51,11 @@
       <item value="previous" />
       <item value="simplify" />
       <item value="expected Mod Count" />
-      <item value="index of last element returned; -1 if no such" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2962" />
-        <entry key="ENGLISH" value="2963" />
+        <entry key="CHINESE" value="2963" />
+        <entry key="ENGLISH" value="2964" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
