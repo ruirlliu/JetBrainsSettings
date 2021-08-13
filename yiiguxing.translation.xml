@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Advisor" />
+      <item value="Infrastructure" />
+      <item value="Infrastructure Advisor Auto Proxy Creator" />
+      <item value="Escalate Ap" />
       <item value="margin" />
       <item value="bottom" />
       <item value="comparison" />
@@ -10,7 +14,6 @@
       <item value="Isolation" />
       <item value="Propagation" />
       <item value="Invocation" />
-      <item value="Advisor" />
       <item value="Create proxy here if we have a custom TargetSource. Suppresses unnecessary default instantiation of the target bean: The TargetSource will handle target instances in a custom fashion." />
       <item value="Logback: the reliable, generic, fast and flexible logging framework." />
       <item value="the reliable, generic, fast and flexible logging framework." />
@@ -48,14 +51,11 @@
       <item value="cursor" />
       <item value="We fell off the end of the chain -- call the servlet instance" />
       <item value="retrieve" />
-      <item value="Mutex" />
-      <item value="multicast" />
-      <item value="Adapter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2950" />
-        <entry key="ENGLISH" value="2951" />
+        <entry key="CHINESE" value="2953" />
+        <entry key="ENGLISH" value="2954" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
@@ -81,7 +81,7 @@
         <entry key="GREEK" value="2" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="6" />
-        <entry key="HINDI" value="12" />
+        <entry key="HINDI" value="13" />
         <entry key="INDONESIAN" value="5" />
         <entry key="VIETNAMESE" value="2" />
       </map>
