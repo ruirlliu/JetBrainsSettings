@@ -1,8 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Advisor" />
+      <item value="early Proxy References" />
+      <item value="The TargetSource will handle target instances in a custom fashion." />
+      <item value="Create proxy here if we have a custom TargetSource." />
       <item value="Infrastructure" />
+      <item value="Invoke" />
+      <item value="Suppresses unnecessary default instantiation of the target bean:" />
+      <item value="Eligible" />
+      <item value="Advisor" />
       <item value="Infrastructure Advisor Auto Proxy Creator" />
       <item value="Escalate Ap" />
       <item value="margin" />
@@ -24,7 +30,6 @@
       <item value="elapsed" />
       <item value="Dock" />
       <item value="Docket" />
-      <item value="Invoke" />
       <item value="Invoke History" />
       <item value="Semantics" />
       <item value="equals" />
@@ -46,16 +51,11 @@
       <item value="simplify" />
       <item value="expected Mod Count" />
       <item value="index of last element returned; -1 if no such" />
-      <item value="index of next element to return" />
-      <item value="return" />
-      <item value="cursor" />
-      <item value="We fell off the end of the chain -- call the servlet instance" />
-      <item value="retrieve" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2953" />
-        <entry key="ENGLISH" value="2954" />
+        <entry key="CHINESE" value="2962" />
+        <entry key="ENGLISH" value="2963" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
