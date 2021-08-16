@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Definition" />
+      <item value="Introduction" />
       <item value="superclass" />
       <item value="demarcation" />
       <item value="Standard transaction demarcation with getTransaction and commitrollback calls." />
@@ -49,13 +51,11 @@
       <item value="Docket" />
       <item value="Invoke History" />
       <item value="Semantics" />
-      <item value="equals" />
-      <item value="is Overseas Ip" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2982" />
-        <entry key="ENGLISH" value="2983" />
+        <entry key="CHINESE" value="2984" />
+        <entry key="ENGLISH" value="2985" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
