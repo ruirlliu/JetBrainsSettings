@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="rand Code" />
+      <item value="rand" />
       <item value="Fallback" />
       <item value="multiple" />
       <item value="explanation" />
@@ -49,13 +51,11 @@
       <item value="Propagation" />
       <item value="Invocation" />
       <item value="Create proxy here if we have a custom TargetSource. Suppresses unnecessary default instantiation of the target bean: The TargetSource will handle target instances in a custom fashion." />
-      <item value="Logback: the reliable, generic, fast and flexible logging framework." />
-      <item value="the reliable, generic, fast and flexible logging framework." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2993" />
-        <entry key="ENGLISH" value="2994" />
+        <entry key="CHINESE" value="2994" />
+        <entry key="ENGLISH" value="2995" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
@@ -68,7 +68,7 @@
         <entry key="CZECH" value="5" />
         <entry key="CROATIAN" value="2" />
         <entry key="LATIN" value="1" />
-        <entry key="ROMANIAN" value="5" />
+        <entry key="ROMANIAN" value="6" />
         <entry key="BENGALI" value="1" />
         <entry key="ZULU" value="1" />
         <entry key="NORWEGIAN" value="3" />
