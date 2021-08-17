@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Composite" />
       <item value="rand Code" />
       <item value="rand" />
       <item value="Fallback" />
@@ -50,12 +51,11 @@
       <item value="Isolation" />
       <item value="Propagation" />
       <item value="Invocation" />
-      <item value="Create proxy here if we have a custom TargetSource. Suppresses unnecessary default instantiation of the target bean: The TargetSource will handle target instances in a custom fashion." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2994" />
-        <entry key="ENGLISH" value="2995" />
+        <entry key="CHINESE" value="2995" />
+        <entry key="ENGLISH" value="2996" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
