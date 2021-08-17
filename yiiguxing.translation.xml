@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="infer Token Str" />
+      <item value="infer Token" />
+      <item value="infer" />
       <item value="succ Response Result" />
       <item value="void" />
       <item value="to Millis" />
@@ -48,14 +51,11 @@
       <item value="Infrastructure Advisor Auto Proxy Creator" />
       <item value="Escalate Ap" />
       <item value="margin" />
-      <item value="bottom" />
-      <item value="comparison" />
-      <item value="evaluated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2998" />
-        <entry key="ENGLISH" value="2999" />
+        <entry key="CHINESE" value="3001" />
+        <entry key="ENGLISH" value="3002" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
