@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Transient" />
       <item value="Drawer" />
       <item value="Dialog" />
       <item value="ENQUIRY" />
@@ -50,12 +51,11 @@
       <item value="Create proxy here if we have a custom TargetSource." />
       <item value="Infrastructure" />
       <item value="Invoke" />
-      <item value="Suppresses unnecessary default instantiation of the target bean:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3006" />
-        <entry key="ENGLISH" value="3007" />
+        <entry key="CHINESE" value="3007" />
+        <entry key="ENGLISH" value="3008" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
