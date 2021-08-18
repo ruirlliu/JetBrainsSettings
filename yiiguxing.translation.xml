@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ENQUIRY" />
+      <item value="QUOTE" />
+      <item value="Temporal" />
       <item value="infer Token Str" />
       <item value="infer Token" />
       <item value="infer" />
@@ -48,14 +51,11 @@
       <item value="Suppresses unnecessary default instantiation of the target bean:" />
       <item value="Eligible" />
       <item value="Advisor" />
-      <item value="Infrastructure Advisor Auto Proxy Creator" />
-      <item value="Escalate Ap" />
-      <item value="margin" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3001" />
-        <entry key="ENGLISH" value="3002" />
+        <entry key="CHINESE" value="3004" />
+        <entry key="ENGLISH" value="3005" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
