@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Recruit" />
       <item value="cipher" />
       <item value="multiple" />
       <item value="emit" />
@@ -50,12 +51,11 @@
       <item value="or an actual transaction attribute." />
       <item value="Value will either be canonical value indicating there is no transaction attribute," />
       <item value="has Plain Java Annotations Only" />
-      <item value="Transaction Attribute" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3013" />
-        <entry key="ENGLISH" value="3014" />
+        <entry key="CHINESE" value="3014" />
+        <entry key="ENGLISH" value="3015" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
