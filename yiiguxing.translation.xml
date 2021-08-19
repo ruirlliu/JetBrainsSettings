@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="frame" />
+      <item value="omit" />
       <item value="Seal" />
       <item value="Transient" />
       <item value="Drawer" />
@@ -49,13 +51,11 @@
       <item value="Transaction Attribute" />
       <item value="early Proxy References" />
       <item value="The TargetSource will handle target instances in a custom fashion." />
-      <item value="Create proxy here if we have a custom TargetSource." />
-      <item value="Infrastructure" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3008" />
-        <entry key="ENGLISH" value="3009" />
+        <entry key="CHINESE" value="3010" />
+        <entry key="ENGLISH" value="3011" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
