@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cipher" />
+      <item value="multiple" />
       <item value="emit" />
       <item value="frame" />
       <item value="omit" />
@@ -23,7 +25,6 @@
       <item value="rand Code" />
       <item value="rand" />
       <item value="Fallback" />
-      <item value="multiple" />
       <item value="explanation" />
       <item value="review" />
       <item value="Big Decimal" />
@@ -50,12 +51,11 @@
       <item value="Value will either be canonical value indicating there is no transaction attribute," />
       <item value="has Plain Java Annotations Only" />
       <item value="Transaction Attribute" />
-      <item value="early Proxy References" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3011" />
-        <entry key="ENGLISH" value="3012" />
+        <entry key="CHINESE" value="3013" />
+        <entry key="ENGLISH" value="3014" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
