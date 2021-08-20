@@ -46,6 +46,9 @@
             <Goal>
               <option name="commandLine" value="dependency:resolve -Dclassifier=sources" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="mybatis-generator:generate" />
+            </Goal>
           </list>
         </option>
       </Goals>
