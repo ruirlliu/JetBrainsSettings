@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Recommend Count" />
+      <item value="name" />
+      <item value="empty Result" />
       <item value="Recruit" />
       <item value="cipher" />
       <item value="multiple" />
@@ -48,14 +51,11 @@
       <item value="First try is the method in the target class." />
       <item value="Second try is the transaction attribute on the target class." />
       <item value="The method may be on an interface, but we need attributes from the target class. If the target class is null, the method will be unchanged." />
-      <item value="or an actual transaction attribute." />
-      <item value="Value will either be canonical value indicating there is no transaction attribute," />
-      <item value="has Plain Java Annotations Only" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3014" />
-        <entry key="ENGLISH" value="3015" />
+        <entry key="CHINESE" value="3017" />
+        <entry key="ENGLISH" value="3017" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
