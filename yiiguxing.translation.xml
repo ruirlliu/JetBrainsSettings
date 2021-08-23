@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Historical" />
       <item value="instantiability" />
       <item value="shuffle" />
       <item value="get Recommend Count" />
@@ -50,12 +51,11 @@
       <item value="This is an around advice: Invoke the next interceptor in the chain. This will normally result in a target object being invoked." />
       <item value="It's a CallbackPreferringPlatformTransactionManager: pass a TransactionCallback in." />
       <item value="Preferring" />
-      <item value="First try is the method in the target class." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3018" />
-        <entry key="ENGLISH" value="3019" />
+        <entry key="CHINESE" value="3019" />
+        <entry key="ENGLISH" value="3020" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
