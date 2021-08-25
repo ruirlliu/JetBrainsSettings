@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="remain" />
+      <item value="Remain Cash" />
       <item value="transport" />
       <item value="subtract" />
       <item value="用户余额表信息不存在" />
@@ -49,13 +51,11 @@
       <item value="Introduction" />
       <item value="superclass" />
       <item value="demarcation" />
-      <item value="Standard transaction demarcation with getTransaction and commitrollback calls." />
-      <item value="MANDATORY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3024" />
-        <entry key="ENGLISH" value="3025" />
+        <entry key="CHINESE" value="3026" />
+        <entry key="ENGLISH" value="3027" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
