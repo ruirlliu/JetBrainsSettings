@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="transport" />
       <item value="subtract" />
       <item value="用户余额表信息不存在" />
       <item value="Avoid initialization of shared DefaultConversionService if no standard type conversion is needed in the first place..." />
@@ -50,12 +51,11 @@
       <item value="demarcation" />
       <item value="Standard transaction demarcation with getTransaction and commitrollback calls." />
       <item value="MANDATORY" />
-      <item value="PROPAGATION MANDATORY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3023" />
-        <entry key="ENGLISH" value="3024" />
+        <entry key="CHINESE" value="3024" />
+        <entry key="ENGLISH" value="3025" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
