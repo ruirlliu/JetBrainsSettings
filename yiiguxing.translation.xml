@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="balance" />
+      <item value="remaining Cash" />
       <item value="Data" />
       <item value="remain" />
       <item value="Remain Cash" />
@@ -49,13 +51,11 @@
       <item value="transformed Bean Name" />
       <item value="canonical Name" />
       <item value="Definition" />
-      <item value="Introduction" />
-      <item value="superclass" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3027" />
-        <entry key="ENGLISH" value="3028" />
+        <entry key="CHINESE" value="3029" />
+        <entry key="ENGLISH" value="3030" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
