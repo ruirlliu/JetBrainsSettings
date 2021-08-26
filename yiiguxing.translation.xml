@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="infer" />
       <item value="Scene" />
       <item value="Integer" />
       <item value="Override" />
@@ -38,7 +39,6 @@
       <item value="Temporal" />
       <item value="infer Token Str" />
       <item value="infer Token" />
-      <item value="infer" />
       <item value="succ Response Result" />
       <item value="void" />
       <item value="to Millis" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3035" />
-        <entry key="ENGLISH" value="3036" />
+        <entry key="CHINESE" value="3036" />
+        <entry key="ENGLISH" value="3037" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
