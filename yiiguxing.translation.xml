@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="append" />
       <item value="Ratio" />
       <item value="Authorization" />
       <item value="User Remain Lack" />
@@ -50,12 +51,11 @@
       <item value="infer Token" />
       <item value="succ Response Result" />
       <item value="void" />
-      <item value="to Millis" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3046" />
-        <entry key="ENGLISH" value="3047" />
+        <entry key="CHINESE" value="3047" />
+        <entry key="ENGLISH" value="3048" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
