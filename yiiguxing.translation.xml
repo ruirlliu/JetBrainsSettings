@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="canonical" />
+      <item value="Objenesis" />
       <item value="tuple" />
       <item value="Tuple" />
       <item value="vendor" />
@@ -49,13 +51,11 @@
       <item value="emit" />
       <item value="frame" />
       <item value="omit" />
-      <item value="Seal" />
-      <item value="Transient" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3057" />
-        <entry key="ENGLISH" value="3058" />
+        <entry key="CHINESE" value="3058" />
+        <entry key="ENGLISH" value="3059" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
@@ -68,6 +68,7 @@
         <entry key="CZECH" value="5" />
         <entry key="CROATIAN" value="2" />
         <entry key="LATIN" value="1" />
+        <entry key="LITHUANIAN" value="1" />
         <entry key="ROMANIAN" value="6" />
         <entry key="BENGALI" value="2" />
         <entry key="ZULU" value="1" />
