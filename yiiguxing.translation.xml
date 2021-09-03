@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="opaque" />
       <item value="The method may be on an interface, but we need attributes from the target class. If the target class is null, the method will be unchanged." />
       <item value="Specific" />
       <item value="canonical" />
@@ -50,12 +51,11 @@
       <item value="Recruit" />
       <item value="cipher" />
       <item value="multiple" />
-      <item value="emit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3061" />
-        <entry key="ENGLISH" value="3062" />
+        <entry key="CHINESE" value="3062" />
+        <entry key="ENGLISH" value="3063" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
