@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fluid" />
       <item value="Communication" />
       <item value="Pointed To" />
       <item value="approver" />
@@ -50,12 +51,11 @@
       <item value="combo" />
       <item value="Historical" />
       <item value="instantiability" />
-      <item value="shuffle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3070" />
-        <entry key="ENGLISH" value="3071" />
+        <entry key="CHINESE" value="3071" />
+        <entry key="ENGLISH" value="3072" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
