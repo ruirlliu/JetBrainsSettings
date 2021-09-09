@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="typical" />
       <item value="multipart" />
       <item value="servlet" />
       <item value="查看所有" />
@@ -50,12 +51,11 @@
       <item value="remain" />
       <item value="Remain Cash" />
       <item value="transport" />
-      <item value="subtract" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3076" />
-        <entry key="ENGLISH" value="3077" />
+        <entry key="CHINESE" value="3077" />
+        <entry key="ENGLISH" value="3078" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
