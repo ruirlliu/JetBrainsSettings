@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Compound" />
       <item value="Inheritable" />
       <item value="日志发送说明模块" />
       <item value="demarcation" />
@@ -50,12 +51,11 @@
       <item value="Coroutines Invocation Callback" />
       <item value="Dash" />
       <item value="RELATIVE" />
-      <item value="infer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3089" />
-        <entry key="ENGLISH" value="3090" />
+        <entry key="CHINESE" value="3090" />
+        <entry key="ENGLISH" value="3091" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
