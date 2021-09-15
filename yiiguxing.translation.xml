@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="equals" />
+      <item value="lots of violations - also how should we model a rate?" />
       <item value="bull" />
       <item value="Instruction" />
       <item value="Joran" />
@@ -49,8 +51,6 @@
       <item value="String" />
       <item value="append" />
       <item value="Ratio" />
-      <item value="Authorization" />
-      <item value="User Remain Lack" />
     </histories>
     <option name="languageScores">
       <map>
