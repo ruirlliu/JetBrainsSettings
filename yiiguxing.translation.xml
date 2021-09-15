@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="having Value" />
       <item value="enable" />
+      <item value="having Value" />
       <item value="equals" />
       <item value="lots of violations - also how should we model a rate?" />
       <item value="bull" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3096" />
-        <entry key="ENGLISH" value="3097" />
+        <entry key="CHINESE" value="3098" />
+        <entry key="ENGLISH" value="3099" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
