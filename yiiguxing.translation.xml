@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="bold" />
       <item value="enable" />
       <item value="having Value" />
       <item value="equals" />
@@ -50,12 +51,11 @@
       <item value="true" />
       <item value="throws" />
       <item value="size" />
-      <item value="String" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3098" />
-        <entry key="ENGLISH" value="3099" />
+        <entry key="CHINESE" value="3099" />
+        <entry key="ENGLISH" value="3100" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
