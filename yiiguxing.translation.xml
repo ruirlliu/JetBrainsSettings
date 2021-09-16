@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="permits Per Second" />
       <item value="MILLISECONDS" />
       <item value="bold" />
       <item value="enable" />
@@ -50,12 +51,11 @@
       <item value="EXPIRY" />
       <item value="typically" />
       <item value="true" />
-      <item value="throws" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3100" />
-        <entry key="ENGLISH" value="3101" />
+        <entry key="CHINESE" value="3101" />
+        <entry key="ENGLISH" value="3102" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
