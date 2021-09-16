@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Configuration" />
+      <item value="Override" />
+      <item value="unchecked" />
+      <item value="chain" />
+      <item value="enqueued" />
+      <item value="poller" />
+      <item value="queue" />
+      <item value="overtaken" />
+      <item value="dequeued" />
+      <item value="phantom" />
       <item value="Stale" />
       <item value="instanceof" />
       <item value="Inheritable" />
@@ -41,21 +51,11 @@
       <item value="Convenience constant for subclasses: Return value for &quot;proxy without additional interceptors, just the common ones&quot;. @see getAdvicesAndAdvisorsForBean" />
       <item value="Convenience constant for subclasses: Return value for &quot;do not proxy&quot;. @see getAdvicesAndAdvisorsForBean" />
       <item value="fluid" />
-      <item value="Communication" />
-      <item value="Pointed To" />
-      <item value="approver" />
-      <item value="eligible" />
-      <item value="Adapt" />
-      <item value="ork out the target class: may be {@code null}. The TransactionAttributeSource should be passed the target class as well as the method, which may be from an interface." />
-      <item value="The method may be on an interface, but we need attributes from the target class. If the target class is null, the method will be unchanged." />
-      <item value="Specific" />
-      <item value="canonical" />
-      <item value="Objenesis" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3109" />
-        <entry key="ENGLISH" value="3108" />
+        <entry key="CHINESE" value="3119" />
+        <entry key="ENGLISH" value="3117" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
@@ -77,6 +77,7 @@
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="4" />
         <entry key="SLOVAK" value="1" />
+        <entry key="TURKISH" value="1" />
         <entry key="WELSH" value="1" />
         <entry key="SPANISH" value="1" />
         <entry key="GREEK" value="3" />
