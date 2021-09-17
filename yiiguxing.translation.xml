@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Not Empty" />
+      <item value="own" />
+      <item value="BALANCE REMAIN LACK" />
+      <item value="operation" />
+      <item value="http" />
+      <item value="running" />
       <item value="Smooth Bursty" />
       <item value="violations" />
       <item value="Configuration" />
@@ -45,17 +51,11 @@
       <item value="Transient" />
       <item value="DESC" />
       <item value="validate Invoice Amount Exceed Max" />
-      <item value="Latest" />
-      <item value="typical" />
-      <item value="multipart" />
-      <item value="servlet" />
-      <item value="查看所有" />
-      <item value="Convenience constant for subclasses: Return value for &quot;proxy without additional interceptors, just the common ones&quot;. @see getAdvicesAndAdvisorsForBean" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3121" />
-        <entry key="ENGLISH" value="3119" />
+        <entry key="CHINESE" value="3128" />
+        <entry key="ENGLISH" value="3126" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
