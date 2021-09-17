@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="violations" />
       <item value="Configuration" />
       <item value="Override" />
       <item value="unchecked" />
@@ -50,12 +51,11 @@
       <item value="查看所有" />
       <item value="Convenience constant for subclasses: Return value for &quot;proxy without additional interceptors, just the common ones&quot;. @see getAdvicesAndAdvisorsForBean" />
       <item value="Convenience constant for subclasses: Return value for &quot;do not proxy&quot;. @see getAdvicesAndAdvisorsForBean" />
-      <item value="fluid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3119" />
-        <entry key="ENGLISH" value="3117" />
+        <entry key="CHINESE" value="3120" />
+        <entry key="ENGLISH" value="3118" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
