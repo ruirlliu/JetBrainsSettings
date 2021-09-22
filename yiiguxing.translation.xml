@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Request Method" />
       <item value="defined" />
       <item value="Api Health Checker Task" />
       <item value="fastpath" />
@@ -50,12 +51,11 @@
       <item value="attribute" />
       <item value="This is an around advice: Invoke the next interceptor in the chain. This will normally result in a target object being invoked." />
       <item value="reactive" />
-      <item value="Coroutines" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3133" />
-        <entry key="ENGLISH" value="3130" />
+        <entry key="CHINESE" value="3134" />
+        <entry key="ENGLISH" value="3131" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
