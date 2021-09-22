@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="defined" />
       <item value="Api Health Checker Task" />
       <item value="fastpath" />
       <item value="fastpath if the regex is a (1)one-char String and this character is not one of the RegEx's meta characters &quot;.|()[{^?+\\&quot;, or (2)two-char String and the first char is the backslash and the second is not the ascii digit or ascii letter." />
@@ -50,12 +51,11 @@
       <item value="This is an around advice: Invoke the next interceptor in the chain. This will normally result in a target object being invoked." />
       <item value="reactive" />
       <item value="Coroutines" />
-      <item value="opaque" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3132" />
-        <entry key="ENGLISH" value="3129" />
+        <entry key="CHINESE" value="3133" />
+        <entry key="ENGLISH" value="3130" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
