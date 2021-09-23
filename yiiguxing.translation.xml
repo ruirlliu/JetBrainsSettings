@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Latch" />
+      <item value="Count Down" />
+      <item value="Complie" />
       <item value="api Health Check Statistic" />
       <item value="statistic" />
       <item value="initial" />
@@ -48,14 +51,11 @@
       <item value="having Value" />
       <item value="equals" />
       <item value="lots of violations - also how should we model a rate?" />
-      <item value="bull" />
-      <item value="Instruction" />
-      <item value="Joran" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3142" />
-        <entry key="ENGLISH" value="3139" />
+        <entry key="CHINESE" value="3145" />
+        <entry key="ENGLISH" value="3142" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
