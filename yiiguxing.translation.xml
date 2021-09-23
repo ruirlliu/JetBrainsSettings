@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="statistic" />
       <item value="initial" />
       <item value="biz Common Hash" />
       <item value="stream" />
@@ -50,12 +51,11 @@
       <item value="Instruction" />
       <item value="Joran" />
       <item value="-1 until used; then one past last index" />
-      <item value="Persister" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3140" />
-        <entry key="ENGLISH" value="3137" />
+        <entry key="CHINESE" value="3141" />
+        <entry key="ENGLISH" value="3138" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
