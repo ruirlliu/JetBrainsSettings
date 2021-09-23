@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="stream" />
+      <item value="reset To Initial Status" />
       <item value="future" />
       <item value="submit" />
       <item value="Request Method" />
@@ -49,13 +51,11 @@
       <item value="Persister" />
       <item value="Compound" />
       <item value="日志发送说明模块" />
-      <item value="demarcation" />
-      <item value="attribute" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3136" />
-        <entry key="ENGLISH" value="3133" />
+        <entry key="CHINESE" value="3138" />
+        <entry key="ENGLISH" value="3135" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
