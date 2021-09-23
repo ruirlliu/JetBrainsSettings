@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="biz Common Hash" />
       <item value="stream" />
       <item value="reset To Initial Status" />
       <item value="future" />
@@ -50,12 +51,11 @@
       <item value="-1 until used; then one past last index" />
       <item value="Persister" />
       <item value="Compound" />
-      <item value="日志发送说明模块" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3138" />
-        <entry key="ENGLISH" value="3135" />
+        <entry key="CHINESE" value="3139" />
+        <entry key="ENGLISH" value="3136" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
