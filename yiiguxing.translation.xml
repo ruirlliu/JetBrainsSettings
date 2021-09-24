@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Pairs" />
+      <item value="separated" />
+      <item value="followed" />
       <item value="biz Common Hash" />
       <item value="Latch" />
       <item value="Count Down" />
@@ -48,14 +51,11 @@
       <item value="MILLISECONDS" />
       <item value="bold" />
       <item value="enable" />
-      <item value="having Value" />
-      <item value="equals" />
-      <item value="lots of violations - also how should we model a rate?" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3146" />
-        <entry key="ENGLISH" value="3143" />
+        <entry key="CHINESE" value="3149" />
+        <entry key="ENGLISH" value="3146" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
