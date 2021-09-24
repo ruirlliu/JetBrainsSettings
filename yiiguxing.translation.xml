@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="payment" />
+      <item value="latest" />
       <item value="Pairs" />
       <item value="separated" />
       <item value="followed" />
@@ -49,13 +51,11 @@
       <item value="Threshold" />
       <item value="permits Per Second" />
       <item value="MILLISECONDS" />
-      <item value="bold" />
-      <item value="enable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3149" />
-        <entry key="ENGLISH" value="3146" />
+        <entry key="CHINESE" value="3152" />
+        <entry key="ENGLISH" value="3149" />
         <entry key="ESTONIAN" value="2" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
