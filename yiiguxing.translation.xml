@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="INTERVAL" />
       <item value="table Data" />
       <item value="IFNULL" />
       <item value="margin" />
@@ -50,12 +51,11 @@
       <item value="overtaken" />
       <item value="dequeued" />
       <item value="phantom" />
-      <item value="Stale" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3161" />
-        <entry key="ENGLISH" value="3157" />
+        <entry key="CHINESE" value="3162" />
+        <entry key="ENGLISH" value="3158" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
