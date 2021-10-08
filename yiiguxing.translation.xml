@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="public" />
+      <item value="else" />
+      <item value="assemble" />
       <item value="parent" />
       <item value="fill" />
-      <item value="assemble" />
       <item value="return" />
       <item value="case" />
       <item value="switch" />
@@ -49,13 +51,11 @@
       <item value="BALANCE REMAIN LACK" />
       <item value="operation" />
       <item value="http" />
-      <item value="running" />
-      <item value="Smooth Bursty" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3175" />
-        <entry key="ENGLISH" value="3171" />
+        <entry key="CHINESE" value="3178" />
+        <entry key="ENGLISH" value="3174" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
