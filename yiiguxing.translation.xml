@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="schedule remind" />
+      <item value="Schedule Job" />
+      <item value="Schedule" />
+      <item value="private" />
       <item value="public" />
       <item value="else" />
       <item value="assemble" />
@@ -47,15 +51,11 @@
       <item value="fastpath if the regex is a (1)one-char String and this character is not one of the RegEx's meta characters &quot;.|()[{^?+\\&quot;, or (2)two-char String and the first char is the backslash and the second is not the ascii digit or ascii letter." />
       <item value="Encapsulates" />
       <item value="is Not Empty" />
-      <item value="own" />
-      <item value="BALANCE REMAIN LACK" />
-      <item value="operation" />
-      <item value="http" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3178" />
-        <entry key="ENGLISH" value="3174" />
+        <entry key="CHINESE" value="3182" />
+        <entry key="ENGLISH" value="3178" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
