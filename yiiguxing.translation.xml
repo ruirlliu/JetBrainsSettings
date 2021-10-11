@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exceed" />
       <item value="import" />
       <item value="Pair" />
       <item value="deletion" />
@@ -50,12 +51,11 @@
       <item value="future" />
       <item value="submit" />
       <item value="Request Method" />
-      <item value="defined" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3187" />
-        <entry key="ENGLISH" value="3183" />
+        <entry key="CHINESE" value="3188" />
+        <entry key="ENGLISH" value="3184" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
