@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="corresponds" />
       <item value="equals" />
       <item value="Atomic" />
       <item value="action Card" />
@@ -50,12 +51,11 @@
       <item value="Count Down" />
       <item value="Complie" />
       <item value="api Health Check Statistic" />
-      <item value="statistic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3196" />
-        <entry key="ENGLISH" value="3192" />
+        <entry key="CHINESE" value="3198" />
+        <entry key="ENGLISH" value="3194" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
