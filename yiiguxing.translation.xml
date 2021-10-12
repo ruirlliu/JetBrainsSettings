@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mark" />
       <item value="schedule" />
       <item value="remind" />
       <item value="limit" />
@@ -50,12 +51,11 @@
       <item value="Pairs" />
       <item value="separated" />
       <item value="followed" />
-      <item value="biz Common Hash" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3205" />
-        <entry key="ENGLISH" value="3201" />
+        <entry key="CHINESE" value="3206" />
+        <entry key="ENGLISH" value="3202" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
