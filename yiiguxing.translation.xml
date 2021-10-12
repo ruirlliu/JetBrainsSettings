@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Schedule" />
       <item value="schedule" />
       <item value="corresponds" />
       <item value="equals" />
@@ -17,7 +18,6 @@
       <item value="author" />
       <item value="schedule remind" />
       <item value="Schedule Job" />
-      <item value="Schedule" />
       <item value="private" />
       <item value="public" />
       <item value="else" />
