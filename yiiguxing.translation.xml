@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="791" />
+    <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Smooth" />
+      <item value="猝发的" />
+      <item value="Bursty" />
       <item value="bottom" />
       <item value="margin-bottom" />
       <item value="fill" />
@@ -48,14 +54,11 @@
       <item value="ran" />
       <item value="offer" />
       <item value="obtrude" />
-      <item value="ISSUANCE" />
-      <item value="payment" />
-      <item value="latest" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3210" />
-        <entry key="ENGLISH" value="3206" />
+        <entry key="CHINESE" value="3213" />
+        <entry key="ENGLISH" value="3209" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
