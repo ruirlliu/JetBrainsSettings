@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="rectangle" />
+      <item value="throttling" />
+      <item value="TODO(user): switch to nano precision. A natural unit of cost is &quot;bytes&quot;, and a micro precision would mean a maximum rate of &quot;1MBs&quot;, which might be small in some cases." />
+      <item value="precision" />
       <item value="Smooth" />
       <item value="猝发的" />
       <item value="Bursty" />
@@ -50,15 +54,11 @@
       <item value="IFNULL" />
       <item value="margin" />
       <item value="row" />
-      <item value="blur" />
-      <item value="ran" />
-      <item value="offer" />
-      <item value="obtrude" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3213" />
-        <entry key="ENGLISH" value="3209" />
+        <entry key="CHINESE" value="3217" />
+        <entry key="ENGLISH" value="3213" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
