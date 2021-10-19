@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="PRESENT" />
       <item value="POSTPONE" />
       <item value="Equals" />
       <item value="Equal" />
@@ -53,12 +54,11 @@
       <item value="Leaf" />
       <item value="scratch" />
       <item value="Request Mapping Handler Mapping" />
-      <item value="n] INFO o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped &quot;{[apibusinessinvoicesave],methods=[POST]}&quot; onto public org.springframework.http.ResponseEntity&lt;?&gt; com.qcc.frame.web.controller.BusinessInvoiceRestController.saveInvoice(com.qcc.frame.domain.BusinessInvoice) 16:22:00.852 logback [restartedMain] INFO o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped &quot;{[apibusinessinvoice{id}],methods=[GET]}&quot; onto public org.springframework.http.ResponseEntity&lt;?&gt; com.qcc.frame.web.controller.BusinessInvoiceRestController.getInvoiceInfo(java.lang.String) 16:22:00.856 logback [restartedMain] INFO o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped &quot;{[apiopportunitiesgetUserApiInfoList],methods=[GET]}&quot; onto public org.springframework.http.ResponseEntity&lt;?&gt; com.qcc.frame.web.controller.BusinessOpportunityRestController.getUserApiInfoList(java.lang.String,java.lang.String,java.lang.String,int,int) 16:22:00.856 logback [restartedMain] INFO o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped &quot;{[apiopportunitiesgetUserSimpleInfo],methods=[GET]}&quot; onto public org.springframework.http.ResponseEntity&lt;?&gt; com.qcc.frame.web.controller.BusinessOpportunityRestController.getUserSimpleInfo(java.lang.String) 16:22:00.857 logback [restartedMain] INFO o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped &quot;{[apiopportunitiesgetOpportunityInfo],methods=[GET]}&quot; onto public org.springframework.http.ResponseEntity&lt;?&gt; com.qcc.frame.web.controller.BusinessOpportunityRestController.getOpportunityInfo(java.lang.String) 16:22:00.857 logback [restartedMain] INFO o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped &quot;{[apiopportunitiesexportAll],methods=[GET]}&quot; onto public void com.qcc.frame.web.controller.BusinessOpportunityRestController.exportAll(javax.servlet.http.HttpServletResponse) 16:22:00.857 logback [restartedMain] INFO o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped &quot;{[apiopportunitiesbatch],methods=[POST]}&quot; onto public org.springframework.http.ResponseEntity&lt;?&gt; com.qcc.frame.web.controller.BusinessOpportunityRestController.batchProcess(com.qcc.frame.web.payload.OpportunityBatchRequest) 16:22:00.858 logback [restartedMain] INFO o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped &quot;{[apiopportunities],methods=[PUT]}&quot; onto public org.springframework.http.ResponseEntity&lt;?&gt; com.qcc.frame.web.controller.BusinessOpportunityRestController.updateAll(com.qcc.frame.web.payload.OpportunityUpdateRequest) 16:22:00.858 logback [restartedMain] INFO o.s.w.s.m.m.a.RequestMappingH" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3223" />
-        <entry key="ENGLISH" value="3219" />
+        <entry key="CHINESE" value="3224" />
+        <entry key="ENGLISH" value="3220" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
