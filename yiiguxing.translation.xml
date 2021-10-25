@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="SIGN" />
+      <item value="Instantiates" />
+      <item value="subscriber" />
       <item value="strict" />
       <item value="algorithm" />
       <item value="Gauge" />
@@ -51,14 +54,11 @@
       <item value="import" />
       <item value="Pair" />
       <item value="deletion" />
-      <item value="author" />
-      <item value="schedule remind" />
-      <item value="Schedule Job" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3237" />
-        <entry key="ENGLISH" value="3233" />
+        <entry key="CHINESE" value="3240" />
+        <entry key="ENGLISH" value="3236" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
