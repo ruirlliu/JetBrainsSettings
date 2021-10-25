@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="strict" />
+      <item value="algorithm" />
+      <item value="Gauge" />
+      <item value="Histogram" />
+      <item value="Metrics" />
       <item value="Bundle" />
       <item value="Vendor" />
       <item value="\u 8463\u 76 D 1\u 9 AD 8\u 5173\u 8054\u 98 CE\u 9669\u 626 B\u 63 CF\u 3010\u 8463\u 76 D 1\u 9 AD 8\u 5173\u 8054\u 98 CE\u 9669\u 3011" />
@@ -49,16 +54,11 @@
       <item value="author" />
       <item value="schedule remind" />
       <item value="Schedule Job" />
-      <item value="private" />
-      <item value="public" />
-      <item value="else" />
-      <item value="assemble" />
-      <item value="parent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3231" />
-        <entry key="ENGLISH" value="3227" />
+        <entry key="CHINESE" value="3237" />
+        <entry key="ENGLISH" value="3233" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
