@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Pedantic" />
       <item value="Invoice" />
       <item value="DL carrier judge fail" />
       <item value="下载失败" />
@@ -53,12 +54,11 @@
       <item value="last" />
       <item value="Turbo" />
       <item value="drain To" />
-      <item value="exceed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3243" />
-        <entry key="ENGLISH" value="3239" />
+        <entry key="CHINESE" value="3244" />
+        <entry key="ENGLISH" value="3240" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
