@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Decimal" />
+      <item value="count if" />
+      <item value="SELECT" />
+      <item value="max File Size" />
       <item value="\u 4 F 01\u 4 E 1 A\u 5173\u 8054\u 4 F 01\u 4 E 1 A\u 98 CE\u 9669\u 626 B\u 63 CF\u 3010\u 4 F 01\u 4 E 1 A\u 5173\u 8054\u 4 F 01\u 4 E 1 A\u 3011" />
       <item value="denotes" />
       <item value="Pedantic" />
@@ -50,15 +54,11 @@
       <item value="Schedule" />
       <item value="corresponds" />
       <item value="equals" />
-      <item value="Atomic" />
-      <item value="action Card" />
-      <item value="SURROGATE" />
-      <item value="last" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3246" />
-        <entry key="ENGLISH" value="3242" />
+        <entry key="CHINESE" value="3250" />
+        <entry key="ENGLISH" value="3246" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
