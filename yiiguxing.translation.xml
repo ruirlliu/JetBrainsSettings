@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="heal" />
       <item value="Decimal" />
       <item value="count if" />
       <item value="SELECT" />
@@ -53,12 +54,11 @@
       <item value="Direct evaluation instead of Integer.compareTo to avoid unnecessary object creation." />
       <item value="Schedule" />
       <item value="corresponds" />
-      <item value="equals" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3250" />
-        <entry key="ENGLISH" value="3246" />
+        <entry key="CHINESE" value="3251" />
+        <entry key="ENGLISH" value="3247" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
