@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="put If Absent" />
+      <item value="Summary Statistics" />
+      <item value="Summary" />
+      <item value="Statistics" />
       <item value="update" />
       <item value="heal" />
       <item value="Decimal" />
@@ -50,15 +54,11 @@
       <item value="EFFECT" />
       <item value="mark" />
       <item value="schedule" />
-      <item value="remind" />
-      <item value="limit" />
-      <item value="Direct evaluation instead of Integer.compareTo to avoid unnecessary object creation." />
-      <item value="Schedule" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3251" />
-        <entry key="ENGLISH" value="3248" />
+        <entry key="ENGLISH" value="3252" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
