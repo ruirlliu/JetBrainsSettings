@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Summary Statistics" />
+      <item value="We can do better that this too; optimize for depth=0 case and just grab spliterator and forEach it" />
+      <item value="infinite" />
+      <item value="sequential" />
       <item value="stream" />
       <item value="implements" />
       <item value="Consumer" />
@@ -13,7 +17,6 @@
       <item value="Shanghai" />
       <item value="Communications" />
       <item value="put If Absent" />
-      <item value="Summary Statistics" />
       <item value="Summary" />
       <item value="Statistics" />
       <item value="update" />
@@ -51,14 +54,11 @@
       <item value="timezone" />
       <item value="rectangle" />
       <item value="throttling" />
-      <item value="TODO(user): switch to nano precision. A natural unit of cost is &quot;bytes&quot;, and a micro precision would mean a maximum rate of &quot;1MBs&quot;, which might be small in some cases." />
-      <item value="precision" />
-      <item value="Smooth" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3258" />
-        <entry key="ENGLISH" value="3259" />
+        <entry key="CHINESE" value="3262" />
+        <entry key="ENGLISH" value="3263" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
