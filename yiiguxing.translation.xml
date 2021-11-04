@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="implements" />
+      <item value="Consumer" />
       <item value="divide" />
       <item value="milliseconds" />
       <item value="key" />
@@ -52,13 +54,11 @@
       <item value="precision" />
       <item value="Smooth" />
       <item value="猝发的" />
-      <item value="Bursty" />
-      <item value="bottom" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3255" />
-        <entry key="ENGLISH" value="3256" />
+        <entry key="CHINESE" value="3257" />
+        <entry key="ENGLISH" value="3258" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
