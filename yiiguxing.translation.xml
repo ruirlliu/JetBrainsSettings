@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="magenta" />
       <item value="delete" />
       <item value="violation" />
       <item value="Summary Statistics" />
@@ -53,12 +54,11 @@
       <item value="Equal" />
       <item value="Typed" />
       <item value="Type" />
-      <item value="timezone" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3264" />
-        <entry key="ENGLISH" value="3265" />
+        <entry key="CHINESE" value="3265" />
+        <entry key="ENGLISH" value="3266" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
