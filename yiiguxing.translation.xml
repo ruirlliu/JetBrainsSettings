@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="promotion" />
       <item value="collapse" />
       <item value="magenta" />
       <item value="delete" />
@@ -53,12 +54,11 @@
       <item value="POSTPONE" />
       <item value="Equals" />
       <item value="Equal" />
-      <item value="Typed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3266" />
-        <entry key="ENGLISH" value="3267" />
+        <entry key="CHINESE" value="3267" />
+        <entry key="ENGLISH" value="3268" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
