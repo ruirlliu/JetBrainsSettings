@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="collapse" />
       <item value="magenta" />
       <item value="delete" />
       <item value="violation" />
@@ -53,12 +54,11 @@
       <item value="Equals" />
       <item value="Equal" />
       <item value="Typed" />
-      <item value="Type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3265" />
-        <entry key="ENGLISH" value="3266" />
+        <entry key="CHINESE" value="3266" />
+        <entry key="ENGLISH" value="3267" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
@@ -94,7 +94,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1635733173996" />
+    <option name="lastTrimTime" value="1636335438269" />
   </component>
   <component name="Settings">
     <option name="phoneticFontFamily" value="Microsoft YaHei UI" />
