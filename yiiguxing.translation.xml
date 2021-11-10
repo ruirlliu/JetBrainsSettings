@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="not Initial" />
       <item value="get Or Insert If Absent" />
       <item value="Insert If Absent" />
       <item value="promotion" />
@@ -53,7 +54,6 @@
       <item value="rotate" />
       <item value="swap" />
       <item value="PRESENT" />
-      <item value="POSTPONE" />
     </histories>
     <option name="languageScores">
       <map>
