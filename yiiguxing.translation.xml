@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="support Enhance" />
       <item value="VARCHAR" />
       <item value="Api List Id" />
       <item value="not Initial" />
@@ -53,12 +54,11 @@
       <item value="Vendor" />
       <item value="\u 8463\u 76 D 1\u 9 AD 8\u 5173\u 8054\u 98 CE\u 9669\u 626 B\u 63 CF\u 3010\u 8463\u 76 D 1\u 9 AD 8\u 5173\u 8054\u 98 CE\u 9669\u 3011" />
       <item value="get Last Modify Able" />
-      <item value="rotate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3271" />
-        <entry key="ENGLISH" value="3272" />
+        <entry key="CHINESE" value="3272" />
+        <entry key="ENGLISH" value="3273" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
