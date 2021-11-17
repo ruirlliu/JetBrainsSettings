@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Evaluator" />
       <item value="Authentication" />
       <item value="Comment" />
       <item value="Badge" />
@@ -53,12 +54,11 @@
       <item value="Gauge" />
       <item value="Histogram" />
       <item value="Metrics" />
-      <item value="Bundle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3275" />
-        <entry key="ENGLISH" value="3276" />
+        <entry key="CHINESE" value="3276" />
+        <entry key="ENGLISH" value="3277" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
