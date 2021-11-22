@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Facade" />
       <item value="create Time" />
       <item value="Reset To" />
       <item value="Evaluator" />
@@ -53,12 +54,11 @@
       <item value="subscriber" />
       <item value="strict" />
       <item value="algorithm" />
-      <item value="Gauge" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3278" />
-        <entry key="ENGLISH" value="3279" />
+        <entry key="CHINESE" value="3279" />
+        <entry key="ENGLISH" value="3280" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
