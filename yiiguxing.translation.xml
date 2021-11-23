@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="will Expired" />
       <item value="expire In Months" />
       <item value="is Balance Satisfies" />
       <item value="get Precise End Date" />
@@ -53,12 +54,11 @@
       <item value="Pedantic" />
       <item value="Invoice" />
       <item value="DL carrier judge fail" />
-      <item value="下载失败" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3283" />
-        <entry key="ENGLISH" value="3284" />
+        <entry key="CHINESE" value="3284" />
+        <entry key="ENGLISH" value="3285" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
