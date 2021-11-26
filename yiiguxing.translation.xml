@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="combine" />
       <item value="not Effect" />
       <item value="get Users For Lack Notice" />
       <item value="calculations" />
@@ -53,12 +54,11 @@
       <item value="divide" />
       <item value="milliseconds" />
       <item value="key" />
-      <item value="Shanghai" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3300" />
-        <entry key="ENGLISH" value="3301" />
+        <entry key="CHINESE" value="3301" />
+        <entry key="ENGLISH" value="3302" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
