@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="User Balance Real Time Summary" />
       <item value="get Available" />
       <item value="get Current Available" />
       <item value="combine" />
@@ -53,12 +54,11 @@
       <item value="stream" />
       <item value="implements" />
       <item value="Consumer" />
-      <item value="divide" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3304" />
-        <entry key="ENGLISH" value="3305" />
+        <entry key="CHINESE" value="3305" />
+        <entry key="ENGLISH" value="3306" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
