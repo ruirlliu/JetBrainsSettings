@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="recent Expire Date" />
+      <item value="recent Expire Balance" />
       <item value="Remain Lack Remain Cash" />
       <item value="Switch to manual commit if necessary. This is very expensive in some JDBC drivers, so we don't want to do it unnecessarily (for example if we've explicitly configured the connection pool to set it already)." />
       <item value="Threshold" />
@@ -52,13 +54,11 @@
       <item value="violation" />
       <item value="Summary Statistics" />
       <item value="We can do better that this too; optimize for depth=0 case and just grab spliterator and forEach it" />
-      <item value="infinite" />
-      <item value="sequential" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3308" />
-        <entry key="ENGLISH" value="3309" />
+        <entry key="CHINESE" value="3310" />
+        <entry key="ENGLISH" value="3311" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
