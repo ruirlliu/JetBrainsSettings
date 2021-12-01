@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="arrearage Balance" />
       <item value="recent Expire Date" />
       <item value="recent Expire Balance" />
       <item value="Remain Lack Remain Cash" />
@@ -53,12 +54,11 @@
       <item value="delete" />
       <item value="violation" />
       <item value="Summary Statistics" />
-      <item value="We can do better that this too; optimize for depth=0 case and just grab spliterator and forEach it" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3310" />
-        <entry key="ENGLISH" value="3311" />
+        <entry key="CHINESE" value="3311" />
+        <entry key="ENGLISH" value="3312" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
