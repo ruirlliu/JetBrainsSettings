@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="compiler" />
       <item value="augend" />
       <item value="programmers" />
       <item value="callee" />
@@ -53,12 +54,11 @@
       <item value="Api List Id" />
       <item value="not Initial" />
       <item value="get Or Insert If Absent" />
-      <item value="Insert If Absent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3318" />
-        <entry key="ENGLISH" value="3319" />
+        <entry key="CHINESE" value="3319" />
+        <entry key="ENGLISH" value="3320" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
