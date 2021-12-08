@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Big Decimal" />
+      <item value="Decimal" />
       <item value="subtract" />
       <item value="remainder" />
       <item value="Assert" />
@@ -52,13 +54,11 @@
       <item value="will Expired" />
       <item value="expire In Months" />
       <item value="is Balance Satisfies" />
-      <item value="get Precise End Date" />
-      <item value="get Precise Cycle End Date" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3334" />
-        <entry key="ENGLISH" value="3335" />
+        <entry key="CHINESE" value="3336" />
+        <entry key="ENGLISH" value="3337" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
