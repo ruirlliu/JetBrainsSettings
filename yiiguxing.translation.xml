@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="subtract" />
       <item value="remainder" />
       <item value="Assert" />
       <item value="cost Owe" />
@@ -46,7 +47,6 @@
       <item value="get Will Expire" />
       <item value="Last" />
       <item value="will Expire" />
-      <item value="subtract" />
       <item value="deficit" />
       <item value="Calendar" />
       <item value="will Expired" />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3333" />
-        <entry key="ENGLISH" value="3334" />
+        <entry key="CHINESE" value="3334" />
+        <entry key="ENGLISH" value="3335" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
