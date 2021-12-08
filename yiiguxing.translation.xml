@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="remainder" />
       <item value="Assert" />
       <item value="cost Owe" />
       <item value="Contract" />
@@ -53,12 +54,11 @@
       <item value="is Balance Satisfies" />
       <item value="get Precise End Date" />
       <item value="get Precise Cycle End Date" />
-      <item value="get Precise Cycle Ent Date" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3332" />
-        <entry key="ENGLISH" value="3333" />
+        <entry key="CHINESE" value="3333" />
+        <entry key="ENGLISH" value="3334" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
