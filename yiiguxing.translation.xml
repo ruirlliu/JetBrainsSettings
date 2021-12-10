@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="is White Email" />
+      <item value="split" />
       <item value="Arrearage Balance" />
       <item value="begin Date" />
       <item value="Return the Virtual Machine's Class object for the named primitive type." />
@@ -52,13 +54,11 @@
       <item value="accurate" />
       <item value="balance Remind" />
       <item value="balance Remain" />
-      <item value="get" />
-      <item value="get Last Expire Date" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3344" />
-        <entry key="ENGLISH" value="3345" />
+        <entry key="CHINESE" value="3346" />
+        <entry key="ENGLISH" value="3347" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
