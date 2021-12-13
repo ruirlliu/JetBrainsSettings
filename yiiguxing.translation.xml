@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Reactor" />
       <item value="get User All Cycle Financial List" />
       <item value="is White Email" />
       <item value="split" />
@@ -53,12 +54,11 @@
       <item value="get Users For Lack Notice" />
       <item value="calculations" />
       <item value="accurate" />
-      <item value="balance Remind" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3347" />
-        <entry key="ENGLISH" value="3348" />
+        <entry key="CHINESE" value="3348" />
+        <entry key="ENGLISH" value="3349" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
