@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="With Holding" />
       <item value="dispose" />
       <item value="XIANXIA" />
       <item value="DEDUCTION" />
@@ -53,12 +54,11 @@
       <item value="User Balance Real Time Summary" />
       <item value="get Available" />
       <item value="get Current Available" />
-      <item value="combine" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3352" />
-        <entry key="ENGLISH" value="3351" />
+        <entry key="ENGLISH" value="3352" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
