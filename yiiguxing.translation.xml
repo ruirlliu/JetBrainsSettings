@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="deduce" />
       <item value="get Remain Cash Range User" />
       <item value="canonical" />
       <item value="Interpolator" />
@@ -53,12 +54,11 @@
       <item value="callee" />
       <item value="delete Non Public User Api List" />
       <item value="is Flat Account" />
-      <item value="is Flat" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3360" />
-        <entry key="ENGLISH" value="3361" />
+        <entry key="CHINESE" value="3361" />
+        <entry key="ENGLISH" value="3362" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
