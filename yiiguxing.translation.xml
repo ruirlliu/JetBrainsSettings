@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Explicitly remove target for a proxy, if registered already, in order to avoid double invocations of the same listener." />
+      <item value="Explicitly" />
+      <item value="Retriever" />
       <item value="progress" />
       <item value="default code segment" />
       <item value="Converts this Date object to a LocalDate The conversion creates a LocalDate that represents the same date value as this Date in local time zone Returns: a LocalDate object representing the same date value Since:" />
@@ -51,14 +54,11 @@
       <item value="打印骚东西" />
       <item value="auth User" />
       <item value="INFLATED" />
-      <item value="compiler" />
-      <item value="augend" />
-      <item value="programmers" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3364" />
-        <entry key="ENGLISH" value="3365" />
+        <entry key="CHINESE" value="3367" />
+        <entry key="ENGLISH" value="3368" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
