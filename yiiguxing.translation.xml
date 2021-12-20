@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="lookup" />
       <item value="get Generics" />
       <item value="Explicitly remove target for a proxy, if registered already, in order to avoid double invocations of the same listener." />
       <item value="Explicitly" />
@@ -53,12 +54,11 @@
       <item value="first Time Recharge" />
       <item value="first Recharge" />
       <item value="打印骚东西" />
-      <item value="auth User" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3368" />
-        <entry key="ENGLISH" value="3369" />
+        <entry key="CHINESE" value="3369" />
+        <entry key="ENGLISH" value="3370" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
@@ -94,7 +94,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1639359075706" />
+    <option name="lastTrimTime" value="1639964093594" />
   </component>
   <component name="Settings">
     <option name="phoneticFontFamily" value="Microsoft YaHei UI" />
