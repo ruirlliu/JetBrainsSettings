@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Constraint" />
       <item value="Privileged Action" />
       <item value="Monetary" />
       <item value="Currency" />
@@ -53,12 +54,11 @@
       <item value="DEDUCTION" />
       <item value="Attribute" />
       <item value="Reactor" />
-      <item value="get User All Cycle Financial List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3397" />
-        <entry key="ENGLISH" value="3398" />
+        <entry key="CHINESE" value="3398" />
+        <entry key="ENGLISH" value="3399" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
