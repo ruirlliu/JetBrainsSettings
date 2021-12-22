@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Privileged Action" />
+      <item value="Monetary" />
+      <item value="Currency" />
       <item value="background-preinit" />
       <item value="Autowired" />
       <item value="Accessor" />
@@ -51,14 +54,11 @@
       <item value="Attribute" />
       <item value="Reactor" />
       <item value="get User All Cycle Financial List" />
-      <item value="is White Email" />
-      <item value="split" />
-      <item value="Arrearage Balance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3393" />
-        <entry key="ENGLISH" value="3394" />
+        <entry key="CHINESE" value="3397" />
+        <entry key="ENGLISH" value="3398" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
