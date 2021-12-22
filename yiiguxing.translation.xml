@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="background-preinit" />
       <item value="Autowired" />
       <item value="Accessor" />
       <item value="Temporal" />
@@ -53,12 +54,11 @@
       <item value="is White Email" />
       <item value="split" />
       <item value="Arrearage Balance" />
-      <item value="begin Date" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3392" />
-        <entry key="ENGLISH" value="3393" />
+        <entry key="CHINESE" value="3393" />
+        <entry key="ENGLISH" value="3394" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
