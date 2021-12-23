@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="mandatory" />
       <item value="negate" />
       <item value="Defer" />
       <item value="Note the order is from least to most specific (last one wins)" />
@@ -53,12 +54,11 @@
       <item value="deduce" />
       <item value="get Remain Cash Range User" />
       <item value="canonical" />
-      <item value="Interpolator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3410" />
-        <entry key="ENGLISH" value="3411" />
+        <entry key="CHINESE" value="3411" />
+        <entry key="ENGLISH" value="3412" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
