@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="scale" />
+      <item value="Special case zero to supress nonterminating normalization and bogus scale calculation." />
       <item value="Infinity" />
       <item value="retain" />
       <item value="isomorphic" />
@@ -52,13 +54,11 @@
       <item value="remaining Days" />
       <item value="remaining Day" />
       <item value="remain Day" />
-      <item value="Rotation" />
-      <item value="excelWriter.addHeaderAlias(OParamKeys.ORDER_NO, &quot;订单号&quot;); excelWriter.addHeaderAlias(OParamKeys.ACCOUNT_NO, &quot; 帐号&quot;); excelWriter.addHeaderAlias(&quot;isTechnologyEnterpriseType&quot;, &quot; 科技型企业计费&quot;); excelWriter.addHeaderAlias(&quot;userLevel&quot;, &quot;用户级别&quot;); excelWriter.addHeaderAlias(&quot;hasRemainOffline&quot;, &quot;未禁用下架接口&quot;); excelWriter.addHeaderAlias(&quot;hasCustomPrice&quot;, &quot;自定义价&quot;); excelWriter.addHeaderAlias(&quot;isWithHolding&quot;, &quot;代扣（计次）&quot;); excelWriter.addHeaderAlias(&quot;matchMode&quot;, &quot;模糊模式&quot;); excelWriter.addHeaderAlias(&quot;authCusName&quot;, &quot;用户备注&quot;); excelWriter.addHeaderAlias(&quot;contractnum&quot;, &quot; 合同号&quot;); excelWriter.addHeaderAlias(&quot;txnType&quot;, &quot;订单类型&quot;); excelWriter.addHeaderAlias(OParamKeys.REMARK, &quot;订单备注&quot;); excelWriter.addHeaderAlias(OParamKeys.ADD_VALUE_TYPE, &quot;充值类型&quot;); excelWriter.addHeaderAlias(OParamKeys.TXN_AMT, &quot;支付金额&quot;); excelWriter.addHeaderAlias(&quot;accountRemainCash&quot;, &quot;账户余额&quot;); excelWriter.addHeaderAlias(OParamKeys.TOTAL_FEE_AMT, &quot;平台云币&quot;); excelWriter.addHeaderAlias(&quot;unbalanceAmt&quot;, &quot;未平账金额&quot;); excelWriter.addHeaderAlias(&quot;hasDeliveredNum&quot;, &quot;交付户数&quot;); excelWriter.addHeaderAlias(&quot;Status&quot;, &quot;支付状态&quot;); excelWriter.addHeaderAlias(&quot;balanceacountflag&quot;, &quot;平账状态&quot;); excelWriter.addHeaderAlias(OParamKeys.HAS_INVOICE, &quot;是否开票&quot;); excelWriter.addHeaderAlias(&quot;authuser&quot;, &quot;授权人&quot;); excelWriter.addHeaderAlias(&quot;orderDate&quot;, &quot;订单时间&quot;); excelWriter.addHeaderAlias(&quot;txnTime&quot;, &quot; 支付时间&quot;); excelWriter.addHeaderAlias(&quot;authuser&quot;, &quot;授权人&quot;);" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3402" />
-        <entry key="ENGLISH" value="3403" />
+        <entry key="CHINESE" value="3404" />
+        <entry key="ENGLISH" value="3405" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
