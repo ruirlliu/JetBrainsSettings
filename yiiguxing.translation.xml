@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="misconfiguration" />
+      <item value="Minimum Company Transfer Fee" />
       <item value="fee" />
       <item value="Generic" />
       <item value="banner" />
@@ -52,13 +54,11 @@
       <item value="get Generics" />
       <item value="Explicitly remove target for a proxy, if registered already, in order to avoid double invocations of the same listener." />
       <item value="Explicitly" />
-      <item value="Retriever" />
-      <item value="progress" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3417" />
-        <entry key="ENGLISH" value="3418" />
+        <entry key="CHINESE" value="3419" />
+        <entry key="ENGLISH" value="3420" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
