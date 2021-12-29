@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="590" />
+    <option name="newTranslationDialogWidth" value="588" />
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="साइकिल एंड दते" />
+      <item value="cycle End Dte" />
+      <item value="support Query Max Year" />
       <item value="Building" />
       <item value="Reactor" />
       <item value="user Balance Redis BO" />
@@ -51,14 +55,11 @@
       <item value="Process" />
       <item value="process Invoice Apply" />
       <item value="cancel Invoice" />
-      <item value="cancel Processing Invoice Apply" />
-      <item value="invalid Invoice Apply" />
-      <item value="multicast" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3431" />
-        <entry key="ENGLISH" value="3432" />
+        <entry key="CHINESE" value="3433" />
+        <entry key="ENGLISH" value="3433" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
@@ -87,7 +88,7 @@
         <entry key="GREEK" value="3" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="6" />
-        <entry key="HINDI" value="14" />
+        <entry key="HINDI" value="15" />
         <entry key="INDONESIAN" value="8" />
         <entry key="VIETNAMESE" value="2" />
       </map>
