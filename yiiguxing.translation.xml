@@ -4,6 +4,14 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Building" />
+      <item value="Reactor" />
+      <item value="user Balance Redis BO" />
+      <item value="Big Decimal" />
+      <item value="default" />
+      <item value="RELEASE" />
+      <item value="artifact" />
+      <item value="test Compile" />
       <item value="transform Query Invoice Sts" />
       <item value="get Apply Invoice List" />
       <item value="get Apply Invoic List" />
@@ -46,19 +54,11 @@
       <item value="cancel Processing Invoice Apply" />
       <item value="invalid Invoice Apply" />
       <item value="multicast" />
-      <item value="Wildcard Bounds" />
-      <item value="Raw" />
-      <item value="contains" />
-      <item value="Off Line" />
-      <item value="when" />
-      <item value="Xmemcached" />
-      <item value="transitive" />
-      <item value="lookup" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3422" />
-        <entry key="ENGLISH" value="3423" />
+        <entry key="CHINESE" value="3431" />
+        <entry key="ENGLISH" value="3432" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
