@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The service type for which providers are being sought; used to construct error detail strings" />
+      <item value="sought" />
+      <item value="rationale" />
+      <item value="extreme" />
       <item value="get Header To Alias" />
       <item value="get Alias To Header" />
       <item value="Criteria" />
@@ -51,15 +55,11 @@
       <item value="Currency" />
       <item value="background-preinit" />
       <item value="Autowired" />
-      <item value="Accessor" />
-      <item value="Temporal" />
-      <item value="interactive" />
-      <item value="cancel Special Invoice Apply" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3437" />
-        <entry key="ENGLISH" value="3438" />
+        <entry key="CHINESE" value="3441" />
+        <entry key="ENGLISH" value="3442" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
