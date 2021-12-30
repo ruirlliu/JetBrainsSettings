@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="A (possibly empty) iterator that will yield the provider-class names in the given configuration file that are not yet members of the returned set" />
       <item value="The service type for which providers are being sought; used to construct error detail strings" />
       <item value="sought" />
       <item value="rationale" />
@@ -54,12 +55,11 @@
       <item value="Monetary" />
       <item value="Currency" />
       <item value="background-preinit" />
-      <item value="Autowired" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3441" />
-        <entry key="ENGLISH" value="3442" />
+        <entry key="CHINESE" value="3442" />
+        <entry key="ENGLISH" value="3443" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
