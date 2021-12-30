@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Criteria" />
       <item value="Strict" />
       <item value="Returns the value of the first argument raised to the power of the second argument. Special cases: If the second argument is positive or negative zero, then the result is 1.0. If the second argument is 1.0, then the result is the same as the first argument. If the second argument is NaN, then the result is NaN. If the first argument is NaN and the second argument is nonzero, then the result is NaN. If" />
       <item value="साइकिल एंड दते" />
@@ -54,12 +55,11 @@
       <item value="cancel Special Invoice Apply" />
       <item value="cancel Invoice Apply" />
       <item value="Invoice" />
-      <item value="Process" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3434" />
-        <entry key="ENGLISH" value="3435" />
+        <entry key="CHINESE" value="3435" />
+        <entry key="ENGLISH" value="3436" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
