@@ -1,13 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="588" />
+    <option name="newTranslationDialogWidth" value="584" />
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
-    <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="Suppress Warnings" />
-      <item value="Field" />
       <item value="A (possibly empty) iterator that will yield the provider-class names in the given configuration file that are not yet members of the returned set" />
+      <item value="Field" />
+      <item value="Suppress Warnings" />
       <item value="The service type for which providers are being sought; used to construct error detail strings" />
       <item value="sought" />
       <item value="rationale" />
@@ -58,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3444" />
-        <entry key="ENGLISH" value="3445" />
+        <entry key="CHINESE" value="3472" />
+        <entry key="ENGLISH" value="3472" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
