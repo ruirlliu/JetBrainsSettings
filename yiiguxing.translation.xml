@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="user Cancellation" />
+      <item value="account Cancellation" />
       <item value="A (possibly empty) iterator that will yield the provider-class names in the given configuration file that are not yet members of the returned set" />
       <item value="Field" />
       <item value="Suppress Warnings" />
@@ -52,13 +54,11 @@
       <item value="homogeneous" />
       <item value="你好" />
       <item value="Constraint" />
-      <item value="Privileged Action" />
-      <item value="Monetary" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3472" />
-        <entry key="ENGLISH" value="3472" />
+        <entry key="CHINESE" value="3474" />
+        <entry key="ENGLISH" value="3475" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
