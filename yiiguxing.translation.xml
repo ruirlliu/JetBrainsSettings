@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="moneta" />
       <item value="decapitalize" />
       <item value="First, check to see if the requested bean is a FactoryBean. If so, create a subclass proxy that intercepts calls to getObject() and returns any cached bean instance. This ensures that the semantics of calling a FactoryBean from within @Bean methods is the same as that of referring to a FactoryBean within XML" />
       <item value="semantics" />
@@ -53,11 +54,10 @@
       <item value="Defer" />
       <item value="Note the order is from least to most specific (last one wins)" />
       <item value="jnl" />
-      <item value="scale" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3481" />
+        <entry key="CHINESE" value="3482" />
         <entry key="ENGLISH" value="3482" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
@@ -86,7 +86,7 @@
         <entry key="SPANISH" value="1" />
         <entry key="GREEK" value="3" />
         <entry key="HAWAIIAN" value="1" />
-        <entry key="ITALIAN" value="6" />
+        <entry key="ITALIAN" value="7" />
         <entry key="HINDI" value="15" />
         <entry key="INDONESIAN" value="8" />
         <entry key="VIETNAMESE" value="2" />
