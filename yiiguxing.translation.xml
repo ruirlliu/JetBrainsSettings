@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="SUCCESS" />
+      <item value="property" />
+      <item value="result" />
+      <item value="cycle Number" />
+      <item value="Voucher" />
+      <item value="If Absent" />
       <item value="calculate Revenue" />
       <item value="Adapt" />
       <item value="Revenue" />
@@ -48,17 +54,11 @@
       <item value="Reactor" />
       <item value="user Balance Redis BO" />
       <item value="Big Decimal" />
-      <item value="default" />
-      <item value="RELEASE" />
-      <item value="artifact" />
-      <item value="test Compile" />
-      <item value="transform Query Invoice Sts" />
-      <item value="get Apply Invoice List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3495" />
-        <entry key="ENGLISH" value="3496" />
+        <entry key="CHINESE" value="3502" />
+        <entry key="ENGLISH" value="3503" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
