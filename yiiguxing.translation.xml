@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="stereotype" />
+      <item value="Varargs" />
       <item value="SUCCESS" />
       <item value="property" />
       <item value="result" />
@@ -52,13 +54,11 @@
       <item value="support Query Max Year" />
       <item value="Building" />
       <item value="Reactor" />
-      <item value="user Balance Redis BO" />
-      <item value="Big Decimal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3502" />
-        <entry key="ENGLISH" value="3503" />
+        <entry key="CHINESE" value="3504" />
+        <entry key="ENGLISH" value="3505" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
