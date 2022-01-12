@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Implicit" />
       <item value="Combol" />
       <item value="stereotype" />
       <item value="Varargs" />
@@ -53,12 +54,11 @@
       <item value="साइकिल एंड दते" />
       <item value="cycle End Dte" />
       <item value="support Query Max Year" />
-      <item value="Building" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3505" />
-        <entry key="ENGLISH" value="3505" />
+        <entry key="ENGLISH" value="3506" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
