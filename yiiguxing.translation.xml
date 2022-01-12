@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Hk Ent" />
+      <item value="Hk Ent Api" />
       <item value="Implicit" />
       <item value="Combol" />
       <item value="stereotype" />
@@ -52,13 +54,12 @@
       <item value="Strict" />
       <item value="Returns the value of the first argument raised to the power of the second argument. Special cases: If the second argument is positive or negative zero, then the result is 1.0. If the second argument is 1.0, then the result is the same as the first argument. If the second argument is NaN, then the result is NaN. If the first argument is NaN and the second argument is nonzero, then the result is NaN. If" />
       <item value="साइकिल एंड दते" />
-      <item value="cycle End Dte" />
-      <item value="support Query Max Year" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3505" />
+        <entry key="CHINESE" value="3506" />
         <entry key="ENGLISH" value="3506" />
+        <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
@@ -88,6 +89,7 @@
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="7" />
         <entry key="HINDI" value="15" />
+        <entry key="SUNDANESE" value="1" />
         <entry key="INDONESIAN" value="8" />
         <entry key="VIETNAMESE" value="2" />
       </map>
