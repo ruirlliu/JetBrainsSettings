@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="daily Revenue Confirmed" />
       <item value="Array" />
       <item value="retain" />
       <item value="minimum Fee" />
@@ -53,12 +54,11 @@
       <item value="Suppress Warnings" />
       <item value="The service type for which providers are being sought; used to construct error detail strings" />
       <item value="sought" />
-      <item value="rationale" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3511" />
-        <entry key="ENGLISH" value="3512" />
+        <entry key="CHINESE" value="3512" />
+        <entry key="ENGLISH" value="3513" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
