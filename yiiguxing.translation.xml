@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="run Out" />
       <item value="null" />
       <item value="ZERO" />
       <item value="Daily Revenue Confirmed Service" />
@@ -53,12 +54,11 @@
       <item value="user Cancellation" />
       <item value="account Cancellation" />
       <item value="A (possibly empty) iterator that will yield the provider-class names in the given configuration file that are not yet members of the returned set" />
-      <item value="Field" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3516" />
-        <entry key="ENGLISH" value="3517" />
+        <entry key="CHINESE" value="3517" />
+        <entry key="ENGLISH" value="3518" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
