@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="ZERO" />
       <item value="Daily Revenue Confirmed Service" />
       <item value="daily Revenue Confirmed" />
       <item value="Array" />
@@ -53,12 +54,11 @@
       <item value="A (possibly empty) iterator that will yield the provider-class names in the given configuration file that are not yet members of the returned set" />
       <item value="Field" />
       <item value="Suppress Warnings" />
-      <item value="The service type for which providers are being sought; used to construct error detail strings" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3513" />
-        <entry key="ENGLISH" value="3514" />
+        <entry key="CHINESE" value="3514" />
+        <entry key="ENGLISH" value="3515" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
