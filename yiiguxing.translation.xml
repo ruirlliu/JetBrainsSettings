@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Blur" />
       <item value="promotion" />
       <item value="by" />
       <item value="blur" />
@@ -53,7 +54,6 @@
       <item value="Emitt" />
       <item value="Override" />
       <item value="serial" />
-      <item value="COALESCE" />
     </histories>
     <option name="languageScores">
       <map>
