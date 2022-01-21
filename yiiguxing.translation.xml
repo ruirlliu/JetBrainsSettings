@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="451" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Dual" />
       <item value="delete" />
       <item value="删除" />
       <item value="shanchu" />
@@ -54,12 +55,11 @@
       <item value="Synchronization" />
       <item value="mandatory" />
       <item value="Semantics" />
-      <item value="INTEND" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3530" />
-        <entry key="ENGLISH" value="3529" />
+        <entry key="ENGLISH" value="3530" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
