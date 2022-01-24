@@ -1,9 +1,8 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="582" />
+    <option name="newTranslationDialogWidth" value="580" />
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
-    <option name="pinNewTranslationDialog" value="true" />
     <histories>
       <item value="Dual" />
       <item value="delete" />
