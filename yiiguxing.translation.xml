@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="initiate" />
       <item value="trade" />
       <item value="VALID" />
       <item value="Dual" />
@@ -53,12 +54,11 @@
       <item value="Affirm Income Service" />
       <item value="melody" />
       <item value="Reentrant" />
-      <item value="Synchronization" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3531" />
-        <entry key="ENGLISH" value="3532" />
+        <entry key="CHINESE" value="3532" />
+        <entry key="ENGLISH" value="3533" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
