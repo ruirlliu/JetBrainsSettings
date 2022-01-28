@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Sibling" />
       <item value="DEEMED INVOICE" />
       <item value="get Dimensions" />
       <item value="update Sales Info" />
@@ -53,12 +54,11 @@
       <item value="calculate Revenue" />
       <item value="Adapt" />
       <item value="Revenue" />
-      <item value="date" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3536" />
-        <entry key="ENGLISH" value="3537" />
+        <entry key="CHINESE" value="3537" />
+        <entry key="ENGLISH" value="3538" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
