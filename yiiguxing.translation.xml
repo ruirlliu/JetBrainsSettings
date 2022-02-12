@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="DATA" />
       <item value="Flavor" />
       <item value="concatenates" />
       <item value="province" />
@@ -53,12 +54,11 @@
       <item value="Combol" />
       <item value="stereotype" />
       <item value="Varargs" />
-      <item value="SUCCESS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3546" />
-        <entry key="ENGLISH" value="3547" />
+        <entry key="CHINESE" value="3548" />
+        <entry key="ENGLISH" value="3549" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
