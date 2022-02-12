@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="sign product" />
+      <item value="Pedantic" />
       <item value="cloak" />
       <item value="semantic" />
       <item value="specification" />
@@ -52,13 +54,11 @@
       <item value="property" />
       <item value="result" />
       <item value="cycle Number" />
-      <item value="Voucher" />
-      <item value="If Absent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3540" />
-        <entry key="ENGLISH" value="3541" />
+        <entry key="CHINESE" value="3542" />
+        <entry key="ENGLISH" value="3543" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
