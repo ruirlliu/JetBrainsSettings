@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Flavor" />
+      <item value="concatenates" />
       <item value="province" />
       <item value="sign product" />
       <item value="Pedantic" />
@@ -52,13 +54,11 @@
       <item value="stereotype" />
       <item value="Varargs" />
       <item value="SUCCESS" />
-      <item value="property" />
-      <item value="result" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3543" />
-        <entry key="ENGLISH" value="3544" />
+        <entry key="CHINESE" value="3546" />
+        <entry key="ENGLISH" value="3547" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
