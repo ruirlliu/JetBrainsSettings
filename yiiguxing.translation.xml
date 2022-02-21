@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Ancestor" />
       <item value="rural" />
       <item value="Determines whether the specified callback function returns true for any element of an array. @param predicate A function that accepts up to three arguments. The some method calls the predicate function for each element in the array until the predicate returns a value which is coercible to the Boolean value true, or until the end of the array. @param thisArg An object to which the this keyword can refer in the predicate function. If thisArg is omitted, undefined is used as the this value." />
       <item value="intell Property" />
@@ -53,12 +54,11 @@
       <item value="minimum Fee" />
       <item value="Retrieves the value of the designated column in the current row of this ResultSet object as a boolean in the Java programming language. If the designated column has a datatype of CHAR or VARCHAR and contains a &quot;0&quot; or has a datatype of BIT, TINYINT, SMALLINT, INTEGER or BIGINT and contains a 0, a value of false is returned. If the designated column has a datatype of CHAR or VARCHAR and contains a &quot;1&quot; or has a datatype of BIT, TINYINT, SMALLINT, INTEGER or BIGINT and contains a 1, a value of true is returned. Params: columnLabel – the label for the column specified with the SQL AS clause. If the SQL AS clause was not specified, then the label is the name of the column Returns: the column value; if the value is SQL NULL, the value returned is false Throws: SQLException – if the columnLabel is not valid; if a database access error occurs or this method is called on a closed result set" />
       <item value="transact" />
-      <item value="最早日期" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3556" />
-        <entry key="ENGLISH" value="3557" />
+        <entry key="CHINESE" value="3557" />
+        <entry key="ENGLISH" value="3558" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
