@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="route" />
+      <item value="additional" />
       <item value="refund" />
       <item value="NOT RECEIVE" />
       <item value="RECEIVED" />
@@ -52,13 +54,11 @@
       <item value="by" />
       <item value="blur" />
       <item value="Promotion" />
-      <item value="run Out" />
-      <item value="null" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3564" />
-        <entry key="ENGLISH" value="3565" />
+        <entry key="CHINESE" value="3568" />
+        <entry key="ENGLISH" value="3569" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
