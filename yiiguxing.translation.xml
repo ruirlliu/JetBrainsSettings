@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="flow Route" />
+      <item value="approve" />
+      <item value="update" />
       <item value="capitalize" />
       <item value="annotated Classes" />
       <item value="Config methods may have an arbitrary name and any number of arguments; each of those arguments will be autowired with a matching bean in the Spring container. Bean property setter methods are effectively just a special case of such a general config method. Config methods do not have to be public." />
@@ -51,14 +54,11 @@
       <item value="industory" />
       <item value="industry Subdivision" />
       <item value="Promise" />
-      <item value="classification" />
-      <item value="Blur" />
-      <item value="promotion" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3571" />
-        <entry key="ENGLISH" value="3572" />
+        <entry key="CHINESE" value="3573" />
+        <entry key="ENGLISH" value="3574" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
