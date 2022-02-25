@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Communicate" />
       <item value="Approval" />
       <item value="flow Route" />
       <item value="approve" />
@@ -53,12 +54,11 @@
       <item value="disabled" />
       <item value="Subdivision" />
       <item value="industory" />
-      <item value="industry Subdivision" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3574" />
-        <entry key="ENGLISH" value="3575" />
+        <entry key="CHINESE" value="3575" />
+        <entry key="ENGLISH" value="3576" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
