@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="portlet" />
       <item value="seller Manager" />
       <item value="Dialog" />
       <item value="Communicate" />
@@ -53,12 +54,11 @@
       <item value="delete" />
       <item value="删除" />
       <item value="shanchu" />
-      <item value="disabled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3578" />
-        <entry key="ENGLISH" value="3579" />
+        <entry key="CHINESE" value="3579" />
+        <entry key="ENGLISH" value="3580" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
