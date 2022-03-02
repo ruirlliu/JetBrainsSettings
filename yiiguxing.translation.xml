@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="millisecond" />
+      <item value="microsecond" />
       <item value="The Condition should be evaluated as a @Configuration class is being parsed. If the condition does not match at this point, the @Configuration class will not be added." />
       <item value="portlet" />
       <item value="seller Manager" />
@@ -52,13 +54,11 @@
       <item value="trade" />
       <item value="VALID" />
       <item value="Dual" />
-      <item value="delete" />
-      <item value="删除" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3580" />
-        <entry key="ENGLISH" value="3581" />
+        <entry key="CHINESE" value="3582" />
+        <entry key="ENGLISH" value="3583" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
