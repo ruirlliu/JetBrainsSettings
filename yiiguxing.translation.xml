@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Origin" />
       <item value="jumper" />
       <item value="Invocable" />
       <item value="Completable" />
@@ -53,12 +54,11 @@
       <item value="intell Property" />
       <item value="quotient" />
       <item value="retain" />
-      <item value="retail" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3600" />
-        <entry key="ENGLISH" value="3601" />
+        <entry key="CHINESE" value="3601" />
+        <entry key="ENGLISH" value="3602" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
