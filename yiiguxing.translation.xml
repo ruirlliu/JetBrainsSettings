@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="collapse" />
+      <item value="emit" />
       <item value="synthesize" />
       <item value="eligible" />
       <item value="Bene Break" />
@@ -52,13 +54,11 @@
       <item value="DATA" />
       <item value="Flavor" />
       <item value="concatenates" />
-      <item value="province" />
-      <item value="sign product" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3593" />
-        <entry key="ENGLISH" value="3594" />
+        <entry key="CHINESE" value="3595" />
+        <entry key="ENGLISH" value="3596" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
@@ -96,7 +96,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1646014032627" />
+    <option name="lastTrimTime" value="1646618576304" />
   </component>
   <component name="Settings">
     <option name="phoneticFontFamily" value="Microsoft YaHei UI" />
