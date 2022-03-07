@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Invocable" />
       <item value="Completable" />
       <item value="Introspector" />
       <item value="quarter" />
@@ -53,12 +54,11 @@
       <item value="retain" />
       <item value="retail" />
       <item value="summary" />
-      <item value="Rural" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3598" />
-        <entry key="ENGLISH" value="3599" />
+        <entry key="CHINESE" value="3599" />
+        <entry key="ENGLISH" value="3600" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
