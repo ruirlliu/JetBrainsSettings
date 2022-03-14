@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="retain All" />
       <item value="LIKE" />
       <item value="type" />
       <item value="open" />
@@ -53,12 +54,11 @@
       <item value="additional" />
       <item value="refund" />
       <item value="NOT RECEIVE" />
-      <item value="RECEIVED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3612" />
-        <entry key="ENGLISH" value="3613" />
+        <entry key="CHINESE" value="3613" />
+        <entry key="ENGLISH" value="3614" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
@@ -96,7 +96,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1646618576304" />
+    <option name="lastTrimTime" value="1647223231481" />
   </component>
   <component name="Settings">
     <option name="phoneticFontFamily" value="Microsoft YaHei UI" />
