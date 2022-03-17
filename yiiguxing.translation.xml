@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="estimate" />
       <item value="adjust End Date" />
       <item value="adjust Start Date" />
       <item value="latest Visit Time" />
@@ -53,12 +54,11 @@
       <item value="seller Manager" />
       <item value="Dialog" />
       <item value="Approval" />
-      <item value="flow Route" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3622" />
-        <entry key="ENGLISH" value="3623" />
+        <entry key="CHINESE" value="3623" />
+        <entry key="ENGLISH" value="3624" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
