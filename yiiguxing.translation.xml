@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Serdes" />
       <item value="Timestamp" />
       <item value="Merge sorted" />
       <item value="insertion" />
@@ -53,11 +54,10 @@
       <item value="Completable" />
       <item value="Introspector" />
       <item value="quarter" />
-      <item value="collapse" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3644" />
+        <entry key="CHINESE" value="3645" />
         <entry key="ENGLISH" value="3645" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
@@ -73,6 +73,7 @@
         <entry key="CZECH" value="5" />
         <entry key="CROATIAN" value="2" />
         <entry key="LATIN" value="1" />
+        <entry key="LATVIAN" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="ROMANIAN" value="6" />
         <entry key="BENGALI" value="3" />
