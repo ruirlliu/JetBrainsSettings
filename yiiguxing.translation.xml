@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Timestamp" />
+      <item value="Merge sorted" />
       <item value="insertion" />
       <item value="derived" />
       <item value="may offer better parallel performance." />
@@ -52,13 +54,11 @@
       <item value="Introspector" />
       <item value="quarter" />
       <item value="collapse" />
-      <item value="emit" />
-      <item value="synthesize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3642" />
-        <entry key="ENGLISH" value="3643" />
+        <entry key="CHINESE" value="3644" />
+        <entry key="ENGLISH" value="3645" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
