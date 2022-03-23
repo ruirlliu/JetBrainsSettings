@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="equals" />
       <item value="list View" />
       <item value="scene" />
       <item value="Contract" />
@@ -53,12 +54,11 @@
       <item value="unshift" />
       <item value="ACCOUNT MAINTAIN" />
       <item value="Communicate" />
-      <item value="socket" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3655" />
-        <entry key="ENGLISH" value="3656" />
+        <entry key="CHINESE" value="3656" />
+        <entry key="ENGLISH" value="3657" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
