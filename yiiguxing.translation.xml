@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Contract" />
       <item value="gap" />
       <item value="discount" />
       <item value="charset" />
@@ -53,12 +54,11 @@
       <item value="socket" />
       <item value="transport" />
       <item value="Generic" />
-      <item value="wrap" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3652" />
-        <entry key="ENGLISH" value="3653" />
+        <entry key="CHINESE" value="3653" />
+        <entry key="ENGLISH" value="3654" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
