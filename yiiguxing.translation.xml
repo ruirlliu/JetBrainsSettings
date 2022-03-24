@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="proleptic" />
       <item value="allocate" />
       <item value="insufficient" />
       <item value="nested" />
@@ -53,12 +54,11 @@
       <item value="search Key" />
       <item value="retain All" />
       <item value="LIKE" />
-      <item value="type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3660" />
-        <entry key="ENGLISH" value="3661" />
+        <entry key="CHINESE" value="3661" />
+        <entry key="ENGLISH" value="3662" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
