@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="ascending" />
       <item value="Intrinsic Candidate" />
       <item value="inflate" />
       <item value="mustache" />
@@ -53,12 +54,11 @@
       <item value="adjust Start Date" />
       <item value="latest Visit Time" />
       <item value="last" />
-      <item value="With In" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3665" />
-        <entry key="ENGLISH" value="3666" />
+        <entry key="CHINESE" value="3666" />
+        <entry key="ENGLISH" value="3667" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
