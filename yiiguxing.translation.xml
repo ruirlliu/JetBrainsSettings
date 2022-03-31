@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Mutable" />
+      <item value="deduce" />
       <item value="supplementary" />
       <item value="trial" />
       <item value="confirm" />
@@ -52,13 +54,11 @@
       <item value="comparisons" />
       <item value="adaptive" />
       <item value="interactive" />
-      <item value="Daemon" />
-      <item value="promotion" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3673" />
-        <entry key="ENGLISH" value="3674" />
+        <entry key="CHINESE" value="3675" />
+        <entry key="ENGLISH" value="3676" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
