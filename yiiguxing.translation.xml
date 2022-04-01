@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="strip Trailing Zeros" />
       <item value="Synchronizing" />
       <item value="mark" />
       <item value="markdown" />
@@ -53,12 +54,11 @@
       <item value="Date" />
       <item value="conjunction" />
       <item value="duplicate" />
-      <item value="Recursively sort halves of dest into src" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3679" />
-        <entry key="ENGLISH" value="3680" />
+        <entry key="CHINESE" value="3680" />
+        <entry key="ENGLISH" value="3681" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
