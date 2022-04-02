@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="trial" />
       <item value="Broker" />
       <item value="amend" />
       <item value="Trailing" />
@@ -19,7 +20,6 @@
       <item value="Mutable" />
       <item value="deduce" />
       <item value="supplementary" />
-      <item value="trial" />
       <item value="confirm" />
       <item value="append" />
       <item value="immutable" />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3686" />
-        <entry key="ENGLISH" value="3687" />
+        <entry key="CHINESE" value="3687" />
+        <entry key="ENGLISH" value="3688" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
