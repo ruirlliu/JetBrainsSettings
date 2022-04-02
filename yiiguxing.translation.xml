@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="amount" />
+      <item value="Deque" />
       <item value="trial" />
       <item value="Broker" />
       <item value="amend" />
@@ -52,13 +54,11 @@
       <item value="Timestamp" />
       <item value="Merge sorted" />
       <item value="insertion" />
-      <item value="derived" />
-      <item value="may offer better parallel performance." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3687" />
-        <entry key="ENGLISH" value="3688" />
+        <entry key="CHINESE" value="3688" />
+        <entry key="ENGLISH" value="3689" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
@@ -72,7 +72,7 @@
         <entry key="CATALAN" value="5" />
         <entry key="CZECH" value="5" />
         <entry key="CROATIAN" value="2" />
-        <entry key="LATIN" value="1" />
+        <entry key="LATIN" value="2" />
         <entry key="LATVIAN" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="ROMANIAN" value="6" />
