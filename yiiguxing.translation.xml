@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="invest" />
       <item value="subdivisions" />
       <item value="remind" />
       <item value="Renewal Remind" />
@@ -53,12 +54,11 @@
       <item value="proleptic" />
       <item value="allocate" />
       <item value="insufficient" />
-      <item value="nested" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3705" />
-        <entry key="ENGLISH" value="3706" />
+        <entry key="CHINESE" value="3706" />
+        <entry key="ENGLISH" value="3707" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
