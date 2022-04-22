@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="emit" />
       <item value="appropriate" />
       <item value="invest" />
       <item value="subdivisions" />
@@ -53,12 +54,11 @@
       <item value="Dispose" />
       <item value="dispose" />
       <item value="proleptic" />
-      <item value="allocate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3707" />
-        <entry key="ENGLISH" value="3708" />
+        <entry key="CHINESE" value="3708" />
+        <entry key="ENGLISH" value="3709" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />

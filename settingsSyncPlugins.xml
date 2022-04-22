@@ -136,6 +136,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="info.lovemin.plugin-learning">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="jclasslib">
           <value>
             <PluginData>
