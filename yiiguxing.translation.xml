@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="rotate" />
+      <item value="Random" />
+      <item value="hedge" />
+      <item value="shuffle" />
       <item value="reverse" />
       <item value="procedure" />
       <item value="emit" />
@@ -50,15 +54,11 @@
       <item value="Rounding Mode" />
       <item value="ascending" />
       <item value="Intrinsic Candidate" />
-      <item value="inflate" />
-      <item value="mustache" />
-      <item value="FORMAL ACTIVE ORDER" />
-      <item value="Dispose" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3710" />
-        <entry key="ENGLISH" value="3711" />
+        <entry key="CHINESE" value="3714" />
+        <entry key="ENGLISH" value="3715" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
