@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Override" />
+      <item value="ride" />
       <item value="WHEN" />
       <item value="year" />
       <item value="dispose" />
@@ -52,13 +54,11 @@
       <item value="deduce" />
       <item value="supplementary" />
       <item value="confirm" />
-      <item value="append" />
-      <item value="immutable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3716" />
-        <entry key="ENGLISH" value="3717" />
+        <entry key="CHINESE" value="3718" />
+        <entry key="ENGLISH" value="3719" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
