@@ -4,12 +4,14 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="rotate" />
+      <item value="SELECT" />
+      <item value="CONCAT" />
       <item value="Override" />
       <item value="ride" />
       <item value="WHEN" />
       <item value="year" />
       <item value="dispose" />
-      <item value="rotate" />
       <item value="Random" />
       <item value="hedge" />
       <item value="shuffle" />
@@ -52,13 +54,11 @@
       <item value="continue" />
       <item value="Mutable" />
       <item value="deduce" />
-      <item value="supplementary" />
-      <item value="confirm" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3718" />
-        <entry key="ENGLISH" value="3719" />
+        <entry key="CHINESE" value="3721" />
+        <entry key="ENGLISH" value="3722" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
