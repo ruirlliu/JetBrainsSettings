@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Supplementary" />
       <item value="rotate" />
       <item value="SELECT" />
       <item value="CONCAT" />
@@ -53,12 +54,11 @@
       <item value="Status Transition Redis BO" />
       <item value="continue" />
       <item value="Mutable" />
-      <item value="deduce" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3721" />
-        <entry key="ENGLISH" value="3722" />
+        <entry key="CHINESE" value="3722" />
+        <entry key="ENGLISH" value="3723" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
