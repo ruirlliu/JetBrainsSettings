@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="BOLD" />
+      <item value="escape" />
       <item value="socket" />
       <item value="transport" />
       <item value="HANGING BASELINE" />
@@ -52,13 +54,11 @@
       <item value="specific Customer Type List" />
       <item value="amount" />
       <item value="Deque" />
-      <item value="trial" />
-      <item value="Broker" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3733" />
-        <entry key="ENGLISH" value="3734" />
+        <entry key="CHINESE" value="3735" />
+        <entry key="ENGLISH" value="3736" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
