@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Synchronizing" />
+      <item value="latest Visit Start" />
       <item value="abandoned" />
       <item value="stream" />
       <item value="octet" />
@@ -52,13 +54,11 @@
       <item value="recurse" />
       <item value="submodules" />
       <item value="prune" />
-      <item value="progress" />
-      <item value="collect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3739" />
-        <entry key="ENGLISH" value="3740" />
+        <entry key="CHINESE" value="3741" />
+        <entry key="ENGLISH" value="3742" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
