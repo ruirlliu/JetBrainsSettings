@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="is Alphabetic" />
+      <item value="Surrogate" />
       <item value="Mobile Desensitization Value Convert" />
       <item value="latency" />
       <item value="Mobile Desensitization" />
@@ -52,13 +54,11 @@
       <item value="remind" />
       <item value="Renewal Remind" />
       <item value="Renewal" />
-      <item value="Executor Service" />
-      <item value="Initializing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3749" />
-        <entry key="ENGLISH" value="3750" />
+        <entry key="CHINESE" value="3751" />
+        <entry key="ENGLISH" value="3752" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
