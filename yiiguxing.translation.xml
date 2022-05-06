@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Process" />
       <item value="splite" />
       <item value="split" />
       <item value="avoid getfield opcode" />
@@ -53,12 +54,11 @@
       <item value="emit" />
       <item value="appropriate" />
       <item value="invest" />
-      <item value="subdivisions" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3754" />
-        <entry key="ENGLISH" value="3754" />
+        <entry key="ENGLISH" value="3755" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
