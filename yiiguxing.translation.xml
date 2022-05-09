@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="assets" />
       <item value="panel" />
       <item value="modify" />
       <item value="appeal" />
@@ -53,12 +54,11 @@
       <item value="WHEN" />
       <item value="year" />
       <item value="dispose" />
-      <item value="Random" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3762" />
-        <entry key="ENGLISH" value="3763" />
+        <entry key="CHINESE" value="3763" />
+        <entry key="ENGLISH" value="3764" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
