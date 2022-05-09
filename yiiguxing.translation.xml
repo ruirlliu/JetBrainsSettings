@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="panel" />
+      <item value="modify" />
+      <item value="appeal" />
+      <item value="Trial" />
       <item value="predecessor" />
       <item value="Stat" />
       <item value="failed" />
@@ -50,15 +54,11 @@
       <item value="year" />
       <item value="dispose" />
       <item value="Random" />
-      <item value="hedge" />
-      <item value="shuffle" />
-      <item value="reverse" />
-      <item value="procedure" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3758" />
-        <entry key="ENGLISH" value="3759" />
+        <entry key="CHINESE" value="3762" />
+        <entry key="ENGLISH" value="3763" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
