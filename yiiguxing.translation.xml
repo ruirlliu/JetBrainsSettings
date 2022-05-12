@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="TRIAL" />
       <item value="prevented" />
       <item value="outtime" />
       <item value="literal" />
@@ -53,12 +54,11 @@
       <item value="escape" />
       <item value="socket" />
       <item value="transport" />
-      <item value="HANGING BASELINE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3780" />
-        <entry key="ENGLISH" value="3781" />
+        <entry key="CHINESE" value="3781" />
+        <entry key="ENGLISH" value="3782" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
