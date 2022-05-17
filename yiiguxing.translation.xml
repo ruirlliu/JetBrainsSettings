@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="floor" />
       <item value="residue" />
       <item value="emit" />
       <item value="transfer Api Count Preview" />
@@ -53,12 +54,11 @@
       <item value="Double" />
       <item value="String" />
       <item value="Synchronizing" />
-      <item value="latest Visit Start" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3789" />
-        <entry key="ENGLISH" value="3790" />
+        <entry key="CHINESE" value="3790" />
+        <entry key="ENGLISH" value="3791" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
