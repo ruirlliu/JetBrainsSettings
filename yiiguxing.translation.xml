@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Na N" />
+      <item value="Perforce" />
+      <item value="Copyright" />
       <item value="Signature" />
       <item value="NOBLE" />
       <item value="KNIGHT" />
@@ -51,14 +54,11 @@
       <item value="modify" />
       <item value="appeal" />
       <item value="Trial" />
-      <item value="predecessor" />
-      <item value="Stat" />
-      <item value="failed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3807" />
-        <entry key="ENGLISH" value="3808" />
+        <entry key="CHINESE" value="3810" />
+        <entry key="ENGLISH" value="3810" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
@@ -88,6 +88,7 @@
         <entry key="SPANISH" value="1" />
         <entry key="GREEK" value="3" />
         <entry key="HAWAIIAN" value="1" />
+        <entry key="IGBO" value="1" />
         <entry key="ITALIAN" value="9" />
         <entry key="HINDI" value="15" />
         <entry key="SUNDANESE" value="1" />
