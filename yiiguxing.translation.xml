@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="quote" />
       <item value="ENT ACCOUNT" />
       <item value="Na N" />
       <item value="Perforce" />
@@ -53,12 +54,11 @@
       <item value="assets" />
       <item value="panel" />
       <item value="modify" />
-      <item value="appeal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3810" />
-        <entry key="ENGLISH" value="3811" />
+        <entry key="CHINESE" value="3811" />
+        <entry key="ENGLISH" value="3812" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
