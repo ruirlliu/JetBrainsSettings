@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Evaluate" />
       <item value="Daemon" />
       <item value="Ancestor" />
       <item value="Regular" />
@@ -53,12 +54,11 @@
       <item value="scale of the BigDecimal quotient to be returned." />
       <item value="FIELD" />
       <item value="TRIAL" />
-      <item value="prevented" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3831" />
-        <entry key="ENGLISH" value="3832" />
+        <entry key="CHINESE" value="3832" />
+        <entry key="ENGLISH" value="3833" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
