@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="temporary" />
       <item value="slash" />
       <item value="Unfortunately" />
       <item value="Georgian" />
@@ -53,12 +54,11 @@
       <item value="collapse" />
       <item value="floor" />
       <item value="residue" />
-      <item value="emit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3839" />
-        <entry key="ENGLISH" value="3840" />
+        <entry key="CHINESE" value="3840" />
+        <entry key="ENGLISH" value="3841" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
