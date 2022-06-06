@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="sealed" />
       <item value="process" />
       <item value="proceed" />
       <item value="Optimize" />
@@ -53,12 +54,11 @@
       <item value="Multicaster" />
       <item value="bound Ip" />
       <item value="Authorization" />
-      <item value="Strict" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3846" />
-        <entry key="ENGLISH" value="3847" />
+        <entry key="CHINESE" value="3847" />
+        <entry key="ENGLISH" value="3848" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
