@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="COMPACT" />
       <item value="Accessors" />
       <item value="catelog" />
       <item value="Category" />
@@ -53,12 +54,11 @@
       <item value="KNIGHT" />
       <item value="SQUIRE" />
       <item value="PEASANT" />
-      <item value="Privilege" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3854" />
-        <entry key="ENGLISH" value="3855" />
+        <entry key="CHINESE" value="3855" />
+        <entry key="ENGLISH" value="3856" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
