@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="String" />
       <item value="permute" />
       <item value="indegree" />
       <item value="COMPACT" />
@@ -38,7 +39,6 @@
       <item value="log Tag" />
       <item value="desc" />
       <item value="value" />
-      <item value="String" />
       <item value="length" />
       <item value="name" />
       <item value="instanceof" />
@@ -58,7 +58,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3857" />
-        <entry key="ENGLISH" value="3857" />
+        <entry key="ENGLISH" value="3858" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
