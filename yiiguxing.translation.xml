@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="indate" />
       <item value="trace" />
       <item value="Criteria" />
       <item value="Coupon" />
@@ -53,11 +54,10 @@
       <item value="ENT ACCOUNT" />
       <item value="Na N" />
       <item value="Perforce" />
-      <item value="Copyright" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3861" />
+        <entry key="CHINESE" value="3862" />
         <entry key="ENGLISH" value="3862" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
