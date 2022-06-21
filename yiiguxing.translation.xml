@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="latest Track History" />
       <item value="Latest" />
       <item value="Last" />
       <item value="Geetest" />
@@ -53,12 +54,11 @@
       <item value="length" />
       <item value="name" />
       <item value="instanceof" />
-      <item value="Log Tag" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3865" />
-        <entry key="ENGLISH" value="3866" />
+        <entry key="CHINESE" value="3866" />
+        <entry key="ENGLISH" value="3867" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
