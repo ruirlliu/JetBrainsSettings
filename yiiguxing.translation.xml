@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="PECIAL" />
       <item value="TRACK" />
       <item value="Shortcut" />
       <item value="backgroup" />
@@ -53,11 +54,10 @@
       <item value="denote" />
       <item value="Parallel" />
       <item value="monitor" />
-      <item value="log Tag" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3871" />
+        <entry key="CHINESE" value="3872" />
         <entry key="ENGLISH" value="3872" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
@@ -87,7 +87,7 @@
         <entry key="SLOVAK" value="1" />
         <entry key="TURKISH" value="2" />
         <entry key="WELSH" value="1" />
-        <entry key="SPANISH" value="1" />
+        <entry key="SPANISH" value="2" />
         <entry key="GREEK" value="3" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="IGBO" value="1" />
