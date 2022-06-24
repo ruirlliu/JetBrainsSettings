@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Excel" />
       <item value="set Alignment" />
       <item value="upload To Update" />
       <item value="update By Upload" />
@@ -53,12 +54,11 @@
       <item value="Daemon" />
       <item value="Ancestor" />
       <item value="Regular" />
-      <item value="post" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3874" />
-        <entry key="ENGLISH" value="3875" />
+        <entry key="CHINESE" value="3875" />
+        <entry key="ENGLISH" value="3876" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
