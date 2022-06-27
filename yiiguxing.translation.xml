@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="public" />
       <item value="presence" />
       <item value="apply Date" />
       <item value="add Suppressed" />
@@ -53,12 +54,11 @@
       <item value="stream" />
       <item value="Primary" />
       <item value="Qualifier" />
-      <item value="Evaluate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3878" />
-        <entry key="ENGLISH" value="3879" />
+        <entry key="CHINESE" value="3879" />
+        <entry key="ENGLISH" value="3880" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
