@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Nicoll" />
       <item value="silk" />
       <item value="Promise" />
       <item value="public" />
@@ -53,12 +54,11 @@
       <item value="Unfortunately" />
       <item value="Georgian" />
       <item value="legacy" />
-      <item value="stream" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3881" />
-        <entry key="ENGLISH" value="3882" />
+        <entry key="CHINESE" value="3882" />
+        <entry key="ENGLISH" value="3883" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
