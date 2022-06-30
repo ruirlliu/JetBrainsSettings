@@ -1,11 +1,20 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <removed_mapping pattern="**spring-configuration-metadata.json" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".sonar_lock" type="PLAIN_TEXT" />
+      <removed_mapping pattern="bootstrap-**.properties" type="Properties" />
+      <removed_mapping pattern="application.properties" type="Properties" />
+      <removed_mapping pattern="application-**.properties" type="Properties" />
+      <removed_mapping pattern="bootstrap.properties" type="Properties" />
+      <removed_mapping pattern="bootstrap-**.y**ml" type="YAML" />
+      <removed_mapping pattern="bootstrap.yaml" type="YAML" />
+      <removed_mapping pattern="application-**.y**ml" type="YAML" />
+      <removed_mapping pattern="bootstrap.yml" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="qrc" approved="true" type="XML" />
