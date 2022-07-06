@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="null" />
       <item value="invoke Time" />
       <item value="Privilege" />
       <item value="SPECIAL INVOICE APPLY REJECT" />
@@ -53,12 +54,11 @@
       <item value="Little wolf of rounding error" />
       <item value="sealed" />
       <item value="process" />
-      <item value="proceed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3890" />
-        <entry key="ENGLISH" value="3891" />
+        <entry key="CHINESE" value="3891" />
+        <entry key="ENGLISH" value="3892" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
