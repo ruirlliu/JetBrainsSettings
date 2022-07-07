@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="exit" />
+      <item value="Java" />
+      <item value="Programs" />
       <item value="null" />
       <item value="invoke Time" />
       <item value="Privilege" />
@@ -51,14 +54,11 @@
       <item value="Category" />
       <item value="coyote" />
       <item value="fragment" />
-      <item value="Little wolf of rounding error" />
-      <item value="sealed" />
-      <item value="process" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3891" />
-        <entry key="ENGLISH" value="3892" />
+        <entry key="CHINESE" value="3894" />
+        <entry key="ENGLISH" value="3895" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
