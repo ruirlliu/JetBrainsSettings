@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="successor" />
+      <item value="ancestor" />
+      <item value="ANCHOR" />
       <item value="annotation" />
       <item value="compensate" />
       <item value="use better algorithm to compensate for intermediate overflow?" />
@@ -51,14 +54,11 @@
       <item value="remaind" />
       <item value="indate" />
       <item value="trace" />
-      <item value="Criteria" />
-      <item value="Coupon" />
-      <item value="String" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3903" />
-        <entry key="ENGLISH" value="3904" />
+        <entry key="CHINESE" value="3907" />
+        <entry key="ENGLISH" value="3908" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
