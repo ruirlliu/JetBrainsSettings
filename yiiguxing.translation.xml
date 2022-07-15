@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="compensate" />
+      <item value="use better algorithm to compensate for intermediate overflow?" />
       <item value="general Equals" />
       <item value="CONTRACT" />
       <item value="un Known" />
@@ -52,13 +54,11 @@
       <item value="Coupon" />
       <item value="String" />
       <item value="permute" />
-      <item value="indegree" />
-      <item value="COMPACT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3900" />
-        <entry key="ENGLISH" value="3901" />
+        <entry key="CHINESE" value="3902" />
+        <entry key="ENGLISH" value="3903" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
