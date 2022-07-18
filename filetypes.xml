@@ -6,6 +6,8 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".sonar_lock" type="PLAIN_TEXT" />
+      <removed_mapping pattern="application.yml" type="YAML" />
+      <removed_mapping pattern="application.yaml" type="YAML" />
       <removed_mapping pattern="**spring-configuration-metadata.json" approved="true" type="JSON" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
