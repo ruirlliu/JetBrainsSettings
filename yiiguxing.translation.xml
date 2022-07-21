@@ -4,12 +4,14 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="ancestor" />
+      <item value="accessor" />
+      <item value="access" />
       <item value="successor" />
       <item value="throws" />
       <item value="Retention" />
       <item value="dispose" />
       <item value="Either re-interrupt this method or rethrow the &quot;InterruptedException&quot; that can be caught here." />
-      <item value="ancestor" />
       <item value="ANCHOR" />
       <item value="annotation" />
       <item value="compensate" />
@@ -52,13 +54,11 @@
       <item value="Latest" />
       <item value="Last" />
       <item value="Geetest" />
-      <item value="Geete" />
-      <item value="transient" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3912" />
-        <entry key="ENGLISH" value="3913" />
+        <entry key="CHINESE" value="3915" />
+        <entry key="ENGLISH" value="3916" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
