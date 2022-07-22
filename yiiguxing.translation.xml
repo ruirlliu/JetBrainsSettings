@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="true" />
       <item value="term" />
       <item value="Philosopher" />
       <item value="ancestor" />
@@ -53,12 +54,11 @@
       <item value="Audit" />
       <item value="background" />
       <item value="latest Track History" />
-      <item value="Latest" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3917" />
-        <entry key="ENGLISH" value="3918" />
+        <entry key="CHINESE" value="3918" />
+        <entry key="ENGLISH" value="3919" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
