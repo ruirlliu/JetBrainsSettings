@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="stream" />
       <item value="class" />
       <item value="Override" />
       <item value="fallthrough" />
@@ -53,12 +54,11 @@
       <item value="parentheses" />
       <item value="pay Now" />
       <item value="submit" />
-      <item value="pow" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3937" />
-        <entry key="ENGLISH" value="3938" />
+        <entry key="CHINESE" value="3938" />
+        <entry key="ENGLISH" value="3939" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
