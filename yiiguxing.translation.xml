@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="is Overseas Ip" />
       <item value="negate" />
       <item value="daily Revenue Confirmed" />
       <item value="stream" />
@@ -53,12 +54,11 @@
       <item value="invoke Time" />
       <item value="Privilege" />
       <item value="SPECIAL INVOICE APPLY REJECT" />
-      <item value="parentheses" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3940" />
-        <entry key="ENGLISH" value="3941" />
+        <entry key="CHINESE" value="3941" />
+        <entry key="ENGLISH" value="3942" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
