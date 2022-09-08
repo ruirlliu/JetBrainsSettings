@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Refund" />
       <item value="abnormal" />
       <item value="mile" />
       <item value="urge" />
@@ -53,12 +54,11 @@
       <item value="access" />
       <item value="successor" />
       <item value="throws" />
-      <item value="Retention" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3958" />
-        <entry key="ENGLISH" value="3959" />
+        <entry key="CHINESE" value="3959" />
+        <entry key="ENGLISH" value="3960" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
