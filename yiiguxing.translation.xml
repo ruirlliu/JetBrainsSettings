@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="trace" />
       <item value="Voucher" />
       <item value="Refund" />
       <item value="abnormal" />
@@ -53,12 +54,11 @@
       <item value="ancestor" />
       <item value="accessor" />
       <item value="access" />
-      <item value="successor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3960" />
-        <entry key="ENGLISH" value="3961" />
+        <entry key="CHINESE" value="3961" />
+        <entry key="ENGLISH" value="3962" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
