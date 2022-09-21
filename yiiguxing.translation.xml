@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="adapt From Boss User" />
       <item value="and Equal To" />
       <item value="approve List" />
       <item value="approve Trace" />
@@ -53,12 +54,11 @@
       <item value="strict Random Code" />
       <item value="true" />
       <item value="term" />
-      <item value="Philosopher" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3964" />
-        <entry key="ENGLISH" value="3965" />
+        <entry key="CHINESE" value="3966" />
+        <entry key="ENGLISH" value="3967" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
