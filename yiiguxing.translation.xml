@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="outstanding" />
       <item value="Season" />
       <item value="Get Mapping" />
       <item value="invalid Contract" />
@@ -53,7 +54,6 @@
       <item value="BINDING" />
       <item value="BAND" />
       <item value="transformed" />
-      <item value="COUPON" />
     </histories>
     <option name="languageScores">
       <map>
