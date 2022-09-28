@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="add" />
+      <item value="exponential" />
+      <item value="elementary" />
+      <item value="functions" />
       <item value="outstanding" />
       <item value="Season" />
       <item value="Get Mapping" />
@@ -50,10 +54,6 @@
       <item value="unexpected" />
       <item value="Recharge" />
       <item value="Scene Deal Change List" />
-      <item value="yield" />
-      <item value="BINDING" />
-      <item value="BAND" />
-      <item value="transformed" />
     </histories>
     <option name="languageScores">
       <map>
