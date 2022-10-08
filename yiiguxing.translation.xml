@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="integrity" />
       <item value="long" />
       <item value="Hmac SHA 256" />
       <item value="add" />
@@ -53,12 +54,11 @@
       <item value="corba" />
       <item value="multiply" />
       <item value="restore" />
-      <item value="unexpected" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3970" />
-        <entry key="ENGLISH" value="3971" />
+        <entry key="CHINESE" value="3971" />
+        <entry key="ENGLISH" value="3972" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
@@ -100,7 +100,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1664157087793" />
+    <option name="lastTrimTime" value="1665196009693" />
   </component>
   <component name="Settings">
     <option name="phoneticFontFamily" value="Microsoft YaHei UI" />
@@ -108,6 +108,7 @@
     <option name="showExplanation" value="true" />
     <option name="showWordsOnStartup" value="true" />
     <option name="translateDocumentation" value="true" />
+    <option name="translator" value="YOUDAO" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="6ee9f602675977e8" />
