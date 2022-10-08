@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="redis" />
       <item value="integrity" />
       <item value="long" />
       <item value="Hmac SHA 256" />
@@ -53,7 +54,6 @@
       <item value="scene" />
       <item value="corba" />
       <item value="multiply" />
-      <item value="restore" />
     </histories>
     <option name="languageScores">
       <map>
