@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="NOANCHOR" />
+      <item value="ENDANCHOR" />
+      <item value="PLATE NUMBER" />
+      <item value="PLATE" />
       <item value="param" />
       <item value="mock Boss User" />
       <item value="Boss User Holder" />
@@ -50,15 +54,11 @@
       <item value="common" />
       <item value="frames" />
       <item value="omit" />
-      <item value="ends On Wild Card" />
-      <item value="ends On Double Wild Card" />
-      <item value="operand" />
-      <item value="is Overseas Ip" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3980" />
-        <entry key="ENGLISH" value="3981" />
+        <entry key="CHINESE" value="3984" />
+        <entry key="ENGLISH" value="3985" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
