@@ -4,6 +4,18 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="param" />
+      <item value="mock Boss User" />
+      <item value="Boss User Holder" />
+      <item value="value" />
+      <item value="refund Amt" />
+      <item value="succ Response Result" />
+      <item value="Result Utils" />
+      <item value="true" />
+      <item value="query" />
+      <item value="message" />
+      <item value="refund Order" />
+      <item value="Reactor" />
       <item value="redis" />
       <item value="integrity" />
       <item value="long" />
@@ -35,7 +47,6 @@
       <item value="ng: INSERT INTO RevenueConfirmedDetail(PayChannel,TxnType,UserId,ContractNumber,AcDte,CostAmt,ExpiredAmt,ConfirmedAmt,IsConfirmed,DiscountRate ,UpdateTime) SELECT '0' PayChannel,rccps.TxnType,uav.UserId,rccps.ContractNumber,rccps.AcDte,rccps.TxnAmt,0 ExpiredAmt,rccps.ConfirmAmt,rccps.IsConfirmed,1.0 DiscountRate,rccps.UpdateTime FROM RevenueConfirmedContractProductSummary rccps INNER JOIN UserAddValue uav ON uav.OrderNo =rccps.ContractNumber AND uav.IsDeleted = FALSE LEFT JOIN RevenueConfirmedDetail rcd ON rccps.ContractNumber = rcd.ContractNumber AND rcd.IsDeleted = FALSE WHERE rccps.IsDeleted = FALSE AND rccps.OweFlag = 1 AND rcd.ContractNumber IS NULL AND rccps.UpdateTime &gt;= ? AND rccps.UpdateTime &lt; ? 20220826_17:18:18.262 [http-nio-8400-exec-6] [900097][edda820353ce4d0186af1e284516957c ] ==&gt; Parameters: 2022-08-26(Date), 2022-08-27(Date) 20220826_17:18:18.291 [http-nio-8400-exec-6] [900126][edda820353ce4d0186af1e284516957c ] &lt;== Updates: 0" />
       <item value="delete User Biz Api" />
       <item value="add User Biz Api" />
-      <item value="Reactor" />
       <item value="common" />
       <item value="frames" />
       <item value="omit" />
@@ -43,28 +54,17 @@
       <item value="ends On Double Wild Card" />
       <item value="operand" />
       <item value="is Overseas Ip" />
-      <item value="negate" />
-      <item value="daily Revenue Confirmed" />
-      <item value="stream" />
-      <item value="class" />
-      <item value="Override" />
-      <item value="fallthrough" />
-      <item value="Charge" />
-      <item value="recharge" />
-      <item value="scene" />
-      <item value="corba" />
-      <item value="multiply" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3971" />
-        <entry key="ENGLISH" value="3972" />
+        <entry key="CHINESE" value="3980" />
+        <entry key="ENGLISH" value="3981" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
         <entry key="POLISH" value="4" />
         <entry key="DANISH" value="3" />
-        <entry key="GERMAN" value="10" />
+        <entry key="GERMAN" value="11" />
         <entry key="FRENCH" value="11" />
         <entry key="FILIPINO" value="4" />
         <entry key="FINNISH" value="5" />
@@ -103,12 +103,16 @@
     <option name="lastTrimTime" value="1665196009693" />
   </component>
   <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20221009001379843" />
+      </app-key>
+    </option>
     <option name="phoneticFontFamily" value="Microsoft YaHei UI" />
     <option name="primaryFontFamily" value="Microsoft YaHei UI" />
     <option name="showExplanation" value="true" />
     <option name="showWordsOnStartup" value="true" />
     <option name="translateDocumentation" value="true" />
-    <option name="translator" value="YOUDAO" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="6ee9f602675977e8" />
