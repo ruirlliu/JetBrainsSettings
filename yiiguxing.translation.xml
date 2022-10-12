@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="add Correction Confirmed Amt" />
+      <item value="add Amend Confirmed Amt" />
       <item value="cancel Auth" />
       <item value="specific User Id" />
       <item value="Result Utils" />
@@ -52,13 +54,11 @@
       <item value="urge" />
       <item value="hint" />
       <item value="quote" />
-      <item value="minus" />
-      <item value="process Time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3992" />
-        <entry key="ENGLISH" value="3993" />
+        <entry key="CHINESE" value="3994" />
+        <entry key="ENGLISH" value="3995" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
