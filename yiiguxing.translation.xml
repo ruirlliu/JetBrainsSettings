@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="user Add Value" />
       <item value="stream" />
       <item value="判断" />
       <item value="order No" />
@@ -53,12 +54,11 @@
       <item value="Reactor" />
       <item value="redis" />
       <item value="integrity" />
-      <item value="long" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4019" />
-        <entry key="ENGLISH" value="4020" />
+        <entry key="CHINESE" value="4020" />
+        <entry key="ENGLISH" value="4021" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
