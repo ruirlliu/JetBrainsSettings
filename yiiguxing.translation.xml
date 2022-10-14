@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Method" />
+      <item value="Authorization" />
+      <item value="current" />
+      <item value="login" />
       <item value="user Add Value" />
       <item value="stream" />
       <item value="判断" />
@@ -50,15 +54,11 @@
       <item value="true" />
       <item value="query" />
       <item value="message" />
-      <item value="refund Order" />
-      <item value="Reactor" />
-      <item value="redis" />
-      <item value="integrity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4020" />
-        <entry key="ENGLISH" value="4021" />
+        <entry key="CHINESE" value="4025" />
+        <entry key="ENGLISH" value="4026" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
