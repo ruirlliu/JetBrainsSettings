@@ -114,6 +114,7 @@
     <option name="showExplanation" value="true" />
     <option name="showWordsOnStartup" value="true" />
     <option name="translateDocumentation" value="true" />
+    <option name="translator" value="BAIDU" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="6ee9f602675977e8" />
