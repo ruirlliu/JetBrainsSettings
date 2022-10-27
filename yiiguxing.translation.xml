@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="791" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="pertaining" />
       <item value="list Abnormal Order" />
       <item value="and" />
       <item value="Method" />
@@ -53,12 +54,11 @@
       <item value="value" />
       <item value="refund Amt" />
       <item value="succ Response Result" />
-      <item value="true" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4027" />
-        <entry key="ENGLISH" value="4028" />
+        <entry key="CHINESE" value="4028" />
+        <entry key="ENGLISH" value="4029" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="2" />
         <entry key="ICELANDIC" value="1" />
